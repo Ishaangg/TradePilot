@@ -1,0 +1,58 @@
+services:
+  freight-agent:
+    build:
+      context: .
+    command: uvicorn freight_agent.agent:a2a_app --host 0.0.0.0 --port 8001
+    environment:
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:?Set GOOGLE_API_KEY in the host environment or .env}
+    ports:
+      - "8001:8001"
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - >-
+          import urllib.request;
+          urllib.request.urlopen('http://127.0.0.1:8001/.well-known/agent-card.json')
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+
+  compliance-agent:
+    build:
+      context: .
+    command: uvicorn compliance_agent.agent:a2a_app --host 0.0.0.0 --port 8002
+    environment:
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:?Set GOOGLE_API_KEY in the host environment or .env}
+    ports:
+      - "8002:8002"
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - >-
+          import urllib.request;
+          urllib.request.urlopen('http://127.0.0.1:8002/.well-known/agent-card.json')
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+
+  coordinator:
+    build:
+      context: .
+    command: adk web app --host 0.0.0.0 --port 8000
+    environment:
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:?Set GOOGLE_API_KEY in the host environment or .env}
+      FREIGHT_AGENT_CARD: http://freight-agent:8001/.well-known/agent-card.json
+      COMPLIANCE_AGENT_CARD: http://compliance-agent:8002/.well-known/agent-card.json
+    depends_on:
+      freight-agent:
+        condition: service_healthy
+      compliance-agent:
+        condition: service_healthy
+    ports:
+      - "8000:8000"

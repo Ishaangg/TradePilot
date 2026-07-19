@@ -76,5 +76,6 @@ root_agent = Agent(
 
 a2a_app = to_a2a(
     root_agent,
+    host="0.0.0.0",
     port=8002,
 )

@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 from google.adk.agents import Agent
@@ -42,7 +43,10 @@ freight_quote_agent = RemoteA2aAgent(
         "freight trade-offs."
     ),
     agent_card=(
-        "http://127.0.0.1:8001/.well-known/agent-card.json"
+        os.getenv(
+            "FREIGHT_AGENT_CARD",
+            "http://127.0.0.1:8001/.well-known/agent-card.json",
+        )
     ),
     use_legacy=False,
 )
@@ -56,7 +60,10 @@ apparel_compliance_agent = RemoteA2aAgent(
         "laboratory reports, documents, and regulatory requirements."
     ),
     agent_card=(
-        "http://127.0.0.1:8002/.well-known/agent-card.json"
+        os.getenv(
+            "COMPLIANCE_AGENT_CARD",
+            "http://127.0.0.1:8002/.well-known/agent-card.json",
+        )
     ),
     use_legacy=False,
 )

@@ -140,6 +140,30 @@ Never commit API keys. Rotate a key immediately if it has been committed or shar
 
 ## Running the agents
 
+### Docker Compose
+
+Docker Compose runs the two A2A specialist services and the coordinator together.
+Set `GOOGLE_API_KEY` in the host environment or in a root `.env` file, then run:
+
+```powershell
+docker compose up --build
+```
+
+The services are available at:
+
+- Coordinator ADK UI: `http://localhost:8000`
+- Freight agent card: `http://localhost:8001/.well-known/agent-card.json`
+- Compliance agent card: `http://localhost:8002/.well-known/agent-card.json`
+
+Stop the stack with:
+
+```powershell
+docker compose down
+```
+
+The Compose configuration uses service names for internal A2A communication, so the
+coordinator can reach `freight-agent` and `compliance-agent` inside the Docker network.
+
 Start the specialist A2A services in separate terminals from the repository root:
 
 ```powershell

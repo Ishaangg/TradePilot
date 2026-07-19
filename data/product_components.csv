@@ -1,0 +1,176 @@
+﻿component_id,sku,component_type,material_description,colour,supplier_id,supplier_material_code,weight_percent,direct_skin_contact,likely_prolonged_skin_contact,animal_origin,plasticised,dyed_or_printed
+CMP-0001-1,EU-APP-0001,Shell fabric,Cotton/polyester jersey,Black,SUP-0006,MAT-2351,60,Yes,Yes,No,No,Yes
+CMP-0001-2,EU-APP-0001,Secondary fibre,Polyester,Black,SUP-0025,MAT-1856,40,Yes,Yes,No,No,Yes
+CMP-0002-1,EU-APP-0002,Shell fabric,Viscose/linen blend,Blue,SUP-0014,MAT-6683,70,Yes,Yes,No,No,Yes
+CMP-0002-2,EU-APP-0002,Secondary fibre,Linen,Blue,SUP-0022,MAT-7676,30,Yes,Yes,No,No,Yes
+CMP-0002-3,EU-APP-0002,Rivet,Stainless steel,Blue,SUP-0008,TRIM-7273,,No,No,No,No,No
+CMP-0002-4,EU-APP-0002,Print/Badge,Soft PVC print,Blue,SUP-0008,PVC-7031,,Yes,Yes,No,Yes,Yes
+CMP-0003-1,EU-APP-0003,Shell fabric,Cotton,White,SUP-0016,MAT-3166,100,Yes,Yes,No,No,Yes
+CMP-0004-1,EU-APP-0004,Shell fabric,Cotton,Black,SUP-0007,MAT-6559,100,Yes,Yes,No,No,Yes
+CMP-0004-2,EU-APP-0004,Zip,Nickel-plated brass,Black,SUP-0007,TRIM-9678,,Yes,No,No,No,No
+CMP-0005-1,EU-APP-0005,Shell fabric,Cotton,Blue,SUP-0013,MAT-9101,100,Yes,Yes,No,No,Yes
+CMP-0006-1,EU-APP-0006,Shell fabric,Cotton,Black,SUP-0012,MAT-6276,100,Yes,Yes,No,No,Yes
+CMP-0007-1,EU-APP-0007,Shell fabric,Cotton/polyester jersey,White,SUP-0003,MAT-6482,60,Yes,Yes,No,No,Yes
+CMP-0007-2,EU-APP-0007,Secondary fibre,Polyester,White,SUP-0003,MAT-8344,40,Yes,Yes,No,No,Yes
+CMP-0008-1,EU-APP-0008,Shell fabric,Cotton/polyester jersey,Black,SUP-0025,MAT-7933,60,Yes,Yes,No,No,Yes
+CMP-0008-2,EU-APP-0008,Secondary fibre,Polyester,Black,SUP-0012,MAT-6486,40,Yes,Yes,No,No,Yes
+CMP-0008-3,EU-APP-0008,Zip,Stainless steel,Black,SUP-0008,TRIM-4292,,Yes,No,No,No,No
+CMP-0009-1,EU-APP-0009,Shell fabric,Cotton/polyester jersey,Grey,SUP-0022,MAT-6920,60,Yes,Yes,No,No,Yes
+CMP-0009-2,EU-APP-0009,Secondary fibre,Polyester,Grey,SUP-0001,MAT-5845,40,Yes,Yes,No,No,Yes
+CMP-0009-3,EU-APP-0009,Print/Badge,Soft PVC print,Grey,SUP-0003,PVC-2788,,Yes,Yes,No,Yes,Yes
+CMP-0010-1,EU-APP-0010,Shell fabric,Cotton/polyester jersey,Pink,SUP-0013,MAT-3902,60,Yes,Yes,No,No,Yes
+CMP-0010-2,EU-APP-0010,Secondary fibre,Polyester,Pink,SUP-0011,MAT-3884,40,Yes,Yes,No,No,Yes
+CMP-0011-1,EU-APP-0011,Shell fabric,Cotton,Olive,SUP-0015,MAT-9380,100,Yes,Yes,No,No,Yes
+CMP-0011-2,EU-APP-0011,Button,Painted alloy,Olive,SUP-0014,TRIM-9248,,Yes,No,No,No,No
+CMP-0012-1,EU-APP-0012,Shell fabric,Cotton/polyester jersey,Black,SUP-0004,MAT-8262,60,Yes,Yes,No,No,Yes
+CMP-0012-2,EU-APP-0012,Secondary fibre,Polyester,Black,SUP-0018,MAT-2938,40,Yes,Yes,No,No,Yes
+CMP-0012-3,EU-APP-0012,Print/Badge,Soft PVC print,Black,SUP-0002,PVC-5599,,Yes,Yes,No,Yes,Yes
+CMP-0013-1,EU-APP-0013,Shell fabric,Polyester,Beige,SUP-0010,MAT-2624,100,Yes,Yes,No,No,Yes
+CMP-0014-1,EU-APP-0014,Shell fabric,Viscose/linen blend,Red,SUP-0006,MAT-6578,70,Yes,Yes,No,No,Yes
+CMP-0014-2,EU-APP-0014,Secondary fibre,Linen,Red,SUP-0004,MAT-1682,30,Yes,Yes,No,No,Yes
+CMP-0014-3,EU-APP-0014,Button,Stainless steel,Red,SUP-0007,TRIM-2602,,Yes,Yes,No,No,No
+CMP-0015-1,EU-APP-0015,Shell fabric,Cotton,Beige,SUP-0023,MAT-5904,100,Yes,Yes,No,No,Yes
+CMP-0016-1,EU-APP-0016,Shell fabric,Cotton/elastane fleece,Olive,SUP-0020,MAT-9176,95,Yes,Yes,No,No,Yes
+CMP-0016-2,EU-APP-0016,Secondary fibre,Elastane,Olive,SUP-0005,MAT-4301,5,Yes,Yes,No,No,Yes
+CMP-0017-1,EU-APP-0017,Shell fabric,Cotton,Black,SUP-0002,MAT-5404,100,Yes,Yes,No,No,Yes
+CMP-0017-2,EU-APP-0017,Snap,Nickel-plated brass,Black,SUP-0023,TRIM-2370,,No,Yes,No,No,No
+CMP-0017-3,EU-APP-0017,Patch,Genuine leather,Brown,SUP-0015,LEA-1956,,Yes,Yes,Yes,No,No
+CMP-0018-1,EU-APP-0018,Shell fabric,Cotton/elastane fleece,Pink,SUP-0004,MAT-4705,95,Yes,Yes,No,No,Yes
+CMP-0018-2,EU-APP-0018,Secondary fibre,Elastane,Pink,SUP-0002,MAT-8334,5,Yes,Yes,No,No,Yes
+CMP-0019-1,EU-APP-0019,Shell fabric,Cotton,Olive,SUP-0007,MAT-6262,100,Yes,Yes,No,No,Yes
+CMP-0020-1,EU-APP-0020,Shell fabric,Cotton,Beige,SUP-0015,MAT-7546,100,Yes,Yes,No,No,Yes
+CMP-0021-1,EU-APP-0021,Shell fabric,Cotton,Red,SUP-0025,MAT-8808,100,Yes,Yes,No,No,Yes
+CMP-0021-2,EU-APP-0021,Snap,Nickel-plated brass,Red,SUP-0012,TRIM-3667,,Yes,No,No,No,No
+CMP-0022-1,EU-APP-0022,Shell fabric,Cotton,Blue,SUP-0004,MAT-4651,100,Yes,Yes,No,No,Yes
+CMP-0022-2,EU-APP-0022,Button,Nickel-plated brass,Blue,SUP-0012,TRIM-9381,,Yes,No,No,No,No
+CMP-0022-3,EU-APP-0022,Print/Badge,Soft PVC print,Blue,SUP-0016,PVC-2095,,Yes,Yes,No,Yes,Yes
+CMP-0023-1,EU-APP-0023,Shell fabric,Cotton/elastane fleece,Beige,SUP-0009,MAT-2938,95,Yes,Yes,No,No,Yes
+CMP-0023-2,EU-APP-0023,Secondary fibre,Elastane,Beige,SUP-0012,MAT-5129,5,Yes,Yes,No,No,Yes
+CMP-0024-1,EU-APP-0024,Shell fabric,Cotton,Navy,SUP-0014,MAT-8125,100,Yes,Yes,No,No,Yes
+CMP-0024-2,EU-APP-0024,Patch,Genuine leather,Brown,SUP-0014,LEA-6246,,Yes,Yes,Yes,No,No
+CMP-0025-1,EU-APP-0025,Shell fabric,Polyester,White,SUP-0013,MAT-8827,100,Yes,Yes,No,No,Yes
+CMP-0025-2,EU-APP-0025,Button,Nickel-plated brass,White,SUP-0004,TRIM-3295,,No,Yes,No,No,No
+CMP-0026-1,EU-APP-0026,Shell fabric,Cotton/polyester jersey,Beige,SUP-0016,MAT-5086,60,Yes,Yes,No,No,Yes
+CMP-0026-2,EU-APP-0026,Secondary fibre,Polyester,Beige,SUP-0001,MAT-8044,40,Yes,Yes,No,No,Yes
+CMP-0026-3,EU-APP-0026,Zip,Painted alloy,Beige,SUP-0025,TRIM-7984,,No,Yes,No,No,No
+CMP-0027-1,EU-APP-0027,Shell fabric,Polyester,White,SUP-0004,MAT-1619,100,Yes,Yes,No,No,Yes
+CMP-0027-2,EU-APP-0027,Rivet,Stainless steel,White,SUP-0015,TRIM-1716,,No,Yes,No,No,No
+CMP-0028-1,EU-APP-0028,Shell fabric,Viscose/linen blend,Grey,SUP-0022,MAT-3087,70,Yes,Yes,No,No,Yes
+CMP-0028-2,EU-APP-0028,Secondary fibre,Linen,Grey,SUP-0009,MAT-5746,30,Yes,Yes,No,No,Yes
+CMP-0028-3,EU-APP-0028,Snap,Stainless steel,Grey,SUP-0020,TRIM-4870,,Yes,No,No,No,No
+CMP-0028-4,EU-APP-0028,Print/Badge,Soft PVC print,Grey,SUP-0012,PVC-8572,,Yes,Yes,No,Yes,Yes
+CMP-0029-1,EU-APP-0029,Shell fabric,Cotton/polyester jersey,Pink,SUP-0010,MAT-7395,60,Yes,Yes,No,No,Yes
+CMP-0029-2,EU-APP-0029,Secondary fibre,Polyester,Pink,SUP-0014,MAT-6718,40,Yes,Yes,No,No,Yes
+CMP-0030-1,EU-APP-0030,Shell fabric,Viscose/linen blend,Olive,SUP-0002,MAT-3322,70,Yes,Yes,No,No,Yes
+CMP-0030-2,EU-APP-0030,Secondary fibre,Linen,Olive,SUP-0018,MAT-5392,30,Yes,Yes,No,No,Yes
+CMP-0030-3,EU-APP-0030,Rivet,Nickel-plated brass,Olive,SUP-0015,TRIM-5499,,Yes,Yes,No,No,No
+CMP-0030-4,EU-APP-0030,Print/Badge,Soft PVC print,Olive,SUP-0025,PVC-7996,,Yes,Yes,No,Yes,Yes
+CMP-0031-1,EU-APP-0031,Shell fabric,Cotton/polyester jersey,Navy,SUP-0025,MAT-3306,60,Yes,Yes,No,No,Yes
+CMP-0031-2,EU-APP-0031,Secondary fibre,Polyester,Navy,SUP-0001,MAT-7520,40,Yes,Yes,No,No,Yes
+CMP-0032-1,EU-APP-0032,Shell fabric,Cotton/elastane fleece,White,SUP-0002,MAT-6203,95,Yes,Yes,No,No,Yes
+CMP-0032-2,EU-APP-0032,Secondary fibre,Elastane,White,SUP-0017,MAT-1596,5,Yes,Yes,No,No,Yes
+CMP-0033-1,EU-APP-0033,Shell fabric,Cotton,Beige,SUP-0018,MAT-3073,100,Yes,Yes,No,No,Yes
+CMP-0033-2,EU-APP-0033,Patch,Genuine leather,Brown,SUP-0011,LEA-9290,,Yes,Yes,Yes,No,No
+CMP-0034-1,EU-APP-0034,Shell fabric,Viscose/linen blend,White,SUP-0012,MAT-1249,70,Yes,Yes,No,No,Yes
+CMP-0034-2,EU-APP-0034,Secondary fibre,Linen,White,SUP-0015,MAT-7290,30,Yes,Yes,No,No,Yes
+CMP-0035-1,EU-APP-0035,Shell fabric,Viscose/linen blend,Grey,SUP-0008,MAT-3830,70,Yes,Yes,No,No,Yes
+CMP-0035-2,EU-APP-0035,Secondary fibre,Linen,Grey,SUP-0020,MAT-5766,30,Yes,Yes,No,No,Yes
+CMP-0036-1,EU-APP-0036,Shell fabric,Cotton/polyester jersey,White,SUP-0013,MAT-6428,60,Yes,Yes,No,No,Yes
+CMP-0036-2,EU-APP-0036,Secondary fibre,Polyester,White,SUP-0015,MAT-4466,40,Yes,Yes,No,No,Yes
+CMP-0036-3,EU-APP-0036,Zip,Painted alloy,White,SUP-0012,TRIM-1292,,Yes,No,No,No,No
+CMP-0037-1,EU-APP-0037,Shell fabric,Cotton,Blue,SUP-0022,MAT-6137,100,Yes,Yes,No,No,Yes
+CMP-0037-2,EU-APP-0037,Zip,Painted alloy,Blue,SUP-0012,TRIM-1851,,No,Yes,No,No,No
+CMP-0038-1,EU-APP-0038,Shell fabric,Polyester,Beige,SUP-0025,MAT-9812,100,Yes,Yes,No,No,Yes
+CMP-0038-2,EU-APP-0038,Rivet,Nickel-plated brass,Beige,SUP-0006,TRIM-7534,,Yes,Yes,No,No,No
+CMP-0039-1,EU-APP-0039,Shell fabric,Cotton,Navy,SUP-0003,MAT-4280,100,Yes,Yes,No,No,Yes
+CMP-0040-1,EU-APP-0040,Shell fabric,Cotton/elastane fleece,Olive,SUP-0002,MAT-3894,95,Yes,Yes,No,No,Yes
+CMP-0040-2,EU-APP-0040,Secondary fibre,Elastane,Olive,SUP-0023,MAT-3727,5,Yes,Yes,No,No,Yes
+CMP-0040-3,EU-APP-0040,Snap,Stainless steel,Olive,SUP-0017,TRIM-6295,,No,No,No,No,No
+CMP-0041-1,EU-APP-0041,Shell fabric,Viscose/linen blend,Olive,SUP-0021,MAT-1627,70,Yes,Yes,No,No,Yes
+CMP-0041-2,EU-APP-0041,Secondary fibre,Linen,Olive,SUP-0011,MAT-4721,30,Yes,Yes,No,No,Yes
+CMP-0042-1,EU-APP-0042,Shell fabric,Viscose/linen blend,Beige,SUP-0009,MAT-9409,70,Yes,Yes,No,No,Yes
+CMP-0042-2,EU-APP-0042,Secondary fibre,Linen,Beige,SUP-0019,MAT-2654,30,Yes,Yes,No,No,Yes
+CMP-0043-1,EU-APP-0043,Shell fabric,Cotton,Grey,SUP-0021,MAT-1935,100,Yes,Yes,No,No,Yes
+CMP-0043-2,EU-APP-0043,Print/Badge,Soft PVC print,Grey,SUP-0003,PVC-1754,,Yes,Yes,No,Yes,Yes
+CMP-0044-1,EU-APP-0044,Shell fabric,Cotton/polyester jersey,Black,SUP-0005,MAT-9759,60,Yes,Yes,No,No,Yes
+CMP-0044-2,EU-APP-0044,Secondary fibre,Polyester,Black,SUP-0015,MAT-8849,40,Yes,Yes,No,No,Yes
+CMP-0044-3,EU-APP-0044,Snap,Painted alloy,Black,SUP-0009,TRIM-2722,,Yes,Yes,No,No,No
+CMP-0044-4,EU-APP-0044,Patch,Genuine leather,Brown,SUP-0010,LEA-4175,,Yes,Yes,Yes,No,No
+CMP-0045-1,EU-APP-0045,Shell fabric,Polyester,Navy,SUP-0017,MAT-4076,100,Yes,Yes,No,No,Yes
+CMP-0045-2,EU-APP-0045,Button,Nickel-plated brass,Navy,SUP-0022,TRIM-3469,,Yes,No,No,No,No
+CMP-0045-3,EU-APP-0045,Print/Badge,Soft PVC print,Navy,SUP-0025,PVC-9716,,Yes,Yes,No,Yes,Yes
+CMP-0046-1,EU-APP-0046,Shell fabric,Cotton/elastane fleece,Black,SUP-0016,MAT-6970,95,Yes,Yes,No,No,Yes
+CMP-0046-2,EU-APP-0046,Secondary fibre,Elastane,Black,SUP-0009,MAT-7441,5,Yes,Yes,No,No,Yes
+CMP-0047-1,EU-APP-0047,Shell fabric,Cotton/elastane fleece,Black,SUP-0005,MAT-1694,95,Yes,Yes,No,No,Yes
+CMP-0047-2,EU-APP-0047,Secondary fibre,Elastane,Black,SUP-0010,MAT-2735,5,Yes,Yes,No,No,Yes
+CMP-0047-3,EU-APP-0047,Zip,Stainless steel,Black,SUP-0020,TRIM-4409,,No,No,No,No,No
+CMP-0048-1,EU-APP-0048,Shell fabric,Viscose/linen blend,Grey,SUP-0022,MAT-4814,70,Yes,Yes,No,No,Yes
+CMP-0048-2,EU-APP-0048,Secondary fibre,Linen,Grey,SUP-0006,MAT-4757,30,Yes,Yes,No,No,Yes
+CMP-0049-1,EU-APP-0049,Shell fabric,Cotton,Olive,SUP-0021,MAT-7842,100,Yes,Yes,No,No,Yes
+CMP-0049-2,EU-APP-0049,Zip,Nickel-plated brass,Olive,SUP-0011,TRIM-4386,,No,Yes,No,No,No
+CMP-0050-1,EU-APP-0050,Shell fabric,Viscose/linen blend,Grey,SUP-0001,MAT-9926,70,Yes,Yes,No,No,Yes
+CMP-0050-2,EU-APP-0050,Secondary fibre,Linen,Grey,SUP-0002,MAT-4540,30,Yes,Yes,No,No,Yes
+CMP-0051-1,EU-APP-0051,Shell fabric,Cotton,Grey,SUP-0005,MAT-8411,100,Yes,Yes,No,No,Yes
+CMP-0052-1,EU-APP-0052,Shell fabric,Viscose/linen blend,Black,SUP-0006,MAT-6308,70,Yes,Yes,No,No,Yes
+CMP-0052-2,EU-APP-0052,Secondary fibre,Linen,Black,SUP-0011,MAT-4478,30,Yes,Yes,No,No,Yes
+CMP-0053-1,EU-APP-0053,Shell fabric,Cotton/polyester jersey,Grey,SUP-0001,MAT-2767,60,Yes,Yes,No,No,Yes
+CMP-0053-2,EU-APP-0053,Secondary fibre,Polyester,Grey,SUP-0025,MAT-6374,40,Yes,Yes,No,No,Yes
+CMP-0053-3,EU-APP-0053,Patch,Genuine leather,Brown,SUP-0009,LEA-5349,,Yes,Yes,Yes,No,No
+CMP-0054-1,EU-APP-0054,Shell fabric,Cotton,Blue,SUP-0001,MAT-4504,100,Yes,Yes,No,No,Yes
+CMP-0054-2,EU-APP-0054,Button,Painted alloy,Blue,SUP-0017,TRIM-1664,,No,No,No,No,No
+CMP-0055-1,EU-APP-0055,Shell fabric,Polyester,Navy,SUP-0005,MAT-6579,100,Yes,Yes,No,No,Yes
+CMP-0056-1,EU-APP-0056,Shell fabric,Cotton,Blue,SUP-0009,MAT-4981,100,Yes,Yes,No,No,Yes
+CMP-0056-2,EU-APP-0056,Print/Badge,Soft PVC print,Blue,SUP-0013,PVC-1663,,Yes,Yes,No,Yes,Yes
+CMP-0057-1,EU-APP-0057,Shell fabric,Cotton/polyester jersey,Pink,SUP-0004,MAT-2727,60,Yes,Yes,No,No,Yes
+CMP-0057-2,EU-APP-0057,Secondary fibre,Polyester,Pink,SUP-0002,MAT-5653,40,Yes,Yes,No,No,Yes
+CMP-0057-3,EU-APP-0057,Snap,Stainless steel,Pink,SUP-0002,TRIM-1127,,No,Yes,No,No,No
+CMP-0058-1,EU-APP-0058,Shell fabric,Cotton/polyester jersey,Grey,SUP-0022,MAT-5904,60,Yes,Yes,No,No,Yes
+CMP-0058-2,EU-APP-0058,Secondary fibre,Polyester,Grey,SUP-0021,MAT-2780,40,Yes,Yes,No,No,Yes
+CMP-0059-1,EU-APP-0059,Shell fabric,Polyester,Red,SUP-0006,MAT-5571,100,Yes,Yes,No,No,Yes
+CMP-0059-2,EU-APP-0059,Print/Badge,Soft PVC print,Red,SUP-0019,PVC-5693,,Yes,Yes,No,Yes,Yes
+CMP-0060-1,EU-APP-0060,Shell fabric,Cotton/polyester jersey,Red,SUP-0015,MAT-7829,60,Yes,Yes,No,No,Yes
+CMP-0060-2,EU-APP-0060,Secondary fibre,Polyester,Red,SUP-0018,MAT-9012,40,Yes,Yes,No,No,Yes
+CMP-0061-1,EU-APP-0061,Shell fabric,Polyester,Black,SUP-0008,MAT-1172,100,Yes,Yes,No,No,Yes
+CMP-0062-1,EU-APP-0062,Shell fabric,Polyester,Blue,SUP-0007,MAT-6261,100,Yes,Yes,No,No,Yes
+CMP-0062-2,EU-APP-0062,Print/Badge,Soft PVC print,Blue,SUP-0015,PVC-4640,,Yes,Yes,No,Yes,Yes
+CMP-0063-1,EU-APP-0063,Shell fabric,Cotton/elastane fleece,Red,SUP-0001,MAT-6062,95,Yes,Yes,No,No,Yes
+CMP-0063-2,EU-APP-0063,Secondary fibre,Elastane,Red,SUP-0005,MAT-6281,5,Yes,Yes,No,No,Yes
+CMP-0064-1,EU-APP-0064,Shell fabric,Polyester,Olive,SUP-0003,MAT-1018,100,Yes,Yes,No,No,Yes
+CMP-0065-1,EU-APP-0065,Shell fabric,Viscose/linen blend,White,SUP-0009,MAT-9665,70,Yes,Yes,No,No,Yes
+CMP-0065-2,EU-APP-0065,Secondary fibre,Linen,White,SUP-0015,MAT-4073,30,Yes,Yes,No,No,Yes
+CMP-0066-1,EU-APP-0066,Shell fabric,Cotton/polyester jersey,Black,SUP-0018,MAT-7888,60,Yes,Yes,No,No,Yes
+CMP-0066-2,EU-APP-0066,Secondary fibre,Polyester,Black,SUP-0009,MAT-5386,40,Yes,Yes,No,No,Yes
+CMP-0066-3,EU-APP-0066,Rivet,Stainless steel,Black,SUP-0004,TRIM-7696,,No,No,No,No,No
+CMP-0067-1,EU-APP-0067,Shell fabric,Cotton/elastane fleece,Pink,SUP-0009,MAT-7503,95,Yes,Yes,No,No,Yes
+CMP-0067-2,EU-APP-0067,Secondary fibre,Elastane,Pink,SUP-0013,MAT-6326,5,Yes,Yes,No,No,Yes
+CMP-0067-3,EU-APP-0067,Rivet,Stainless steel,Pink,SUP-0014,TRIM-7265,,Yes,Yes,No,No,No
+CMP-0067-4,EU-APP-0067,Print/Badge,Soft PVC print,Pink,SUP-0017,PVC-3077,,Yes,Yes,No,Yes,Yes
+CMP-0068-1,EU-APP-0068,Shell fabric,Cotton/polyester jersey,Pink,SUP-0016,MAT-5977,60,Yes,Yes,No,No,Yes
+CMP-0068-2,EU-APP-0068,Secondary fibre,Polyester,Pink,SUP-0010,MAT-6291,40,Yes,Yes,No,No,Yes
+CMP-0068-3,EU-APP-0068,Print/Badge,Soft PVC print,Pink,SUP-0015,PVC-6126,,Yes,Yes,No,Yes,Yes
+CMP-0069-1,EU-APP-0069,Shell fabric,Cotton/polyester jersey,Beige,SUP-0002,MAT-4365,60,Yes,Yes,No,No,Yes
+CMP-0069-2,EU-APP-0069,Secondary fibre,Polyester,Beige,SUP-0002,MAT-4939,40,Yes,Yes,No,No,Yes
+CMP-0070-1,EU-APP-0070,Shell fabric,Cotton,Blue,SUP-0022,MAT-7119,100,Yes,Yes,No,No,Yes
+CMP-0070-2,EU-APP-0070,Patch,Genuine leather,Brown,SUP-0015,LEA-8609,,Yes,Yes,Yes,No,No
+CMP-0071-1,EU-APP-0071,Shell fabric,Cotton,White,SUP-0003,MAT-2768,100,Yes,Yes,No,No,Yes
+CMP-0072-1,EU-APP-0072,Shell fabric,Cotton/elastane fleece,Red,SUP-0014,MAT-1882,95,Yes,Yes,No,No,Yes
+CMP-0072-2,EU-APP-0072,Secondary fibre,Elastane,Red,SUP-0006,MAT-9130,5,Yes,Yes,No,No,Yes
+CMP-0073-1,EU-APP-0073,Shell fabric,Cotton/elastane fleece,Beige,SUP-0001,MAT-7696,95,Yes,Yes,No,No,Yes
+CMP-0073-2,EU-APP-0073,Secondary fibre,Elastane,Beige,SUP-0020,MAT-4889,5,Yes,Yes,No,No,Yes
+CMP-0074-1,EU-APP-0074,Shell fabric,Polyester,Navy,SUP-0015,MAT-4019,100,Yes,Yes,No,No,Yes
+CMP-0075-1,EU-APP-0075,Shell fabric,Viscose/linen blend,Pink,SUP-0005,MAT-5611,70,Yes,Yes,No,No,Yes
+CMP-0075-2,EU-APP-0075,Secondary fibre,Linen,Pink,SUP-0023,MAT-5139,30,Yes,Yes,No,No,Yes
+CMP-0075-3,EU-APP-0075,Button,Stainless steel,Pink,SUP-0014,TRIM-4592,,Yes,Yes,No,No,No
+CMP-0076-1,EU-APP-0076,Shell fabric,Cotton/elastane fleece,Blue,SUP-0021,MAT-2836,95,Yes,Yes,No,No,Yes
+CMP-0076-2,EU-APP-0076,Secondary fibre,Elastane,Blue,SUP-0015,MAT-3603,5,Yes,Yes,No,No,Yes
+CMP-0077-1,EU-APP-0077,Shell fabric,Cotton,Pink,SUP-0016,MAT-9576,100,Yes,Yes,No,No,Yes
+CMP-0078-1,EU-APP-0078,Shell fabric,Viscose/linen blend,Olive,SUP-0025,MAT-9843,70,Yes,Yes,No,No,Yes
+CMP-0078-2,EU-APP-0078,Secondary fibre,Linen,Olive,SUP-0001,MAT-2536,30,Yes,Yes,No,No,Yes
+CMP-0078-3,EU-APP-0078,Zip,Stainless steel,Olive,SUP-0018,TRIM-2642,,Yes,Yes,No,No,No
+CMP-0078-4,EU-APP-0078,Print/Badge,Soft PVC print,Olive,SUP-0014,PVC-4094,,Yes,Yes,No,Yes,Yes
+CMP-0079-1,EU-APP-0079,Shell fabric,Viscose/linen blend,Grey,SUP-0011,MAT-9463,70,Yes,Yes,No,No,Yes
+CMP-0079-2,EU-APP-0079,Secondary fibre,Linen,Grey,SUP-0020,MAT-8632,30,Yes,Yes,No,No,Yes
+CMP-0079-3,EU-APP-0079,Snap,Stainless steel,Grey,SUP-0011,TRIM-6164,,Yes,Yes,No,No,No
+CMP-0079-4,EU-APP-0079,Patch,Genuine leather,Brown,SUP-0014,LEA-6580,,Yes,Yes,Yes,No,No
+CMP-0080-1,EU-APP-0080,Shell fabric,Cotton,Navy,SUP-0025,MAT-7919,100,Yes,Yes,No,No,Yes
+CMP-0080-2,EU-APP-0080,Button,Nickel-plated brass,Navy,SUP-0010,TRIM-3509,,No,No,No,No,No

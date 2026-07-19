@@ -1,0 +1,81 @@
+﻿sku,style_code,product_description,construction,garment_category,gender,age_group,fibre_claim_raw,hs6_reference,unit_weight_kg,intended_sales_channel,manufacturer_id,active
+EU-APP-0001,ST-0001,Adult women knitted dress - Black,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.509,Retail stores,EXP-0012,Yes
+EU-APP-0002,ST-0002,Adult men woven jacket - Blue,Woven,Jacket,Men,Adult,70% viscose / 30% linen,620193,0.928,Omnichannel,EXP-0005,Yes
+EU-APP-0003,ST-0003,Child unisex knitted sweatshirt - White,Knitted,Sweatshirt,Unisex,Child,100% cotton,611020,0.401,Retail stores,EXP-0011,Yes
+EU-APP-0004,ST-0004,Adult women woven blouse - Black,Woven,Blouse,Women,Adult,100% cotton,620630,0.262,Retail stores,EXP-0001,Yes
+EU-APP-0005,ST-0005,Adult women woven trousers - Blue,Woven,Trousers,Women,Adult,100% cotton,620462,0.494,Online marketplace,EXP-0002,Yes
+EU-APP-0006,ST-0006,Adult women knitted dress - Black,Knitted,Dress,Women,Adult,100% cotton,610443,0.531,Online marketplace,EXP-0011,Yes
+EU-APP-0007,ST-0007,Child unisex knitted sweatshirt - White,Knitted,Sweatshirt,Unisex,Child,60% cotton / 40% polyester,611020,0.432,Omnichannel,EXP-0012,Yes
+EU-APP-0008,ST-0008,Adult unisex knitted hoodie - Black,Knitted,Hoodie,Unisex,Adult,60% cotton / 40% polyester,611020,0.666,Online marketplace,EXP-0012,Yes
+EU-APP-0009,ST-0009,Adult women knitted dress - Grey,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.52,Retail stores,EXP-0001,Yes
+EU-APP-0010,ST-0010,Child unisex knitted sweatshirt - Pink,Knitted,Sweatshirt,Unisex,Child,60% cotton / 40% polyester,611020,0.468,Wholesale,EXP-0002,Yes
+EU-APP-0011,ST-0011,Adult men woven jacket - Olive,Woven,Jacket,Men,Adult,100% cotton,620193,0.933,Online marketplace,EXP-0001,Yes
+EU-APP-0012,ST-0012,Adult unisex knitted t-shirt - Black,Knitted,T-shirt,Unisex,Adult,60% cotton / 40% polyester,610910,0.207,Wholesale,EXP-0003,Yes
+EU-APP-0013,ST-0013,Adult women knitted dress - Beige,Knitted,Dress,Women,Adult,100% polyester,610443,0.509,Wholesale,EXP-0005,Yes
+EU-APP-0014,ST-0014,Adult men woven shirt - Red,Woven,Shirt,Men,Adult,70% viscose / 30% linen,620520,0.297,Omnichannel,EXP-0012,Yes
+EU-APP-0015,ST-0015,Adult women knitted dress - Beige,Knitted,Dress,Women,Adult,100% cotton,610443,0.514,Online marketplace,EXP-0001,Yes
+EU-APP-0016,ST-0016,Adult unisex knitted t-shirt - Olive,Knitted,T-shirt,Unisex,Adult,95% cotton / 5% elastane,610910,0.201,Retail stores,EXP-0012,Yes
+EU-APP-0017,ST-0017,Adult men woven jacket - Black,Woven,Jacket,Men,Adult,100% cotton,620193,0.872,Retail stores,EXP-0010,Yes
+EU-APP-0018,ST-0018,Adult unisex knitted t-shirt - Pink,Knitted,T-shirt,Unisex,Adult,95% cotton / 5% elastane,610910,0.213,Omnichannel,EXP-0002,Yes
+EU-APP-0019,ST-0019,Adult unisex knitted t-shirt - Olive,Knitted,T-shirt,Unisex,Adult,100% cotton,610910,0.2,Online marketplace,EXP-0004,Yes
+EU-APP-0020,ST-0020,Adult unisex knitted hoodie - Beige,Knitted,Hoodie,Unisex,Adult,100% cotton,611020,0.737,Omnichannel,EXP-0012,Yes
+EU-APP-0021,ST-0021,Adult unisex knitted hoodie - Red,Knitted,Hoodie,Unisex,Adult,100% cotton,611020,0.692,Wholesale,EXP-0010,Yes
+EU-APP-0022,ST-0022,Adult women woven blouse - Blue,Woven,Blouse,Women,Adult,100% cotton,620630,0.287,Online marketplace,EXP-0006,Yes
+EU-APP-0023,ST-0023,Adult unisex knitted t-shirt - Beige,Knitted,T-shirt,Unisex,Adult,95% cotton / 5% elastane,610910,0.223,Online marketplace,EXP-0006,Yes
+EU-APP-0024,ST-0024,Adult unisex knitted t-shirt - Navy,Knitted,T-shirt,Unisex,Adult,100% cotton,610910,0.235,Retail stores,EXP-0009,Yes
+EU-APP-0025,ST-0025,Adult men woven jacket - White,Woven,Jacket,Men,Adult,100% polyester,620193,0.854,Wholesale,EXP-0003,Yes
+EU-APP-0026,ST-0026,Adult women woven blouse - Beige,Woven,Blouse,Women,Adult,60% cotton / 40% polyester,620630,0.266,Omnichannel,EXP-0004,Yes
+EU-APP-0027,ST-0027,Adult men woven shirt - White,Woven,Shirt,Men,Adult,100% polyester,620520,0.319,Online marketplace,EXP-0001,Yes
+EU-APP-0028,ST-0028,Adult men woven shirt - Grey,Woven,Shirt,Men,Adult,70% viscose / 30% linen,620520,0.33,Retail stores,EXP-0007,Yes
+EU-APP-0029,ST-0029,Adult unisex knitted t-shirt - Pink,Knitted,T-shirt,Unisex,Adult,60% cotton / 40% polyester,610910,0.214,Retail stores,EXP-0009,Yes
+EU-APP-0030,ST-0030,Adult men woven shirt - Olive,Woven,Shirt,Men,Adult,70% viscose / 30% linen,620520,0.289,Online marketplace,EXP-0012,Yes
+EU-APP-0031,ST-0031,Adult women knitted dress - Navy,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.478,Online marketplace,EXP-0010,Yes
+EU-APP-0032,ST-0032,Adult women knitted dress - White,Knitted,Dress,Women,Adult,95% cotton / 5% elastane,610443,0.544,Retail stores,EXP-0012,Yes
+EU-APP-0033,ST-0033,Adult unisex knitted hoodie - Beige,Knitted,Hoodie,Unisex,Adult,100% cotton,611020,0.688,Wholesale,EXP-0002,Yes
+EU-APP-0034,ST-0034,Adult women woven trousers - White,Woven,Trousers,Women,Adult,70% viscose / 30% linen,620462,0.582,Retail stores,EXP-0007,Yes
+EU-APP-0035,ST-0035,Adult women woven blouse - Grey,Woven,Blouse,Women,Adult,70% viscose / 30% linen,620630,0.274,Online marketplace,EXP-0009,Yes
+EU-APP-0036,ST-0036,Adult women woven trousers - White,Woven,Trousers,Women,Adult,60% cotton / 40% polyester,620462,0.553,Retail stores,EXP-0003,Yes
+EU-APP-0037,ST-0037,Adult men woven shirt - Blue,Woven,Shirt,Men,Adult,100% cotton,620520,0.32,Omnichannel,EXP-0001,Yes
+EU-APP-0038,ST-0038,Adult unisex knitted hoodie - Beige,Knitted,Hoodie,Unisex,Adult,100% polyester,611020,0.687,Online marketplace,EXP-0003,Yes
+EU-APP-0039,ST-0039,Adult women woven trousers - Navy,Woven,Trousers,Women,Adult,100% cotton,620462,0.552,Retail stores,EXP-0005,Yes
+EU-APP-0040,ST-0040,Adult unisex knitted hoodie - Olive,Knitted,Hoodie,Unisex,Adult,95% cotton / 5% elastane,611020,0.764,Wholesale,EXP-0010,Yes
+EU-APP-0041,ST-0041,Adult unisex knitted t-shirt - Olive,Knitted,T-shirt,Unisex,Adult,70% viscose / 30% linen,610910,0.223,Wholesale,EXP-0012,Yes
+EU-APP-0042,ST-0042,Adult women woven blouse - Beige,Woven,Blouse,Women,Adult,70% viscose / 30% linen,620630,0.256,Omnichannel,EXP-0007,Yes
+EU-APP-0043,ST-0043,Child unisex knitted sweatshirt - Grey,Knitted,Sweatshirt,Unisex,Child,100% cotton,611020,0.437,Online marketplace,EXP-0006,Yes
+EU-APP-0044,ST-0044,Adult men woven jacket - Black,Woven,Jacket,Men,Adult,60% cotton / 40% polyester,620193,0.93,Online marketplace,EXP-0004,Yes
+EU-APP-0045,ST-0045,Adult women woven blouse - Navy,Woven,Blouse,Women,Adult,100% polyester,620630,0.274,Retail stores,EXP-0005,Yes
+EU-APP-0046,ST-0046,Adult unisex knitted t-shirt - Black,Knitted,T-shirt,Unisex,Adult,95% cotton / 5% elastane,610910,0.231,Wholesale,EXP-0012,Yes
+EU-APP-0047,ST-0047,Adult women woven trousers - Black,Woven,Trousers,Women,Adult,95% cotton / 5% elastane,620462,0.507,Wholesale,EXP-0005,Yes
+EU-APP-0048,ST-0048,Adult men woven jacket - Grey,Woven,Jacket,Men,Adult,70% viscose / 30% linen,620193,0.908,Retail stores,EXP-0005,Yes
+EU-APP-0049,ST-0049,Adult men woven shirt - Olive,Woven,Shirt,Men,Adult,100% cotton,620520,0.346,Omnichannel,EXP-0006,Yes
+EU-APP-0050,ST-0050,Adult men woven jacket - Grey,Woven,Jacket,Men,Adult,70% viscose / 30% linen,620193,0.816,Omnichannel,EXP-0009,Yes
+EU-APP-0051,ST-0051,Adult unisex knitted t-shirt - Grey,Knitted,T-shirt,Unisex,Adult,100% cotton,610910,0.218,Wholesale,EXP-0006,Yes
+EU-APP-0052,ST-0052,Adult unisex knitted t-shirt - Black,Knitted,T-shirt,Unisex,Adult,70% viscose / 30% linen,610910,0.201,Retail stores,EXP-0007,Yes
+EU-APP-0053,ST-0053,Adult unisex knitted hoodie - Grey,Knitted,Hoodie,Unisex,Adult,60% cotton / 40% polyester,611020,0.722,Omnichannel,EXP-0010,Yes
+EU-APP-0054,ST-0054,Adult men woven jacket - Blue,Woven,Jacket,Men,Adult,100% cotton,620193,0.969,Online marketplace,EXP-0011,Yes
+EU-APP-0055,ST-0055,Child unisex knitted sweatshirt - Navy,Knitted,Sweatshirt,Unisex,Child,100% polyester,611020,0.474,Retail stores,EXP-0010,Yes
+EU-APP-0056,ST-0056,Adult unisex knitted t-shirt - Blue,Knitted,T-shirt,Unisex,Adult,100% cotton,610910,0.212,Retail stores,EXP-0003,Yes
+EU-APP-0057,ST-0057,Adult unisex knitted hoodie - Pink,Knitted,Hoodie,Unisex,Adult,60% cotton / 40% polyester,611020,0.795,Online marketplace,EXP-0010,Yes
+EU-APP-0058,ST-0058,Adult women knitted dress - Grey,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.484,Online marketplace,EXP-0004,Yes
+EU-APP-0059,ST-0059,Adult women woven blouse - Red,Woven,Blouse,Women,Adult,100% polyester,620630,0.252,Online marketplace,EXP-0004,Yes
+EU-APP-0060,ST-0060,Adult men woven shirt - Red,Woven,Shirt,Men,Adult,60% cotton / 40% polyester,620520,0.31,Wholesale,EXP-0002,Yes
+EU-APP-0061,ST-0061,Adult unisex knitted hoodie - Black,Knitted,Hoodie,Unisex,Adult,100% polyester,611020,0.67,Wholesale,EXP-0003,Yes
+EU-APP-0062,ST-0062,Adult unisex knitted t-shirt - Blue,Knitted,T-shirt,Unisex,Adult,100% polyester,610910,0.216,Online marketplace,EXP-0004,Yes
+EU-APP-0063,ST-0063,Adult men woven jacket - Red,Woven,Jacket,Men,Adult,95% cotton / 5% elastane,620193,0.896,Wholesale,EXP-0002,Yes
+EU-APP-0064,ST-0064,Child unisex knitted sweatshirt - Olive,Knitted,Sweatshirt,Unisex,Child,100% polyester,611020,0.409,Omnichannel,EXP-0010,Yes
+EU-APP-0065,ST-0065,Adult women woven trousers - White,Woven,Trousers,Women,Adult,70% viscose / 30% linen,620462,0.564,Online marketplace,EXP-0004,Yes
+EU-APP-0066,ST-0066,Adult men woven jacket - Black,Woven,Jacket,Men,Adult,60% cotton / 40% polyester,620193,0.85,Omnichannel,EXP-0003,Yes
+EU-APP-0067,ST-0067,Adult women woven trousers - Pink,Woven,Trousers,Women,Adult,95% cotton / 5% elastane,620462,0.538,Omnichannel,EXP-0010,Yes
+EU-APP-0068,ST-0068,Adult women knitted dress - Pink,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.476,Omnichannel,EXP-0008,Yes
+EU-APP-0069,ST-0069,Adult women knitted dress - Beige,Knitted,Dress,Women,Adult,60% cotton / 40% polyester,610443,0.468,Retail stores,EXP-0005,Yes
+EU-APP-0070,ST-0070,Child unisex knitted sweatshirt - Blue,Knitted,Sweatshirt,Unisex,Child,100% cotton,611020,0.414,Omnichannel,EXP-0006,Yes
+EU-APP-0071,ST-0071,Adult women woven blouse - White,Woven,Blouse,Women,Adult,100% cotton,620630,0.302,Online marketplace,EXP-0010,Yes
+EU-APP-0072,ST-0072,Adult men woven shirt - Red,Woven,Shirt,Men,Adult,95% cotton / 5% elastane,620520,0.325,Wholesale,EXP-0005,Yes
+EU-APP-0073,ST-0073,Child unisex knitted sweatshirt - Beige,Knitted,Sweatshirt,Unisex,Child,95% cotton / 5% elastane,611020,0.408,Retail stores,EXP-0006,Yes
+EU-APP-0074,ST-0074,Adult men woven shirt - Navy,Woven,Shirt,Men,Adult,100% polyester,620520,0.337,Online marketplace,EXP-0007,Yes
+EU-APP-0075,ST-0075,Adult women woven blouse - Pink,Woven,Blouse,Women,Adult,70% viscose / 30% linen,620630,0.288,Wholesale,EXP-0002,Yes
+EU-APP-0076,ST-0076,Adult unisex knitted t-shirt - Blue,Knitted,T-shirt,Unisex,Adult,95% cotton / 5% elastane,610910,0.221,Omnichannel,EXP-0002,Yes
+EU-APP-0077,ST-0077,Adult unisex knitted t-shirt - Pink,Knitted,T-shirt,Unisex,Adult,100% cotton,610910,0.215,Wholesale,EXP-0006,Yes
+EU-APP-0078,ST-0078,Adult women woven blouse - Olive,Woven,Blouse,Women,Adult,70% viscose / 30% linen,620630,0.272,Online marketplace,EXP-0007,Yes
+EU-APP-0079,ST-0079,Adult women woven blouse - Grey,Woven,Blouse,Women,Adult,70% viscose / 30% linen,620630,0.275,Online marketplace,EXP-0005,Yes
+EU-APP-0080,ST-0080,Adult women woven trousers - Navy,Woven,Trousers,Women,Adult,100% cotton,620462,0.552,Wholesale,EXP-0007,Yes

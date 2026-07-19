@@ -1,0 +1,15 @@
+﻿requirement_id,document_family,applies_when,minimum_facts_expected,typical_stage,source_rule_ids
+DR-001,Commercial Invoice,Commercial export shipment,seller; buyer; invoice number/date; item description; quantity; unit price; total; currency; Incoterm; origin; classification reference,CUSTOMS_PREPARATION,EU-CUSTOMS-003
+DR-002,Packing List,Physical shipment prepared,shipment ID; packages; SKU quantities; net/gross weight; dimensions; marks/numbers,PACKING,EU-CUSTOMS-003
+DR-003,Transport Document,Carrier booking or dispatch exists,carrier; document number; shipper; consignee; route; package count; gross weight,DISPATCH,EU-CUSTOMS-003
+DR-004,Fibre Declaration,Textile product,material reference; permitted fibre names; percentages; supplier; issue date; signature or authentication,PRODUCT_APPROVAL,EU-TEX-001|EU-TEX-002
+DR-005,Label Artwork,Textile product marketed in destination,SKU/style; fibre composition; destination language; animal-origin phrase when applicable; manufacturer/product identifiers,PRE_PRODUCTION,EU-TEX-001|EU-TEX-002|EU-TEX-003|EU-TEX-004
+DR-006,GPSR Technical File,Consumer apparel,product description; intended use; hazards; mitigations; traceability; supporting tests; manufacturer details,PRE_MARKET,EU-GPSR-001|EU-GPSR-002|EU-GPSR-003
+DR-007,EU Operator Record,Manufacturer outside EU,legal name; role; postal address; electronic address; agreement or authorization reference,PRE_MARKET,EU-GPSR-003
+DR-008,Azo Test Report,Dyed or printed relevant textile,laboratory; method; sample description; colour; material; result; issue date; batch/lot link where available,MATERIAL_APPROVAL,EU-REACH-043
+DR-009,CMR Textile Test Package,Skin-contact apparel,laboratory; sample; applicable substances; methods; results; issue date,MATERIAL_APPROVAL,EU-REACH-072
+DR-010,Nickel Test Report,Metal component with prolonged skin contact,component ID; plating; method; result; issue date; supplier lot,TRIM_APPROVAL,EU-REACH-027
+DR-011,Chromium VI Report,Leather component in skin contact,component ID; leather type; method; result; issue date; supplier lot,TRIM_APPROVAL,EU-REACH-047
+DR-012,Phthalate Report,Plasticised component,component/material ID; formulation or sample; method; substances; result; issue date,COMPONENT_APPROVAL,EU-REACH-051
+DR-013,Classification Memo,EU import classification required,product description; construction; fibre composition; gender/age; proposed CN/TARIC code; reasoning; date,CUSTOMS_PREPARATION,EU-CUSTOMS-001
+DR-014,Tariff Query Snapshot,EU import from India,origin; destination; exact code; query date; tariff/tax/measures result,CUSTOMS_PREPARATION,EU-CUSTOMS-002

@@ -1,0 +1,11 @@
+﻿section,detail
+Purpose,Reasoning-oriented India-to-EU apparel dataset with cleaned raw facts and deliberate evidence ambiguity.
+Agent-visible data,All CSV files in agent_data are available to agents.
+Evaluation-only data,ground_truth_assessments.csv must never be exposed to agents or loaded by production tools.
+Removed answer leakage,"No risk_profile, validation_note, agent_validation, decision_effect, expected_agent_message or precomputed evidence status."
+Evidence model,Documents have metadata plus separately extracted raw fields. Presence does not imply sufficiency.
+Reasoning expectation,"Agents must connect shipment, SKU, component, document, material, colour, batch, destination and stage."
+Scope,"Ordinary consumer apparel from India to Germany, Netherlands, France, Italy and Spain."
+Limitations,Synthetic business records; regulatory rows reference official EU sources but do not replace current professional review.
+Key test,"SHP-000001 contains a missing invoice, a blue garment, an old navy azo report without SKU/batch linkage, and label wording using Lycra."
+Generated,2026-07-19

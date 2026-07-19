@@ -1,0 +1,13 @@
+﻿exporter_id,legal_name,iec_number,gstin,city,country,operations_email,manufacturer_or_merchant,active
+EXP-0001,Everest Apparel Exports Pvt Ltd,IEC3773675281,30ABCDE1899F1Z1,Delhi,India,ops@everest-apparel-exports-pvt-ltd.in,Manufacturer Exporter,Yes
+EXP-0002,Indus Cottonwear Pvt Ltd,IEC8564791808,22ABCDE6579F1Z2,Mumbai,India,ops@indus-cottonwear-pvt-ltd.in,Manufacturer Exporter,Yes
+EXP-0003,Lotus Garments LLP,IEC1244560077,20ABCDE6959F1Z6,Chennai,India,ops@lotus-garments-llp.in,Manufacturer Exporter,Yes
+EXP-0004,BlueRiver Fashions Pvt Ltd,IEC7545651155,30ABCDE2647F1Z7,Kolkata,India,ops@blueriver-fashions-pvt-ltd.in,Merchant Exporter,Yes
+EXP-0005,Triveni Textiles Ltd,IEC2285259161,34ABCDE4967F1Z2,Bengaluru,India,ops@triveni-textiles-ltd.in,Manufacturer Exporter,Yes
+EXP-0006,Saffron Apparel Works,IEC1976379508,11ABCDE7818F1Z2,Jaipur,India,ops@saffron-apparel-works.in,Merchant Exporter,Yes
+EXP-0007,Royal Knitwear Exports,IEC9678388112,16ABCDE3030F1Z2,Ahmedabad,India,ops@royal-knitwear-exports.in,Manufacturer Exporter,Yes
+EXP-0008,Narmada Clothing Pvt Ltd,IEC9435210389,31ABCDE6124F1Z4,Ludhiana,India,ops@narmada-clothing-pvt-ltd.in,Merchant Exporter,Yes
+EXP-0009,Silverline Garments LLP,IEC6448074072,24ABCDE6568F1Z3,Surat,India,ops@silverline-garments-llp.in,Manufacturer Exporter,Yes
+EXP-0010,Aarav Fashion Exports,IEC3231347482,37ABCDE3323F1Z7,Tiruppur,India,ops@aarav-fashion-exports.in,Merchant Exporter,Yes
+EXP-0011,Vertex Apparel Industries,IEC5888208390,29ABCDE9136F1Z7,Delhi,India,ops@vertex-apparel-industries.in,Manufacturer Exporter,Yes
+EXP-0012,Sunrise Clothing Co,IEC7680630999,33ABCDE6074F1Z5,Mumbai,India,ops@sunrise-clothing-co.in,Merchant Exporter,Yes

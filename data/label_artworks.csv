@@ -1,0 +1,162 @@
+﻿artwork_id,sku,market_code,version,created_at,fibre_text_raw,language_code,animal_origin_statement,manufacturer_name_text,product_identifier_text,care_text_raw,source_file
+ART-000001,EU-APP-0001,FR,1,2026-05-17,60% cotton / 40% polyester,fr,,Sunrise Clothing Co,EU-APP-0001,Machine wash cold,EU-APP-0001_FR_label_v2.pdf
+ART-000002,EU-APP-0002,FR,3,2026-03-22,70% viscose / 30% linen,fr,,Triveni Textiles Ltd,EU-APP-0002,,EU-APP-0002_FR_label_v4.pdf
+ART-000003,EU-APP-0002,IT,2,2025-12-09,70% viscose / 30% linen,it,,Triveni Textiles Ltd,EU-APP-0002,Wash at 30C,EU-APP-0002_IT_label_v4.pdf
+ART-000004,EU-APP-0002,NL,3,2025-12-22,70% viscose / 30% linen,nl,,Triveni Textiles Ltd,,,EU-APP-0002_NL_label_v1.pdf
+ART-000005,EU-APP-0003,NL,3,2025-08-02,100% cotton,nl,,Vertex Apparel Industries,EU-APP-0003,Machine wash cold,EU-APP-0003_NL_label_v4.pdf
+ART-000006,EU-APP-0003,IT,2,2026-06-19,100% cotton,it,,Vertex Apparel Industries,EU-APP-0003,,EU-APP-0003_IT_label_v2.pdf
+ART-000007,EU-APP-0003,FR,1,2026-06-24,100% cotton,fr,,Vertex Apparel Industries,EU-APP-0003,Machine wash cold,EU-APP-0003_FR_label_v1.pdf
+ART-000008,EU-APP-0004,ES,3,2026-01-27,100% cotton,es,,Everest Apparel Exports Pvt Ltd,EU-APP-0004,Wash at 30C,EU-APP-0004_ES_label_v2.pdf
+ART-000009,EU-APP-0004,FR,3,2026-04-10,100% cotton,fr,,Everest Apparel Exports Pvt Ltd,EU-APP-0004,See symbols,EU-APP-0004_FR_label_v3.pdf
+ART-000010,EU-APP-0005,FR,4,2025-11-19,100% cotton,fr,,Indus Cottonwear Pvt Ltd,EU-APP-0005,Wash at 30C,EU-APP-0005_FR_label_v4.pdf
+ART-000011,EU-APP-0005,IT,2,2025-08-11,100% cotton,it,,Indus Cottonwear Pvt Ltd,EU-APP-0005,See symbols,EU-APP-0005_IT_label_v1.pdf
+ART-000012,EU-APP-0006,DE,3,2025-11-29,100% cotton,de,,Vertex Apparel Industries,EU-APP-0006,Wash at 30C,EU-APP-0006_DE_label_v4.pdf
+ART-000013,EU-APP-0006,FR,3,2026-01-08,100% cotton,fr,,Vertex Apparel Industries,EU-APP-0006,Wash at 30C,EU-APP-0006_FR_label_v1.pdf
+ART-000014,EU-APP-0007,FR,1,2026-03-14,60% cotton / 40% polyester,fr,,Sunrise Clothing Co,EU-APP-0007,,EU-APP-0007_FR_label_v1.pdf
+ART-000015,EU-APP-0007,ES,2,2025-09-16,60% cotton / 40% polyester,es,,Sunrise Clothing Co,EU-APP-0007,See symbols,EU-APP-0007_ES_label_v1.pdf
+ART-000016,EU-APP-0008,NL,3,2025-09-04,60% cotton / 40% polyester,nl,,Sunrise Clothing Co,EU-APP-0008,Machine wash cold,EU-APP-0008_NL_label_v1.pdf
+ART-000017,EU-APP-0009,FR,1,2026-01-11,60% cotton / 40% polyester,fr,,Everest Apparel Exports Pvt Ltd,EU-APP-0009,See symbols,EU-APP-0009_FR_label_v2.pdf
+ART-000018,EU-APP-0010,NL,3,2025-12-13,60% cotton / 40% polyester,nl,,Indus Cottonwear Pvt Ltd,EU-APP-0010,Wash at 30C,EU-APP-0010_NL_label_v1.pdf
+ART-000019,EU-APP-0010,IT,4,2026-01-18,60% cotton / 40% polyester,it,,Indus Cottonwear Pvt Ltd,EU-APP-0010,,EU-APP-0010_IT_label_v2.pdf
+ART-000020,EU-APP-0010,DE,4,2026-05-13,60% cotton / 40% polyester,de,,Indus Cottonwear Pvt Ltd,EU-APP-0010,,EU-APP-0010_DE_label_v2.pdf
+ART-000021,EU-APP-0011,FR,2,2025-08-17,100% cotton,fr,,Everest Apparel Exports Pvt Ltd,,Wash at 30C,EU-APP-0011_FR_label_v2.pdf
+ART-000022,EU-APP-0012,ES,1,2026-04-17,60% cotton / 40% polyester,es,,Lotus Garments LLP,EU-APP-0012,Machine wash cold,EU-APP-0012_ES_label_v2.pdf
+ART-000023,EU-APP-0012,DE,2,2026-07-11,60% cotton / 40% polyester,de,,,EU-APP-0012,,EU-APP-0012_DE_label_v4.pdf
+ART-000024,EU-APP-0013,FR,2,2025-08-19,100% polyester,fr,,Triveni Textiles Ltd,EU-APP-0013,See symbols,EU-APP-0013_FR_label_v2.pdf
+ART-000025,EU-APP-0013,ES,3,2026-05-09,100% polyester,es,,Triveni Textiles Ltd,EU-APP-0013,,EU-APP-0013_ES_label_v1.pdf
+ART-000026,EU-APP-0013,DE,2,2026-06-25,100% polyester,de,,Triveni Textiles Ltd,EU-APP-0013,Machine wash cold,EU-APP-0013_DE_label_v3.pdf
+ART-000027,EU-APP-0014,ES,3,2026-01-10,70% viscose / 30% linen,es,,Sunrise Clothing Co,EU-APP-0014,See symbols,EU-APP-0014_ES_label_v4.pdf
+ART-000028,EU-APP-0014,IT,4,2026-03-20,70% viscose / 30% linen,it,,Sunrise Clothing Co,EU-APP-0014,,EU-APP-0014_IT_label_v2.pdf
+ART-000029,EU-APP-0014,NL,2,2025-12-30,70% viscose / 30% linen,nl,,,EU-APP-0014,,EU-APP-0014_NL_label_v3.pdf
+ART-000030,EU-APP-0015,NL,1,2026-02-10,100% cotton,nl,,Everest Apparel Exports Pvt Ltd,EU-APP-0015,,EU-APP-0015_NL_label_v4.pdf
+ART-000031,EU-APP-0015,DE,4,2026-04-09,100% cotton,de,,Everest Apparel Exports Pvt Ltd,EU-APP-0015,See symbols,EU-APP-0015_DE_label_v4.pdf
+ART-000032,EU-APP-0016,DE,3,2025-08-15,"95% cotton, 5% Lycra",de,,Sunrise Clothing Co,EU-APP-0016,Wash at 30C,EU-APP-0016_DE_label_v4.pdf
+ART-000033,EU-APP-0016,FR,4,2025-08-21,95% cotton / 5% elastane,fr,,Sunrise Clothing Co,EU-APP-0016,See symbols,EU-APP-0016_FR_label_v3.pdf
+ART-000034,EU-APP-0017,NL,3,2026-02-01,100% cotton,nl,,Aarav Fashion Exports,EU-APP-0017,See symbols,EU-APP-0017_NL_label_v2.pdf
+ART-000035,EU-APP-0017,IT,3,2025-11-14,100% cotton,it,Contains non-textile parts of animal origin,Aarav Fashion Exports,EU-APP-0017,,EU-APP-0017_IT_label_v3.pdf
+ART-000036,EU-APP-0018,IT,1,2026-02-06,95% cotton / 5% Lycra,it,,Indus Cottonwear Pvt Ltd,EU-APP-0018,Machine wash cold,EU-APP-0018_IT_label_v4.pdf
+ART-000037,EU-APP-0019,IT,3,2026-07-01,100% cotton,it,,,EU-APP-0019,Wash at 30C,EU-APP-0019_IT_label_v1.pdf
+ART-000038,EU-APP-0019,ES,1,2026-03-21,100% cotton,es,,,,Machine wash cold,EU-APP-0019_ES_label_v2.pdf
+ART-000039,EU-APP-0020,NL,4,2025-08-15,100% cotton,nl,,Sunrise Clothing Co,EU-APP-0020,Machine wash cold,EU-APP-0020_NL_label_v2.pdf
+ART-000040,EU-APP-0020,ES,4,2025-08-03,100% cotton,es,,Sunrise Clothing Co,EU-APP-0020,See symbols,EU-APP-0020_ES_label_v1.pdf
+ART-000041,EU-APP-0020,IT,4,2025-09-06,100% cotton,it,,Sunrise Clothing Co,EU-APP-0020,Wash at 30C,EU-APP-0020_IT_label_v4.pdf
+ART-000042,EU-APP-0021,DE,2,2025-10-13,100% cotton,de,,Aarav Fashion Exports,EU-APP-0021,See symbols,EU-APP-0021_DE_label_v1.pdf
+ART-000043,EU-APP-0022,ES,3,2025-09-02,100% cotton,es,,Saffron Apparel Works,EU-APP-0022,See symbols,EU-APP-0022_ES_label_v3.pdf
+ART-000044,EU-APP-0022,IT,2,2026-02-24,100% cotton,it,,Saffron Apparel Works,EU-APP-0022,Machine wash cold,EU-APP-0022_IT_label_v2.pdf
+ART-000045,EU-APP-0022,NL,3,2025-08-28,100% cotton,nl,,Saffron Apparel Works,EU-APP-0022,,EU-APP-0022_NL_label_v3.pdf
+ART-000046,EU-APP-0023,FR,2,2025-08-17,95% cotton / 5% Lycra,fr,,Saffron Apparel Works,EU-APP-0023,,EU-APP-0023_FR_label_v4.pdf
+ART-000047,EU-APP-0023,ES,3,2025-11-04,95% cotton / 5% elastane,es,,Saffron Apparel Works,EU-APP-0023,Wash at 30C,EU-APP-0023_ES_label_v3.pdf
+ART-000048,EU-APP-0024,DE,3,2025-12-15,100% cotton,de,,Silverline Garments LLP,,Wash at 30C,EU-APP-0024_DE_label_v1.pdf
+ART-000049,EU-APP-0024,IT,2,2025-11-11,100% cotton,it,,Silverline Garments LLP,EU-APP-0024,Machine wash cold,EU-APP-0024_IT_label_v3.pdf
+ART-000050,EU-APP-0025,FR,2,2025-11-25,100% polyester,fr,,Lotus Garments LLP,EU-APP-0025,See symbols,EU-APP-0025_FR_label_v2.pdf
+ART-000051,EU-APP-0026,DE,2,2026-04-14,60% cotton / 40% polyester,de,,BlueRiver Fashions Pvt Ltd,EU-APP-0026,Wash at 30C,EU-APP-0026_DE_label_v3.pdf
+ART-000052,EU-APP-0026,IT,4,2026-06-15,60% cotton / 40% polyester,it,,BlueRiver Fashions Pvt Ltd,EU-APP-0026,Wash at 30C,EU-APP-0026_IT_label_v4.pdf
+ART-000053,EU-APP-0027,NL,2,2025-11-18,100% polyester,nl,,Everest Apparel Exports Pvt Ltd,EU-APP-0027,,EU-APP-0027_NL_label_v4.pdf
+ART-000054,EU-APP-0028,DE,2,2026-03-16,70% viscose / 30% linen,de,,Royal Knitwear Exports,EU-APP-0028,,EU-APP-0028_DE_label_v1.pdf
+ART-000055,EU-APP-0028,ES,1,2026-01-06,"70% viscose, 30% linen",es,,Royal Knitwear Exports,EU-APP-0028,Wash at 30C,EU-APP-0028_ES_label_v2.pdf
+ART-000056,EU-APP-0029,DE,2,2026-07-11,60% cotton / 40% polyester,de,,Silverline Garments LLP,EU-APP-0029,,EU-APP-0029_DE_label_v1.pdf
+ART-000057,EU-APP-0029,ES,3,2025-12-06,60% cotton / 40% polyester,es,,Silverline Garments LLP,EU-APP-0029,Wash at 30C,EU-APP-0029_ES_label_v1.pdf
+ART-000058,EU-APP-0030,IT,1,2026-05-13,70% viscose / 30% linen,it,,Sunrise Clothing Co,EU-APP-0030,Machine wash cold,EU-APP-0030_IT_label_v4.pdf
+ART-000059,EU-APP-0030,NL,2,2025-11-10,70% viscose / 30% linen,nl,,Sunrise Clothing Co,,,EU-APP-0030_NL_label_v4.pdf
+ART-000060,EU-APP-0030,DE,4,2026-04-13,70% viscose / 30% linen,de,,Sunrise Clothing Co,EU-APP-0030,Wash at 30C,EU-APP-0030_DE_label_v2.pdf
+ART-000061,EU-APP-0031,FR,2,2025-10-11,60% cotton / 40% polyester,fr,,Aarav Fashion Exports,EU-APP-0031,,EU-APP-0031_FR_label_v1.pdf
+ART-000062,EU-APP-0031,ES,2,2026-05-09,60% cotton / 40% polyester,es,,Aarav Fashion Exports,EU-APP-0031,Wash at 30C,EU-APP-0031_ES_label_v3.pdf
+ART-000063,EU-APP-0031,NL,3,2025-12-05,60% cotton / 40% polyester,nl,,Aarav Fashion Exports,EU-APP-0031,See symbols,EU-APP-0031_NL_label_v1.pdf
+ART-000064,EU-APP-0032,NL,3,2025-12-21,95% cotton / 5% elastane,nl,,Sunrise Clothing Co,EU-APP-0032,Machine wash cold,EU-APP-0032_NL_label_v2.pdf
+ART-000065,EU-APP-0033,IT,4,2025-10-05,100% cotton,it,,,EU-APP-0033,,EU-APP-0033_IT_label_v1.pdf
+ART-000066,EU-APP-0033,DE,4,2025-12-29,100% cotton,de,Contains non-textile parts of animal origin,Indus Cottonwear Pvt Ltd,EU-APP-0033,Machine wash cold,EU-APP-0033_DE_label_v3.pdf
+ART-000067,EU-APP-0034,FR,3,2026-03-31,70% viscose / 30% linen,fr,,Royal Knitwear Exports,,Wash at 30C,EU-APP-0034_FR_label_v2.pdf
+ART-000068,EU-APP-0034,NL,2,2026-02-26,70% viscose / 30% linen,nl,,Royal Knitwear Exports,EU-APP-0034,Machine wash cold,EU-APP-0034_NL_label_v1.pdf
+ART-000069,EU-APP-0034,ES,4,2025-12-08,70% viscose / 30% linen,es,,,EU-APP-0034,Wash at 30C,EU-APP-0034_ES_label_v4.pdf
+ART-000070,EU-APP-0035,FR,4,2026-03-09,"70% viscose, 30% linen",fr,,Silverline Garments LLP,EU-APP-0035,Wash at 30C,EU-APP-0035_FR_label_v1.pdf
+ART-000071,EU-APP-0035,NL,2,2026-03-21,70% viscose / 30% linen,nl,,Silverline Garments LLP,EU-APP-0035,Machine wash cold,EU-APP-0035_NL_label_v4.pdf
+ART-000072,EU-APP-0036,DE,2,2026-01-11,60% cotton / 40% polyester,de,,Lotus Garments LLP,EU-APP-0036,Wash at 30C,EU-APP-0036_DE_label_v3.pdf
+ART-000073,EU-APP-0036,IT,4,2026-05-12,60% cotton / 40% polyester,it,,Lotus Garments LLP,EU-APP-0036,See symbols,EU-APP-0036_IT_label_v3.pdf
+ART-000074,EU-APP-0037,NL,1,2026-05-29,100% cotton,nl,,Everest Apparel Exports Pvt Ltd,EU-APP-0037,Wash at 30C,EU-APP-0037_NL_label_v1.pdf
+ART-000075,EU-APP-0037,IT,4,2026-01-23,100% cotton,it,,Everest Apparel Exports Pvt Ltd,EU-APP-0037,See symbols,EU-APP-0037_IT_label_v2.pdf
+ART-000076,EU-APP-0038,IT,1,2025-09-04,100% polyester,it,,Lotus Garments LLP,EU-APP-0038,See symbols,EU-APP-0038_IT_label_v4.pdf
+ART-000077,EU-APP-0038,FR,4,2025-10-31,100% polyester,fr,,,EU-APP-0038,,EU-APP-0038_FR_label_v1.pdf
+ART-000078,EU-APP-0038,ES,3,2025-09-14,100% polyester,es,,Lotus Garments LLP,EU-APP-0038,Machine wash cold,EU-APP-0038_ES_label_v3.pdf
+ART-000079,EU-APP-0039,FR,2,2025-10-13,100% cotton,fr,,Triveni Textiles Ltd,EU-APP-0039,Wash at 30C,EU-APP-0039_FR_label_v1.pdf
+ART-000080,EU-APP-0039,ES,1,2026-01-15,100% cotton,es,,,EU-APP-0039,Machine wash cold,EU-APP-0039_ES_label_v1.pdf
+ART-000081,EU-APP-0039,NL,4,2026-05-24,100% cotton,nl,,Triveni Textiles Ltd,,See symbols,EU-APP-0039_NL_label_v2.pdf
+ART-000082,EU-APP-0040,ES,1,2025-08-23,95% cotton / 5% elastane,es,,Aarav Fashion Exports,EU-APP-0040,See symbols,EU-APP-0040_ES_label_v2.pdf
+ART-000083,EU-APP-0040,DE,2,2026-04-28,95% cotton / 5% elastane,de,,Aarav Fashion Exports,EU-APP-0040,Machine wash cold,EU-APP-0040_DE_label_v2.pdf
+ART-000084,EU-APP-0040,IT,3,2025-08-05,95% cotton / 5% elastane,it,,Aarav Fashion Exports,EU-APP-0040,See symbols,EU-APP-0040_IT_label_v3.pdf
+ART-000085,EU-APP-0041,ES,4,2025-12-07,70% viscose / 30% linen,es,,Sunrise Clothing Co,EU-APP-0041,,EU-APP-0041_ES_label_v3.pdf
+ART-000086,EU-APP-0041,FR,2,2025-08-25,70% viscose / 30% linen,fr,,Sunrise Clothing Co,EU-APP-0041,,EU-APP-0041_FR_label_v3.pdf
+ART-000087,EU-APP-0042,FR,4,2025-12-20,70% viscose / 30% linen,fr,,Royal Knitwear Exports,EU-APP-0042,,EU-APP-0042_FR_label_v4.pdf
+ART-000088,EU-APP-0042,DE,2,2025-10-10,70% viscose / 30% linen,de,,Royal Knitwear Exports,EU-APP-0042,Machine wash cold,EU-APP-0042_DE_label_v4.pdf
+ART-000089,EU-APP-0042,NL,1,2026-03-10,70% viscose / 30% linen,nl,,Royal Knitwear Exports,EU-APP-0042,See symbols,EU-APP-0042_NL_label_v4.pdf
+ART-000090,EU-APP-0043,NL,1,2025-10-07,100% cotton,nl,,Saffron Apparel Works,EU-APP-0043,See symbols,EU-APP-0043_NL_label_v3.pdf
+ART-000091,EU-APP-0043,FR,2,2025-08-25,100% cotton,fr,,Saffron Apparel Works,EU-APP-0043,Machine wash cold,EU-APP-0043_FR_label_v4.pdf
+ART-000092,EU-APP-0044,ES,3,2025-08-14,60% cotton / 40% polyester,es,Contains non-textile parts of animal origin,,EU-APP-0044,Machine wash cold,EU-APP-0044_ES_label_v3.pdf
+ART-000093,EU-APP-0044,FR,1,2025-11-03,"60% cotton, 40% polyester",fr,Contains non-textile parts of animal origin,BlueRiver Fashions Pvt Ltd,EU-APP-0044,Machine wash cold,EU-APP-0044_FR_label_v1.pdf
+ART-000094,EU-APP-0044,IT,2,2026-03-19,60% cotton / 40% polyester,it,Contains non-textile parts of animal origin,,EU-APP-0044,,EU-APP-0044_IT_label_v1.pdf
+ART-000095,EU-APP-0045,NL,2,2025-08-10,100% polyester,nl,,Triveni Textiles Ltd,EU-APP-0045,See symbols,EU-APP-0045_NL_label_v4.pdf
+ART-000096,EU-APP-0045,FR,4,2026-01-26,100% polyester,fr,,Triveni Textiles Ltd,EU-APP-0045,Machine wash cold,EU-APP-0045_FR_label_v2.pdf
+ART-000097,EU-APP-0046,DE,1,2026-03-30,95% cotton / 5% elastane,de,,Sunrise Clothing Co,EU-APP-0046,,EU-APP-0046_DE_label_v4.pdf
+ART-000098,EU-APP-0047,IT,2,2025-12-27,"95% cotton, 5% elastane",it,,Triveni Textiles Ltd,EU-APP-0047,Wash at 30C,EU-APP-0047_IT_label_v4.pdf
+ART-000099,EU-APP-0048,FR,1,2026-02-02,70% viscose / 30% linen,fr,,Triveni Textiles Ltd,EU-APP-0048,See symbols,EU-APP-0048_FR_label_v2.pdf
+ART-000100,EU-APP-0048,IT,4,2026-06-13,70% viscose / 30% linen,it,,Triveni Textiles Ltd,EU-APP-0048,Machine wash cold,EU-APP-0048_IT_label_v4.pdf
+ART-000101,EU-APP-0049,ES,4,2026-02-17,100% cotton,es,,Saffron Apparel Works,EU-APP-0049,Machine wash cold,EU-APP-0049_ES_label_v1.pdf
+ART-000102,EU-APP-0049,FR,1,2026-06-28,100% cotton,fr,,Saffron Apparel Works,EU-APP-0049,,EU-APP-0049_FR_label_v2.pdf
+ART-000103,EU-APP-0049,DE,4,2026-04-30,100% cotton,de,,Saffron Apparel Works,EU-APP-0049,See symbols,EU-APP-0049_DE_label_v4.pdf
+ART-000104,EU-APP-0050,ES,1,2025-08-27,70% viscose / 30% linen,es,,Silverline Garments LLP,EU-APP-0050,See symbols,EU-APP-0050_ES_label_v1.pdf
+ART-000105,EU-APP-0050,DE,3,2026-01-16,70% viscose / 30% linen,de,,Silverline Garments LLP,EU-APP-0050,See symbols,EU-APP-0050_DE_label_v1.pdf
+ART-000106,EU-APP-0050,IT,2,2026-05-06,70% viscose / 30% linen,it,,,EU-APP-0050,Wash at 30C,EU-APP-0050_IT_label_v3.pdf
+ART-000107,EU-APP-0051,ES,4,2025-08-02,100% cotton,es,,Saffron Apparel Works,EU-APP-0051,Wash at 30C,EU-APP-0051_ES_label_v1.pdf
+ART-000108,EU-APP-0051,NL,4,2026-01-23,100% cotton,nl,,Saffron Apparel Works,EU-APP-0051,,EU-APP-0051_NL_label_v2.pdf
+ART-000109,EU-APP-0051,FR,3,2025-09-06,100% cotton,fr,,Saffron Apparel Works,EU-APP-0051,Machine wash cold,EU-APP-0051_FR_label_v4.pdf
+ART-000110,EU-APP-0052,DE,1,2025-10-10,"70% viscose, 30% linen",de,,Royal Knitwear Exports,EU-APP-0052,Wash at 30C,EU-APP-0052_DE_label_v2.pdf
+ART-000111,EU-APP-0052,NL,4,2025-08-17,70% viscose / 30% linen,nl,,Royal Knitwear Exports,EU-APP-0052,Wash at 30C,EU-APP-0052_NL_label_v3.pdf
+ART-000112,EU-APP-0053,IT,4,2026-05-23,60% cotton / 40% polyester,it,Contains non-textile parts of animal origin,Aarav Fashion Exports,EU-APP-0053,Wash at 30C,EU-APP-0053_IT_label_v4.pdf
+ART-000113,EU-APP-0054,IT,4,2025-09-25,100% cotton,it,,Vertex Apparel Industries,,,EU-APP-0054_IT_label_v2.pdf
+ART-000114,EU-APP-0054,NL,3,2025-08-30,100% cotton,nl,,Vertex Apparel Industries,EU-APP-0054,,EU-APP-0054_NL_label_v3.pdf
+ART-000115,EU-APP-0054,FR,2,2025-08-07,100% cotton,fr,,Vertex Apparel Industries,EU-APP-0054,See symbols,EU-APP-0054_FR_label_v2.pdf
+ART-000116,EU-APP-0055,FR,2,2025-11-09,100% polyester,fr,,Aarav Fashion Exports,EU-APP-0055,,EU-APP-0055_FR_label_v3.pdf
+ART-000117,EU-APP-0056,NL,4,2026-02-05,100% cotton,nl,,Lotus Garments LLP,EU-APP-0056,See symbols,EU-APP-0056_NL_label_v3.pdf
+ART-000118,EU-APP-0056,ES,1,2026-04-05,100% cotton,es,,Lotus Garments LLP,EU-APP-0056,Wash at 30C,EU-APP-0056_ES_label_v1.pdf
+ART-000119,EU-APP-0057,IT,1,2026-01-26,60% cotton / 40% polyester,it,,Aarav Fashion Exports,EU-APP-0057,,EU-APP-0057_IT_label_v2.pdf
+ART-000120,EU-APP-0058,NL,3,2026-07-02,60% cotton / 40% polyester,nl,,BlueRiver Fashions Pvt Ltd,EU-APP-0058,Machine wash cold,EU-APP-0058_NL_label_v3.pdf
+ART-000121,EU-APP-0058,DE,1,2025-10-12,60% cotton / 40% polyester,de,,BlueRiver Fashions Pvt Ltd,EU-APP-0058,Machine wash cold,EU-APP-0058_DE_label_v1.pdf
+ART-000122,EU-APP-0059,FR,4,2026-01-03,100% polyester,fr,,BlueRiver Fashions Pvt Ltd,EU-APP-0059,Wash at 30C,EU-APP-0059_FR_label_v4.pdf
+ART-000123,EU-APP-0060,DE,2,2025-08-02,60% cotton / 40% polyester,de,,Indus Cottonwear Pvt Ltd,EU-APP-0060,,EU-APP-0060_DE_label_v3.pdf
+ART-000124,EU-APP-0060,NL,2,2025-08-21,60% cotton / 40% polyester,nl,,Indus Cottonwear Pvt Ltd,EU-APP-0060,See symbols,EU-APP-0060_NL_label_v2.pdf
+ART-000125,EU-APP-0061,IT,1,2025-12-02,100% polyester,it,,Lotus Garments LLP,EU-APP-0061,,EU-APP-0061_IT_label_v2.pdf
+ART-000126,EU-APP-0061,FR,1,2026-04-20,100% polyester,fr,,Lotus Garments LLP,EU-APP-0061,,EU-APP-0061_FR_label_v4.pdf
+ART-000127,EU-APP-0062,IT,3,2026-02-07,100% polyester,it,,BlueRiver Fashions Pvt Ltd,EU-APP-0062,Wash at 30C,EU-APP-0062_IT_label_v4.pdf
+ART-000128,EU-APP-0063,NL,2,2025-11-06,95% cotton / 5% elastane,nl,,Indus Cottonwear Pvt Ltd,EU-APP-0063,Machine wash cold,EU-APP-0063_NL_label_v4.pdf
+ART-000129,EU-APP-0063,FR,1,2025-08-10,95% cotton / 5% elastane,fr,,Indus Cottonwear Pvt Ltd,EU-APP-0063,Machine wash cold,EU-APP-0063_FR_label_v2.pdf
+ART-000130,EU-APP-0063,IT,2,2026-04-20,95% cotton / 5% elastane,it,,Indus Cottonwear Pvt Ltd,EU-APP-0063,Machine wash cold,EU-APP-0063_IT_label_v4.pdf
+ART-000131,EU-APP-0064,FR,3,2026-04-26,100% polyester,fr,,Aarav Fashion Exports,EU-APP-0064,,EU-APP-0064_FR_label_v4.pdf
+ART-000132,EU-APP-0064,IT,3,2026-05-28,100% polyester,it,,Aarav Fashion Exports,EU-APP-0064,Machine wash cold,EU-APP-0064_IT_label_v2.pdf
+ART-000133,EU-APP-0064,NL,4,2025-11-27,100% polyester,nl,,Aarav Fashion Exports,EU-APP-0064,Wash at 30C,EU-APP-0064_NL_label_v1.pdf
+ART-000134,EU-APP-0065,IT,1,2026-07-06,70% viscose / 30% linen,it,,BlueRiver Fashions Pvt Ltd,EU-APP-0065,Machine wash cold,EU-APP-0065_IT_label_v1.pdf
+ART-000135,EU-APP-0066,IT,1,2025-11-26,60% cotton / 40% polyester,it,,Lotus Garments LLP,EU-APP-0066,Machine wash cold,EU-APP-0066_IT_label_v1.pdf
+ART-000136,EU-APP-0066,NL,3,2026-04-01,60% cotton / 40% polyester,nl,,Lotus Garments LLP,EU-APP-0066,See symbols,EU-APP-0066_NL_label_v4.pdf
+ART-000137,EU-APP-0066,FR,3,2026-07-04,60% cotton / 40% polyester,fr,,Lotus Garments LLP,EU-APP-0066,Wash at 30C,EU-APP-0066_FR_label_v3.pdf
+ART-000138,EU-APP-0067,IT,4,2026-01-28,95% cotton / 5% elastane,it,,Aarav Fashion Exports,EU-APP-0067,Wash at 30C,EU-APP-0067_IT_label_v4.pdf
+ART-000139,EU-APP-0067,ES,3,2025-08-26,95% cotton / 5% elastane,es,,Aarav Fashion Exports,EU-APP-0067,,EU-APP-0067_ES_label_v2.pdf
+ART-000140,EU-APP-0068,DE,3,2025-09-26,60% cotton / 40% polyester,de,,Narmada Clothing Pvt Ltd,EU-APP-0068,Wash at 30C,EU-APP-0068_DE_label_v1.pdf
+ART-000141,EU-APP-0068,NL,4,2025-10-04,60% cotton / 40% polyester,nl,,,EU-APP-0068,Machine wash cold,EU-APP-0068_NL_label_v4.pdf
+ART-000142,EU-APP-0068,ES,3,2026-06-14,"60% cotton, 40% polyester",es,,Narmada Clothing Pvt Ltd,EU-APP-0068,See symbols,EU-APP-0068_ES_label_v4.pdf
+ART-000143,EU-APP-0069,NL,2,2025-11-23,60% cotton / 40% polyester,nl,,Triveni Textiles Ltd,EU-APP-0069,Wash at 30C,EU-APP-0069_NL_label_v1.pdf
+ART-000144,EU-APP-0069,IT,3,2026-05-19,60% cotton / 40% polyester,it,,Triveni Textiles Ltd,,Machine wash cold,EU-APP-0069_IT_label_v1.pdf
+ART-000145,EU-APP-0070,ES,2,2025-09-20,100% cotton,es,,,EU-APP-0070,See symbols,EU-APP-0070_ES_label_v2.pdf
+ART-000146,EU-APP-0070,FR,2,2026-04-19,100% cotton,fr,,Saffron Apparel Works,EU-APP-0070,See symbols,EU-APP-0070_FR_label_v3.pdf
+ART-000147,EU-APP-0071,NL,1,2025-11-15,100% cotton,nl,,Aarav Fashion Exports,,Machine wash cold,EU-APP-0071_NL_label_v3.pdf
+ART-000148,EU-APP-0071,ES,3,2025-10-28,100% cotton,es,,Aarav Fashion Exports,EU-APP-0071,,EU-APP-0071_ES_label_v2.pdf
+ART-000149,EU-APP-0072,NL,4,2025-08-30,"95% cotton, 5% elastane",nl,,Triveni Textiles Ltd,EU-APP-0072,Wash at 30C,EU-APP-0072_NL_label_v4.pdf
+ART-000150,EU-APP-0073,FR,1,2026-02-15,95% cotton / 5% elastane,fr,,Saffron Apparel Works,EU-APP-0073,Machine wash cold,EU-APP-0073_FR_label_v2.pdf
+ART-000151,EU-APP-0074,FR,2,2026-05-22,100% polyester,fr,,Royal Knitwear Exports,EU-APP-0074,,EU-APP-0074_FR_label_v2.pdf
+ART-000152,EU-APP-0074,IT,1,2026-07-12,100% polyester,it,,Royal Knitwear Exports,EU-APP-0074,See symbols,EU-APP-0074_IT_label_v4.pdf
+ART-000153,EU-APP-0074,NL,1,2025-08-30,100% polyester,nl,,Royal Knitwear Exports,EU-APP-0074,See symbols,EU-APP-0074_NL_label_v4.pdf
+ART-000154,EU-APP-0075,DE,1,2025-11-22,70% viscose / 30% linen,de,,Indus Cottonwear Pvt Ltd,EU-APP-0075,Wash at 30C,EU-APP-0075_DE_label_v1.pdf
+ART-000155,EU-APP-0075,ES,4,2025-12-20,70% viscose / 30% linen,es,,Indus Cottonwear Pvt Ltd,EU-APP-0075,Wash at 30C,EU-APP-0075_ES_label_v4.pdf
+ART-000156,EU-APP-0076,DE,2,2025-11-08,95% cotton / 5% elastane,de,,,EU-APP-0076,,EU-APP-0076_DE_label_v2.pdf
+ART-000157,EU-APP-0077,IT,4,2026-06-24,100% cotton,it,,Saffron Apparel Works,EU-APP-0077,Machine wash cold,EU-APP-0077_IT_label_v4.pdf
+ART-000158,EU-APP-0078,ES,4,2026-06-29,70% viscose / 30% linen,es,,Royal Knitwear Exports,EU-APP-0078,See symbols,EU-APP-0078_ES_label_v1.pdf
+ART-000159,EU-APP-0079,IT,2,2025-10-31,"70% viscose, 30% linen",it,Contains non-textile parts of animal origin,Triveni Textiles Ltd,EU-APP-0079,See symbols,EU-APP-0079_IT_label_v4.pdf
+ART-000160,EU-APP-0080,FR,4,2025-10-29,100% cotton,fr,,Royal Knitwear Exports,EU-APP-0080,,EU-APP-0080_FR_label_v1.pdf
+ART-000161,EU-APP-0080,IT,2,2025-12-11,100% cotton,it,,Royal Knitwear Exports,EU-APP-0080,,EU-APP-0080_IT_label_v1.pdf

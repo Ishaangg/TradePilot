@@ -1,0 +1,219 @@
+﻿lab_report_id,report_type,laboratory_name,accreditation_reference,issue_date,report_number,overall_result_raw,method_reference,supplier_id,source_file
+LAB-000001,Azo amines,SGS India Pvt Ltd,ISO17025-1828,2025-06-10,TR-976152,See individual results,EN ISO 17075-1,SUP-0006,LAB-000001_azo-amines.pdf
+LAB-000002,CMR textiles,Bureau Veritas Consumer Products,ISO17025-9645,2024-07-20,TR-492283,Pass,EN 1811,SUP-0025,LAB-000002_cmr-textiles.pdf
+LAB-000003,CMR textiles,SGS India Pvt Ltd,ISO17025-4073,2024-08-11,TR-800214,See individual results,EN 1811,SUP-0014,LAB-000003_cmr-textiles.pdf
+LAB-000004,Azo amines,Textile Testing Services Lab,ISO17025-3390,2024-10-21,TR-705576,PASS,Internal method based on REACH,SUP-0022,LAB-000004_azo-amines.pdf
+LAB-000005,CMR textiles,Intertek India Pvt Ltd,ISO17025-3342,2023-11-13,TR-139328,Complies,EN ISO 14362-1,SUP-0022,LAB-000005_cmr-textiles.pdf
+LAB-000006,Phthalates,Textile Testing Services Lab,ISO17025-2363,2023-10-30,TR-373083,PASS,Internal method based on REACH,SUP-0008,LAB-000006_phthalates.pdf
+LAB-000007,Azo amines,SGS India Pvt Ltd,,2025-01-30,TR-910828,See individual results,Internal method based on REACH,SUP-0016,LAB-000007_azo-amines.pdf
+LAB-000008,CMR textiles,Bureau Veritas Consumer Products,,2026-02-19,TR-350025,PASS,EN ISO 14362-1,SUP-0016,LAB-000008_cmr-textiles.pdf
+LAB-000009,CMR textiles,Intertek India Pvt Ltd,ISO17025-2546,2025-07-31,TR-732367,Complies,Internal method based on REACH,SUP-0007,LAB-000009_cmr-textiles.pdf
+LAB-000010,Azo amines,Textile Testing Services Lab,,2024-01-03,TR-755724,PASS,EN ISO 17075-1,SUP-0013,LAB-000010_azo-amines.pdf
+LAB-000011,CMR textiles,Bureau Veritas Consumer Products,ISO17025-9656,2023-11-21,TR-869495,Complies,EN ISO 17075-1,SUP-0013,LAB-000011_cmr-textiles.pdf
+LAB-000012,Azo amines,Bureau Veritas Consumer Products,ISO17025-5626,2024-08-31,TR-603234,Pass,EN ISO 17075-1,SUP-0012,LAB-000012_azo-amines.pdf
+LAB-000013,CMR textiles,Intertek India Pvt Ltd,ISO17025-1057,2025-09-03,TR-507440,Pass,EN ISO 14362-1,SUP-0012,LAB-000013_cmr-textiles.pdf
+LAB-000014,Azo amines,Intertek India Pvt Ltd,ISO17025-3427,2025-05-12,TR-634220,Complies,EN 1811,SUP-0003,LAB-000014_azo-amines.pdf
+LAB-000015,CMR textiles,SGS India Pvt Ltd,ISO17025-9625,2023-06-13,TR-629704,Complies,EN 1811,SUP-0003,LAB-000015_cmr-textiles.pdf
+LAB-000016,Azo amines,Bureau Veritas Consumer Products,,2025-01-30,TR-678016,See individual results,EN ISO 14362-1,SUP-0003,LAB-000016_azo-amines.pdf
+LAB-000017,CMR textiles,Textile Testing Services Lab,,2023-07-10,TR-888691,Pass,EN 1811,SUP-0003,LAB-000017_cmr-textiles.pdf
+LAB-000018,Azo amines,Textile Testing Services Lab,,2025-07-25,TR-805215,PASS,EN ISO 17075-1,SUP-0025,LAB-000018_azo-amines.pdf
+LAB-000019,Azo amines,Textile Testing Services Lab,ISO17025-2500,2024-08-24,TR-654968,PASS,EN 1811,SUP-0012,LAB-000019_azo-amines.pdf
+LAB-000020,CMR textiles,Intertek India Pvt Ltd,,2025-02-18,TR-918257,Pass,EN ISO 14362-1,SUP-0012,LAB-000020_cmr-textiles.pdf
+LAB-000021,Azo amines,Bureau Veritas Consumer Products,,2025-12-25,TR-118100,Pass,EN ISO 17075-1,SUP-0022,LAB-000021_azo-amines.pdf
+LAB-000022,CMR textiles,Textile Testing Services Lab,ISO17025-3536,2023-10-01,TR-514735,See individual results,EN ISO 17075-1,SUP-0001,LAB-000022_cmr-textiles.pdf
+LAB-000023,Azo amines,SGS India Pvt Ltd,,2025-08-04,TR-200671,Complies,Internal method based on REACH,SUP-0003,LAB-000023_azo-amines.pdf
+LAB-000024,Phthalates,Intertek India Pvt Ltd,ISO17025-2132,2023-06-22,TR-378574,PASS,EN ISO 14362-1,SUP-0003,LAB-000024_phthalates.pdf
+LAB-000025,Azo amines,Intertek India Pvt Ltd,,2023-11-21,TR-105553,PASS,EN ISO 14362-1,SUP-0013,LAB-000025_azo-amines.pdf
+LAB-000026,Azo amines,Textile Testing Services Lab,ISO17025-1952,2025-11-23,TR-164893,PASS,Internal method based on REACH,SUP-0011,LAB-000026_azo-amines.pdf
+LAB-000027,Azo amines,Textile Testing Services Lab,ISO17025-4073,2025-08-29,TR-366881,See individual results,EN ISO 17075-1,SUP-0015,LAB-000027_azo-amines.pdf
+LAB-000028,CMR textiles,Intertek India Pvt Ltd,ISO17025-7891,2023-11-02,TR-736897,PASS,EN ISO 17075-1,SUP-0015,LAB-000028_cmr-textiles.pdf
+LAB-000029,Azo amines,Bureau Veritas Consumer Products,ISO17025-7890,2024-11-08,TR-584952,See individual results,EN ISO 14362-1,SUP-0004,LAB-000029_azo-amines.pdf
+LAB-000030,CMR textiles,SGS India Pvt Ltd,ISO17025-4767,2026-04-17,TR-442402,Pass,Internal method based on REACH,SUP-0004,LAB-000030_cmr-textiles.pdf
+LAB-000031,Azo amines,Textile Testing Services Lab,ISO17025-4625,2024-08-28,TR-809164,Pass,EN 1811,SUP-0018,LAB-000031_azo-amines.pdf
+LAB-000032,CMR textiles,Intertek India Pvt Ltd,ISO17025-7542,2023-10-19,TR-613501,See individual results,EN 1811,SUP-0018,LAB-000032_cmr-textiles.pdf
+LAB-000033,Azo amines,Intertek India Pvt Ltd,,2026-05-27,TR-760577,Pass,Internal method based on REACH,SUP-0002,LAB-000033_azo-amines.pdf
+LAB-000034,Phthalates,Intertek India Pvt Ltd,ISO17025-9762,2024-03-01,TR-700570,Complies,EN 1811,SUP-0002,LAB-000034_phthalates.pdf
+LAB-000035,Azo amines,Bureau Veritas Consumer Products,ISO17025-3294,2025-03-19,TR-189206,PASS,EN ISO 14362-1,SUP-0010,LAB-000035_azo-amines.pdf
+LAB-000036,CMR textiles,Intertek India Pvt Ltd,,2025-08-31,TR-803528,Complies,EN 1811,SUP-0010,LAB-000036_cmr-textiles.pdf
+LAB-000037,Azo amines,Bureau Veritas Consumer Products,,2026-05-08,TR-924157,PASS,EN 1811,SUP-0006,LAB-000037_azo-amines.pdf
+LAB-000038,CMR textiles,Intertek India Pvt Ltd,ISO17025-4363,2025-08-21,TR-439679,Pass,EN ISO 14362-1,SUP-0006,LAB-000038_cmr-textiles.pdf
+LAB-000039,Azo amines,Intertek India Pvt Ltd,ISO17025-1038,2026-04-25,TR-818059,See individual results,EN ISO 17075-1,SUP-0004,LAB-000039_azo-amines.pdf
+LAB-000040,CMR textiles,Bureau Veritas Consumer Products,ISO17025-5259,2023-10-27,TR-765153,Pass,EN ISO 14362-1,SUP-0004,LAB-000040_cmr-textiles.pdf
+LAB-000041,Nickel release,SGS India Pvt Ltd,ISO17025-1066,2025-04-26,TR-921697,See individual results,EN 1811,SUP-0007,LAB-000041_nickel-release.pdf
+LAB-000042,Azo amines,Bureau Veritas Consumer Products,ISO17025-1545,2024-08-24,TR-227315,PASS,EN 1811,SUP-0023,LAB-000042_azo-amines.pdf
+LAB-000043,CMR textiles,Intertek India Pvt Ltd,ISO17025-5910,2023-06-25,TR-310113,Pass,EN 1811,SUP-0023,LAB-000043_cmr-textiles.pdf
+LAB-000044,Azo amines,SGS India Pvt Ltd,ISO17025-2211,2024-11-07,TR-322297,See individual results,EN ISO 17075-1,SUP-0020,LAB-000044_azo-amines.pdf
+LAB-000045,Azo amines,SGS India Pvt Ltd,ISO17025-2787,2023-07-25,TR-608323,Pass,EN ISO 14362-1,SUP-0005,LAB-000045_azo-amines.pdf
+LAB-000046,Azo amines,SGS India Pvt Ltd,,2025-07-07,TR-672470,See individual results,EN ISO 14362-1,SUP-0002,LAB-000046_azo-amines.pdf
+LAB-000047,CMR textiles,Textile Testing Services Lab,ISO17025-5980,2026-03-24,TR-619695,PASS,EN ISO 17075-1,SUP-0002,LAB-000047_cmr-textiles.pdf
+LAB-000048,Nickel release,Intertek India Pvt Ltd,ISO17025-2124,2026-03-31,TR-431517,See individual results,Internal method based on REACH,SUP-0023,LAB-000048_nickel-release.pdf
+LAB-000049,Azo amines,Textile Testing Services Lab,ISO17025-6199,2024-11-04,TR-851737,See individual results,EN ISO 14362-1,SUP-0004,LAB-000049_azo-amines.pdf
+LAB-000050,CMR textiles,Textile Testing Services Lab,ISO17025-1291,2024-08-27,TR-198847,PASS,EN ISO 14362-1,SUP-0004,LAB-000050_cmr-textiles.pdf
+LAB-000051,Azo amines,Textile Testing Services Lab,ISO17025-5601,2024-07-08,TR-650735,PASS,EN ISO 17075-1,SUP-0002,LAB-000051_azo-amines.pdf
+LAB-000052,Azo amines,SGS India Pvt Ltd,ISO17025-5979,2023-09-07,TR-495786,PASS,EN ISO 17075-1,SUP-0007,LAB-000052_azo-amines.pdf
+LAB-000053,Azo amines,Bureau Veritas Consumer Products,,2026-02-26,TR-582469,Complies,EN 1811,SUP-0015,LAB-000053_azo-amines.pdf
+LAB-000054,CMR textiles,Bureau Veritas Consumer Products,ISO17025-6338,2025-12-07,TR-292235,Complies,EN ISO 14362-1,SUP-0025,LAB-000054_cmr-textiles.pdf
+LAB-000055,Azo amines,SGS India Pvt Ltd,,2024-09-02,TR-611816,Complies,Internal method based on REACH,SUP-0004,LAB-000055_azo-amines.pdf
+LAB-000056,Azo amines,Intertek India Pvt Ltd,,2025-11-09,TR-368097,Pass,EN ISO 14362-1,SUP-0016,LAB-000056_azo-amines.pdf
+LAB-000057,Phthalates,SGS India Pvt Ltd,,2025-02-04,TR-598271,Complies,EN ISO 17075-1,SUP-0016,LAB-000057_phthalates.pdf
+LAB-000058,Azo amines,Textile Testing Services Lab,,2025-05-22,TR-141920,Pass,EN ISO 14362-1,SUP-0009,LAB-000058_azo-amines.pdf
+LAB-000059,Azo amines,Bureau Veritas Consumer Products,ISO17025-7417,2026-03-16,TR-344447,Pass,Internal method based on REACH,SUP-0012,LAB-000059_azo-amines.pdf
+LAB-000060,CMR textiles,Bureau Veritas Consumer Products,ISO17025-7230,2025-06-11,TR-564629,Complies,EN 1811,SUP-0012,LAB-000060_cmr-textiles.pdf
+LAB-000061,Azo amines,Bureau Veritas Consumer Products,ISO17025-4375,2025-06-28,TR-964011,Complies,EN 1811,SUP-0014,LAB-000061_azo-amines.pdf
+LAB-000062,CMR textiles,Intertek India Pvt Ltd,ISO17025-5709,2024-06-05,TR-297827,Pass,Internal method based on REACH,SUP-0014,LAB-000062_cmr-textiles.pdf
+LAB-000063,Chromium VI,SGS India Pvt Ltd,ISO17025-2451,2025-05-02,TR-285767,Pass,EN 1811,SUP-0014,LAB-000063_chromium-vi.pdf
+LAB-000064,Azo amines,Intertek India Pvt Ltd,ISO17025-2309,2025-07-30,TR-387153,See individual results,EN ISO 14362-1,SUP-0013,LAB-000064_azo-amines.pdf
+LAB-000065,Nickel release,Intertek India Pvt Ltd,ISO17025-4442,2026-04-23,TR-850505,PASS,Internal method based on REACH,SUP-0004,LAB-000065_nickel-release.pdf
+LAB-000066,Azo amines,Bureau Veritas Consumer Products,ISO17025-7892,2025-10-28,TR-366764,PASS,EN ISO 14362-1,SUP-0016,LAB-000066_azo-amines.pdf
+LAB-000067,CMR textiles,Bureau Veritas Consumer Products,ISO17025-9734,2024-07-18,TR-891413,Pass,EN 1811,SUP-0016,LAB-000067_cmr-textiles.pdf
+LAB-000068,Azo amines,SGS India Pvt Ltd,ISO17025-5945,2024-02-20,TR-224317,Complies,EN ISO 14362-1,SUP-0001,LAB-000068_azo-amines.pdf
+LAB-000069,CMR textiles,Bureau Veritas Consumer Products,ISO17025-6775,2024-12-27,TR-639527,See individual results,EN 1811,SUP-0001,LAB-000069_cmr-textiles.pdf
+LAB-000070,Nickel release,SGS India Pvt Ltd,ISO17025-2351,2024-08-06,TR-444608,See individual results,EN ISO 14362-1,SUP-0025,LAB-000070_nickel-release.pdf
+LAB-000071,Azo amines,SGS India Pvt Ltd,ISO17025-8959,2024-07-12,TR-786112,Pass,Internal method based on REACH,SUP-0004,LAB-000071_azo-amines.pdf
+LAB-000072,CMR textiles,Textile Testing Services Lab,ISO17025-8124,2024-06-13,TR-194458,PASS,EN ISO 17075-1,SUP-0004,LAB-000072_cmr-textiles.pdf
+LAB-000073,Nickel release,SGS India Pvt Ltd,ISO17025-3665,2025-08-27,TR-586342,Pass,Internal method based on REACH,SUP-0015,LAB-000073_nickel-release.pdf
+LAB-000074,Azo amines,Textile Testing Services Lab,ISO17025-8393,2026-03-28,TR-760881,See individual results,EN ISO 14362-1,SUP-0022,LAB-000074_azo-amines.pdf
+LAB-000075,Azo amines,Textile Testing Services Lab,ISO17025-6018,2025-03-03,TR-416649,See individual results,Internal method based on REACH,SUP-0009,LAB-000075_azo-amines.pdf
+LAB-000076,CMR textiles,Textile Testing Services Lab,ISO17025-1364,2024-11-16,TR-409714,Complies,EN ISO 14362-1,SUP-0009,LAB-000076_cmr-textiles.pdf
+LAB-000077,Azo amines,SGS India Pvt Ltd,ISO17025-8333,2024-10-04,TR-105228,Pass,EN 1811,SUP-0010,LAB-000077_azo-amines.pdf
+LAB-000078,CMR textiles,Intertek India Pvt Ltd,ISO17025-1130,2024-09-10,TR-746620,See individual results,Internal method based on REACH,SUP-0010,LAB-000078_cmr-textiles.pdf
+LAB-000079,Azo amines,Intertek India Pvt Ltd,,2023-11-03,TR-778780,See individual results,EN ISO 14362-1,SUP-0014,LAB-000079_azo-amines.pdf
+LAB-000080,CMR textiles,Textile Testing Services Lab,ISO17025-2275,2026-03-13,TR-616723,PASS,EN 1811,SUP-0014,LAB-000080_cmr-textiles.pdf
+LAB-000081,Azo amines,Intertek India Pvt Ltd,ISO17025-9464,2026-01-28,TR-553259,Complies,EN 1811,SUP-0018,LAB-000081_azo-amines.pdf
+LAB-000082,Nickel release,Textile Testing Services Lab,ISO17025-7376,2026-01-04,TR-240723,See individual results,Internal method based on REACH,SUP-0015,LAB-000082_nickel-release.pdf
+LAB-000083,Azo amines,Bureau Veritas Consumer Products,,2023-06-23,TR-146040,Pass,EN ISO 14362-1,SUP-0025,LAB-000083_azo-amines.pdf
+LAB-000084,Phthalates,SGS India Pvt Ltd,ISO17025-6736,2024-07-26,TR-318729,Complies,EN ISO 14362-1,SUP-0025,LAB-000084_phthalates.pdf
+LAB-000085,Azo amines,Bureau Veritas Consumer Products,ISO17025-2963,2023-09-21,TR-173320,Complies,Internal method based on REACH,SUP-0025,LAB-000085_azo-amines.pdf
+LAB-000086,CMR textiles,SGS India Pvt Ltd,ISO17025-4385,2025-02-27,TR-643265,PASS,Internal method based on REACH,SUP-0025,LAB-000086_cmr-textiles.pdf
+LAB-000087,Azo amines,Bureau Veritas Consumer Products,ISO17025-8742,2024-08-13,TR-812185,See individual results,EN ISO 14362-1,SUP-0001,LAB-000087_azo-amines.pdf
+LAB-000088,CMR textiles,SGS India Pvt Ltd,ISO17025-4953,2024-02-17,TR-405037,See individual results,EN ISO 17075-1,SUP-0001,LAB-000088_cmr-textiles.pdf
+LAB-000089,Azo amines,Textile Testing Services Lab,ISO17025-6511,2026-06-02,TR-230704,Complies,EN ISO 14362-1,SUP-0002,LAB-000089_azo-amines.pdf
+LAB-000090,Azo amines,Textile Testing Services Lab,ISO17025-5620,2023-07-03,TR-160436,Complies,EN ISO 14362-1,SUP-0017,LAB-000090_azo-amines.pdf
+LAB-000091,CMR textiles,Bureau Veritas Consumer Products,ISO17025-3651,2025-12-23,TR-428566,Complies,EN ISO 14362-1,SUP-0017,LAB-000091_cmr-textiles.pdf
+LAB-000092,Azo amines,SGS India Pvt Ltd,ISO17025-1520,2024-08-14,TR-622796,See individual results,EN 1811,SUP-0018,LAB-000092_azo-amines.pdf
+LAB-000093,CMR textiles,Intertek India Pvt Ltd,ISO17025-6316,2026-03-04,TR-590600,PASS,EN ISO 17075-1,SUP-0018,LAB-000093_cmr-textiles.pdf
+LAB-000094,Azo amines,Bureau Veritas Consumer Products,ISO17025-8060,2024-03-30,TR-352851,See individual results,EN 1811,SUP-0012,LAB-000094_azo-amines.pdf
+LAB-000095,Azo amines,Bureau Veritas Consumer Products,ISO17025-4152,2025-12-28,TR-198165,See individual results,Internal method based on REACH,SUP-0008,LAB-000095_azo-amines.pdf
+LAB-000096,Azo amines,Textile Testing Services Lab,ISO17025-4100,2024-11-01,TR-204708,Complies,Internal method based on REACH,SUP-0020,LAB-000096_azo-amines.pdf
+LAB-000097,CMR textiles,Intertek India Pvt Ltd,ISO17025-4778,2025-12-03,TR-621517,Pass,EN ISO 17075-1,SUP-0020,LAB-000097_cmr-textiles.pdf
+LAB-000098,Azo amines,SGS India Pvt Ltd,ISO17025-2479,2023-07-05,TR-322050,Pass,EN ISO 17075-1,SUP-0013,LAB-000098_azo-amines.pdf
+LAB-000099,CMR textiles,Intertek India Pvt Ltd,ISO17025-4121,2024-11-03,TR-959760,PASS,EN 1811,SUP-0013,LAB-000099_cmr-textiles.pdf
+LAB-000100,Azo amines,Bureau Veritas Consumer Products,,2025-03-21,TR-438341,Pass,EN ISO 14362-1,SUP-0015,LAB-000100_azo-amines.pdf
+LAB-000101,CMR textiles,SGS India Pvt Ltd,,2024-01-06,TR-304988,Pass,EN ISO 17075-1,SUP-0015,LAB-000101_cmr-textiles.pdf
+LAB-000102,CMR textiles,Bureau Veritas Consumer Products,ISO17025-6803,2025-09-21,TR-283190,PASS,EN ISO 14362-1,SUP-0022,LAB-000102_cmr-textiles.pdf
+LAB-000103,Nickel release,Bureau Veritas Consumer Products,,2026-05-19,TR-700714,See individual results,EN ISO 17075-1,SUP-0012,LAB-000103_nickel-release.pdf
+LAB-000104,Azo amines,Textile Testing Services Lab,ISO17025-2233,2024-06-08,TR-219769,Pass,Internal method based on REACH,SUP-0025,LAB-000104_azo-amines.pdf
+LAB-000105,CMR textiles,Bureau Veritas Consumer Products,ISO17025-6746,2025-12-03,TR-695579,Complies,EN ISO 14362-1,SUP-0025,LAB-000105_cmr-textiles.pdf
+LAB-000106,Azo amines,Textile Testing Services Lab,ISO17025-3090,2025-03-13,TR-709235,PASS,Internal method based on REACH,SUP-0003,LAB-000106_azo-amines.pdf
+LAB-000107,CMR textiles,SGS India Pvt Ltd,,2024-04-15,TR-183401,See individual results,EN ISO 17075-1,SUP-0003,LAB-000107_cmr-textiles.pdf
+LAB-000108,Azo amines,SGS India Pvt Ltd,ISO17025-8001,2024-12-06,TR-108278,PASS,EN 1811,SUP-0002,LAB-000108_azo-amines.pdf
+LAB-000109,Azo amines,SGS India Pvt Ltd,ISO17025-3828,2023-07-16,TR-762367,PASS,EN 1811,SUP-0023,LAB-000109_azo-amines.pdf
+LAB-000110,Azo amines,Bureau Veritas Consumer Products,ISO17025-4552,2025-12-20,TR-117743,See individual results,EN ISO 14362-1,SUP-0021,LAB-000110_azo-amines.pdf
+LAB-000111,Azo amines,Intertek India Pvt Ltd,,2023-06-14,TR-673405,PASS,EN ISO 17075-1,SUP-0011,LAB-000111_azo-amines.pdf
+LAB-000112,CMR textiles,Textile Testing Services Lab,,2025-01-15,TR-568805,PASS,Internal method based on REACH,SUP-0011,LAB-000112_cmr-textiles.pdf
+LAB-000113,Azo amines,SGS India Pvt Ltd,ISO17025-3968,2023-08-14,TR-371670,See individual results,EN ISO 14362-1,SUP-0009,LAB-000113_azo-amines.pdf
+LAB-000114,CMR textiles,Textile Testing Services Lab,ISO17025-9379,2025-05-30,TR-252986,Complies,EN ISO 14362-1,SUP-0009,LAB-000114_cmr-textiles.pdf
+LAB-000115,Azo amines,Intertek India Pvt Ltd,ISO17025-6256,2024-11-13,TR-636728,See individual results,EN ISO 17075-1,SUP-0019,LAB-000115_azo-amines.pdf
+LAB-000116,CMR textiles,Textile Testing Services Lab,ISO17025-4420,2025-11-25,TR-316745,Pass,Internal method based on REACH,SUP-0019,LAB-000116_cmr-textiles.pdf
+LAB-000117,Azo amines,Bureau Veritas Consumer Products,ISO17025-6021,2026-04-25,TR-805298,See individual results,EN 1811,SUP-0021,LAB-000117_azo-amines.pdf
+LAB-000118,CMR textiles,Textile Testing Services Lab,ISO17025-7975,2025-09-04,TR-256551,See individual results,EN ISO 17075-1,SUP-0021,LAB-000118_cmr-textiles.pdf
+LAB-000119,Azo amines,Textile Testing Services Lab,ISO17025-7793,2024-08-13,TR-394319,Pass,EN ISO 17075-1,SUP-0003,LAB-000119_azo-amines.pdf
+LAB-000120,Phthalates,Bureau Veritas Consumer Products,ISO17025-6580,2023-10-23,TR-190019,PASS,EN 1811,SUP-0003,LAB-000120_phthalates.pdf
+LAB-000121,Azo amines,Textile Testing Services Lab,ISO17025-2398,2026-03-15,TR-110228,Pass,EN 1811,SUP-0005,LAB-000121_azo-amines.pdf
+LAB-000122,Nickel release,SGS India Pvt Ltd,,2024-11-12,TR-950129,See individual results,EN ISO 14362-1,SUP-0009,LAB-000122_nickel-release.pdf
+LAB-000123,Chromium VI,Bureau Veritas Consumer Products,ISO17025-1949,2026-05-05,TR-708789,PASS,Internal method based on REACH,SUP-0010,LAB-000123_chromium-vi.pdf
+LAB-000124,Azo amines,SGS India Pvt Ltd,ISO17025-3100,2025-12-04,TR-792496,Pass,EN ISO 14362-1,SUP-0017,LAB-000124_azo-amines.pdf
+LAB-000125,Azo amines,Bureau Veritas Consumer Products,ISO17025-5203,2025-12-07,TR-147569,See individual results,EN ISO 17075-1,SUP-0025,LAB-000125_azo-amines.pdf
+LAB-000126,Phthalates,SGS India Pvt Ltd,ISO17025-7095,2025-01-14,TR-666741,Pass,EN 1811,SUP-0025,LAB-000126_phthalates.pdf
+LAB-000127,Azo amines,SGS India Pvt Ltd,ISO17025-1521,2023-10-20,TR-544455,PASS,EN ISO 17075-1,SUP-0016,LAB-000127_azo-amines.pdf
+LAB-000128,CMR textiles,Intertek India Pvt Ltd,ISO17025-1466,2025-03-18,TR-595956,PASS,EN ISO 17075-1,SUP-0016,LAB-000128_cmr-textiles.pdf
+LAB-000129,Azo amines,Intertek India Pvt Ltd,ISO17025-9894,2024-01-25,TR-186395,PASS,EN ISO 17075-1,SUP-0005,LAB-000129_azo-amines.pdf
+LAB-000130,CMR textiles,Textile Testing Services Lab,ISO17025-5615,2023-10-03,TR-751943,Complies,EN 1811,SUP-0005,LAB-000130_cmr-textiles.pdf
+LAB-000131,Azo amines,Textile Testing Services Lab,,2025-04-27,TR-607100,PASS,Internal method based on REACH,SUP-0010,LAB-000131_azo-amines.pdf
+LAB-000132,CMR textiles,SGS India Pvt Ltd,ISO17025-1626,2025-10-21,TR-919946,Pass,EN ISO 14362-1,SUP-0010,LAB-000132_cmr-textiles.pdf
+LAB-000133,CMR textiles,Intertek India Pvt Ltd,ISO17025-5179,2025-11-29,TR-958835,Pass,EN 1811,SUP-0022,LAB-000133_cmr-textiles.pdf
+LAB-000134,Azo amines,Intertek India Pvt Ltd,ISO17025-6859,2026-01-23,TR-137915,See individual results,Internal method based on REACH,SUP-0006,LAB-000134_azo-amines.pdf
+LAB-000135,Nickel release,Bureau Veritas Consumer Products,,2026-02-12,TR-792854,See individual results,EN ISO 14362-1,SUP-0011,LAB-000135_nickel-release.pdf
+LAB-000136,Azo amines,Bureau Veritas Consumer Products,ISO17025-9531,2024-03-28,TR-425486,Pass,EN ISO 14362-1,SUP-0001,LAB-000136_azo-amines.pdf
+LAB-000137,Azo amines,Intertek India Pvt Ltd,ISO17025-3370,2024-10-27,TR-988125,See individual results,EN ISO 17075-1,SUP-0002,LAB-000137_azo-amines.pdf
+LAB-000138,CMR textiles,SGS India Pvt Ltd,ISO17025-8637,2025-09-27,TR-573550,PASS,Internal method based on REACH,SUP-0002,LAB-000138_cmr-textiles.pdf
+LAB-000139,Azo amines,SGS India Pvt Ltd,ISO17025-8206,2023-06-27,TR-462496,Pass,EN 1811,SUP-0005,LAB-000139_azo-amines.pdf
+LAB-000140,Azo amines,SGS India Pvt Ltd,ISO17025-7566,2023-10-22,TR-209966,Pass,EN ISO 17075-1,SUP-0006,LAB-000140_azo-amines.pdf
+LAB-000141,CMR textiles,SGS India Pvt Ltd,ISO17025-6634,2025-02-21,TR-501093,Pass,Internal method based on REACH,SUP-0006,LAB-000141_cmr-textiles.pdf
+LAB-000142,Azo amines,Textile Testing Services Lab,,2024-12-24,TR-509214,Complies,EN 1811,SUP-0001,LAB-000142_azo-amines.pdf
+LAB-000143,CMR textiles,Intertek India Pvt Ltd,,2023-11-06,TR-407185,Pass,EN ISO 14362-1,SUP-0001,LAB-000143_cmr-textiles.pdf
+LAB-000144,CMR textiles,SGS India Pvt Ltd,ISO17025-1857,2025-04-14,TR-819535,PASS,EN ISO 17075-1,SUP-0025,LAB-000144_cmr-textiles.pdf
+LAB-000145,Azo amines,Textile Testing Services Lab,,2025-02-21,TR-786640,See individual results,EN ISO 14362-1,SUP-0001,LAB-000145_azo-amines.pdf
+LAB-000146,Azo amines,Intertek India Pvt Ltd,,2024-09-08,TR-696443,PASS,Internal method based on REACH,SUP-0005,LAB-000146_azo-amines.pdf
+LAB-000147,Azo amines,Intertek India Pvt Ltd,ISO17025-1812,2024-08-22,TR-700248,PASS,EN 1811,SUP-0013,LAB-000147_azo-amines.pdf
+LAB-000148,Phthalates,Bureau Veritas Consumer Products,,2024-12-17,TR-142645,Complies,EN ISO 17075-1,SUP-0013,LAB-000148_phthalates.pdf
+LAB-000149,Azo amines,Intertek India Pvt Ltd,ISO17025-6705,2024-09-28,TR-539926,Complies,EN ISO 17075-1,SUP-0004,LAB-000149_azo-amines.pdf
+LAB-000150,Azo amines,Textile Testing Services Lab,ISO17025-4568,2023-12-08,TR-872487,See individual results,EN ISO 14362-1,SUP-0002,LAB-000150_azo-amines.pdf
+LAB-000151,CMR textiles,SGS India Pvt Ltd,,2024-05-04,TR-419010,PASS,Internal method based on REACH,SUP-0002,LAB-000151_cmr-textiles.pdf
+LAB-000152,Azo amines,Intertek India Pvt Ltd,ISO17025-4904,2024-07-03,TR-648077,Pass,EN ISO 17075-1,SUP-0022,LAB-000152_azo-amines.pdf
+LAB-000153,CMR textiles,Intertek India Pvt Ltd,ISO17025-5941,2024-11-11,TR-904232,Complies,EN ISO 14362-1,SUP-0022,LAB-000153_cmr-textiles.pdf
+LAB-000154,Azo amines,Bureau Veritas Consumer Products,ISO17025-6665,2024-08-12,TR-979848,Pass,EN ISO 14362-1,SUP-0021,LAB-000154_azo-amines.pdf
+LAB-000155,CMR textiles,Intertek India Pvt Ltd,ISO17025-6300,2023-12-26,TR-815689,See individual results,EN ISO 17075-1,SUP-0021,LAB-000155_cmr-textiles.pdf
+LAB-000156,CMR textiles,Intertek India Pvt Ltd,ISO17025-1743,2024-07-17,TR-186894,Pass,Internal method based on REACH,SUP-0006,LAB-000156_cmr-textiles.pdf
+LAB-000157,Azo amines,SGS India Pvt Ltd,ISO17025-2836,2026-04-01,TR-750866,PASS,Internal method based on REACH,SUP-0019,LAB-000157_azo-amines.pdf
+LAB-000158,Azo amines,Intertek India Pvt Ltd,ISO17025-5330,2025-07-30,TR-795175,Complies,EN 1811,SUP-0018,LAB-000158_azo-amines.pdf
+LAB-000159,CMR textiles,Intertek India Pvt Ltd,,2024-04-11,TR-714987,Pass,Internal method based on REACH,SUP-0018,LAB-000159_cmr-textiles.pdf
+LAB-000160,CMR textiles,Intertek India Pvt Ltd,ISO17025-4121,2025-04-18,TR-307824,Complies,Internal method based on REACH,SUP-0008,LAB-000160_cmr-textiles.pdf
+LAB-000161,Azo amines,Intertek India Pvt Ltd,ISO17025-7280,2024-08-13,TR-361623,PASS,EN 1811,SUP-0007,LAB-000161_azo-amines.pdf
+LAB-000162,CMR textiles,Textile Testing Services Lab,ISO17025-9017,2026-05-19,TR-112173,Pass,EN ISO 17075-1,SUP-0007,LAB-000162_cmr-textiles.pdf
+LAB-000163,Azo amines,Textile Testing Services Lab,ISO17025-4688,2024-06-25,TR-421430,Complies,EN ISO 17075-1,SUP-0001,LAB-000163_azo-amines.pdf
+LAB-000164,CMR textiles,SGS India Pvt Ltd,ISO17025-9395,2025-11-01,TR-487794,Pass,EN ISO 14362-1,SUP-0001,LAB-000164_cmr-textiles.pdf
+LAB-000165,Azo amines,SGS India Pvt Ltd,ISO17025-2945,2026-03-22,TR-698102,Complies,EN ISO 17075-1,SUP-0003,LAB-000165_azo-amines.pdf
+LAB-000166,CMR textiles,Bureau Veritas Consumer Products,,2025-02-17,TR-632514,PASS,EN 1811,SUP-0003,LAB-000166_cmr-textiles.pdf
+LAB-000167,CMR textiles,Bureau Veritas Consumer Products,,2025-02-18,TR-142633,Pass,Internal method based on REACH,SUP-0009,LAB-000167_cmr-textiles.pdf
+LAB-000168,CMR textiles,SGS India Pvt Ltd,ISO17025-2926,2025-02-20,TR-875180,Complies,EN ISO 14362-1,SUP-0015,LAB-000168_cmr-textiles.pdf
+LAB-000169,Azo amines,SGS India Pvt Ltd,,2025-07-27,TR-301768,Complies,Internal method based on REACH,SUP-0018,LAB-000169_azo-amines.pdf
+LAB-000170,CMR textiles,SGS India Pvt Ltd,ISO17025-7167,2026-05-31,TR-274800,Pass,EN 1811,SUP-0018,LAB-000170_cmr-textiles.pdf
+LAB-000171,Azo amines,Intertek India Pvt Ltd,ISO17025-9345,2026-02-07,TR-764855,See individual results,Internal method based on REACH,SUP-0009,LAB-000171_azo-amines.pdf
+LAB-000172,Azo amines,Textile Testing Services Lab,,2024-10-13,TR-707953,Pass,EN 1811,SUP-0009,LAB-000172_azo-amines.pdf
+LAB-000173,CMR textiles,Textile Testing Services Lab,ISO17025-6459,2024-11-04,TR-191941,Pass,Internal method based on REACH,SUP-0009,LAB-000173_cmr-textiles.pdf
+LAB-000174,Azo amines,Textile Testing Services Lab,ISO17025-2325,2024-11-21,TR-856125,See individual results,EN ISO 14362-1,SUP-0013,LAB-000174_azo-amines.pdf
+LAB-000175,CMR textiles,Bureau Veritas Consumer Products,ISO17025-3264,2023-11-05,TR-517236,Complies,Internal method based on REACH,SUP-0013,LAB-000175_cmr-textiles.pdf
+LAB-000176,Nickel release,Bureau Veritas Consumer Products,ISO17025-2387,2026-05-10,TR-740623,Pass,EN ISO 17075-1,SUP-0014,LAB-000176_nickel-release.pdf
+LAB-000177,Azo amines,Intertek India Pvt Ltd,,2024-05-20,TR-702515,Complies,Internal method based on REACH,SUP-0017,LAB-000177_azo-amines.pdf
+LAB-000178,Phthalates,Intertek India Pvt Ltd,ISO17025-4824,2025-09-19,TR-654505,See individual results,EN ISO 14362-1,SUP-0017,LAB-000178_phthalates.pdf
+LAB-000179,Azo amines,Bureau Veritas Consumer Products,,2025-03-12,TR-682593,Complies,EN ISO 17075-1,SUP-0016,LAB-000179_azo-amines.pdf
+LAB-000180,CMR textiles,Bureau Veritas Consumer Products,ISO17025-8271,2024-09-24,TR-532814,See individual results,EN ISO 17075-1,SUP-0016,LAB-000180_cmr-textiles.pdf
+LAB-000181,CMR textiles,SGS India Pvt Ltd,,2026-05-03,TR-433849,See individual results,EN ISO 14362-1,SUP-0010,LAB-000181_cmr-textiles.pdf
+LAB-000182,Azo amines,SGS India Pvt Ltd,,2023-11-07,TR-440412,PASS,EN ISO 14362-1,SUP-0015,LAB-000182_azo-amines.pdf
+LAB-000183,Azo amines,SGS India Pvt Ltd,ISO17025-7933,2025-11-27,TR-255119,See individual results,Internal method based on REACH,SUP-0002,LAB-000183_azo-amines.pdf
+LAB-000184,CMR textiles,Bureau Veritas Consumer Products,,2024-05-26,TR-605039,See individual results,EN ISO 17075-1,SUP-0002,LAB-000184_cmr-textiles.pdf
+LAB-000185,Azo amines,Intertek India Pvt Ltd,,2025-10-07,TR-432959,See individual results,Internal method based on REACH,SUP-0002,LAB-000185_azo-amines.pdf
+LAB-000186,CMR textiles,Intertek India Pvt Ltd,ISO17025-5553,2025-09-12,TR-419192,Complies,EN ISO 14362-1,SUP-0002,LAB-000186_cmr-textiles.pdf
+LAB-000187,CMR textiles,Bureau Veritas Consumer Products,ISO17025-8999,2026-02-07,TR-957503,See individual results,EN 1811,SUP-0022,LAB-000187_cmr-textiles.pdf
+LAB-000188,Chromium VI,Intertek India Pvt Ltd,ISO17025-4800,2024-11-18,TR-166850,Complies,EN ISO 17075-1,SUP-0015,LAB-000188_chromium-vi.pdf
+LAB-000189,Azo amines,Intertek India Pvt Ltd,ISO17025-2764,2024-12-27,TR-768878,PASS,EN ISO 14362-1,SUP-0014,LAB-000189_azo-amines.pdf
+LAB-000190,CMR textiles,Textile Testing Services Lab,,2024-01-04,TR-664560,See individual results,EN ISO 17075-1,SUP-0014,LAB-000190_cmr-textiles.pdf
+LAB-000191,Azo amines,SGS India Pvt Ltd,,2023-11-08,TR-419880,PASS,Internal method based on REACH,SUP-0006,LAB-000191_azo-amines.pdf
+LAB-000192,CMR textiles,Textile Testing Services Lab,ISO17025-2536,2025-02-19,TR-524664,See individual results,EN 1811,SUP-0006,LAB-000192_cmr-textiles.pdf
+LAB-000193,Azo amines,Textile Testing Services Lab,ISO17025-7027,2024-02-02,TR-620153,Pass,Internal method based on REACH,SUP-0001,LAB-000193_azo-amines.pdf
+LAB-000194,CMR textiles,SGS India Pvt Ltd,ISO17025-3572,2025-10-01,TR-673434,Complies,Internal method based on REACH,SUP-0001,LAB-000194_cmr-textiles.pdf
+LAB-000195,Azo amines,Bureau Veritas Consumer Products,ISO17025-1869,2024-11-18,TR-419518,See individual results,EN 1811,SUP-0020,LAB-000195_azo-amines.pdf
+LAB-000196,CMR textiles,Textile Testing Services Lab,ISO17025-4813,2023-08-11,TR-285726,See individual results,EN 1811,SUP-0020,LAB-000196_cmr-textiles.pdf
+LAB-000197,Azo amines,Textile Testing Services Lab,,2024-02-23,TR-886298,PASS,Internal method based on REACH,SUP-0015,LAB-000197_azo-amines.pdf
+LAB-000198,CMR textiles,Bureau Veritas Consumer Products,ISO17025-5754,2024-09-25,TR-503804,PASS,EN 1811,SUP-0015,LAB-000198_cmr-textiles.pdf
+LAB-000199,Azo amines,Bureau Veritas Consumer Products,ISO17025-8417,2025-08-17,TR-494581,See individual results,EN 1811,SUP-0005,LAB-000199_azo-amines.pdf
+LAB-000200,CMR textiles,Textile Testing Services Lab,ISO17025-7097,2025-07-21,TR-434177,Complies,EN ISO 17075-1,SUP-0005,LAB-000200_cmr-textiles.pdf
+LAB-000201,CMR textiles,Bureau Veritas Consumer Products,,2025-05-23,TR-745696,Pass,EN ISO 14362-1,SUP-0023,LAB-000201_cmr-textiles.pdf
+LAB-000202,Azo amines,Intertek India Pvt Ltd,ISO17025-3578,2025-09-19,TR-691554,PASS,Internal method based on REACH,SUP-0021,LAB-000202_azo-amines.pdf
+LAB-000203,CMR textiles,SGS India Pvt Ltd,ISO17025-9001,2024-02-12,TR-398373,Complies,EN ISO 17075-1,SUP-0021,LAB-000203_cmr-textiles.pdf
+LAB-000204,Azo amines,SGS India Pvt Ltd,ISO17025-6571,2025-07-08,TR-300470,Complies,EN ISO 14362-1,SUP-0015,LAB-000204_azo-amines.pdf
+LAB-000205,CMR textiles,SGS India Pvt Ltd,ISO17025-9670,2023-08-18,TR-754527,Complies,EN 1811,SUP-0015,LAB-000205_cmr-textiles.pdf
+LAB-000206,CMR textiles,SGS India Pvt Ltd,ISO17025-5160,2025-03-30,TR-304320,Complies,EN ISO 17075-1,SUP-0016,LAB-000206_cmr-textiles.pdf
+LAB-000207,Azo amines,Intertek India Pvt Ltd,ISO17025-6520,2024-08-13,TR-979831,Pass,EN ISO 14362-1,SUP-0025,LAB-000207_azo-amines.pdf
+LAB-000208,CMR textiles,Bureau Veritas Consumer Products,ISO17025-2695,2025-08-05,TR-909071,See individual results,EN 1811,SUP-0025,LAB-000208_cmr-textiles.pdf
+LAB-000209,CMR textiles,Textile Testing Services Lab,ISO17025-9033,2023-09-01,TR-320339,Complies,Internal method based on REACH,SUP-0001,LAB-000209_cmr-textiles.pdf
+LAB-000210,Nickel release,Textile Testing Services Lab,,2025-02-12,TR-341152,PASS,EN ISO 14362-1,SUP-0018,LAB-000210_nickel-release.pdf
+LAB-000211,Azo amines,Textile Testing Services Lab,ISO17025-2758,2024-06-12,TR-641905,PASS,EN ISO 17075-1,SUP-0014,LAB-000211_azo-amines.pdf
+LAB-000212,Phthalates,Intertek India Pvt Ltd,ISO17025-5583,2023-06-08,TR-802258,Pass,EN ISO 17075-1,SUP-0014,LAB-000212_phthalates.pdf
+LAB-000213,Azo amines,Intertek India Pvt Ltd,ISO17025-8251,2024-02-02,TR-295570,See individual results,EN 1811,SUP-0011,LAB-000213_azo-amines.pdf
+LAB-000214,CMR textiles,Bureau Veritas Consumer Products,ISO17025-9123,2026-03-26,TR-557442,See individual results,EN 1811,SUP-0011,LAB-000214_cmr-textiles.pdf
+LAB-000215,Azo amines,Textile Testing Services Lab,ISO17025-5539,2025-08-21,TR-338806,Pass,EN ISO 17075-1,SUP-0020,LAB-000215_azo-amines.pdf
+LAB-000216,Azo amines,Textile Testing Services Lab,,2025-12-19,TR-311430,PASS,EN ISO 14362-1,SUP-0025,LAB-000216_azo-amines.pdf
+LAB-000217,CMR textiles,Textile Testing Services Lab,ISO17025-5000,2023-08-12,TR-915633,PASS,EN 1811,SUP-0025,LAB-000217_cmr-textiles.pdf
+LAB-SHP1-AZO,Azo amines,Intertek India Pvt Ltd,ISO17025-4451,2024-03-12,TR-448210,PASS,EN ISO 14362-1,SUP-0006,SHP1_azo_navy_fleece.pdf

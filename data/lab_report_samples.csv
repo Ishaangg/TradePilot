@@ -1,0 +1,219 @@
+﻿sample_id,lab_report_id,sample_description,material_code,colour,batch_or_lot,sku_reference,tested_parameter,reported_limit,reported_result,reported_unit,result_interpretation_raw
+SMP-0000001,LAB-000001,Cotton/polyester jersey Black,MAT-2351,Black,,EU-APP-0001,Restricted aromatic amines,30,<5,mg/kg,Complies
+SMP-0000002,LAB-000002,Polyester Black,MAT-1856,Black,LOT-74794,EU-APP-0001,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000003,LAB-000003,Viscose/linen blend Blue,MAT-6683,Blue,,EU-APP-0002,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000004,LAB-000004,Linen Blue,MAT-7676,Blue,,EU-APP-0002,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000005,LAB-000005,Linen Blue,MAT-7676,Blue,LOT-41507,EU-APP-0002,CMR textile substances,See method,See annex,,Complies
+SMP-0000006,LAB-000006,Soft PVC print Blue,PVC-7031,Blue,,EU-APP-0002,Restricted phthalates,0.1,0.14,% w/w,No conclusion stated
+SMP-0000007,LAB-000007,Cotton White,MAT-3166,White,LOT-51133,EU-APP-0003,Restricted aromatic amines,30,<10,mg/kg,See report conclusion
+SMP-0000008,LAB-000008,Cotton White,MAT-3166,White,,EU-APP-0003,CMR textile substances,See method,Not detected,,Pass
+SMP-0000009,LAB-000009,Cotton Black,MAT-6559,Black,LOT-39390,EU-APP-0004,CMR textile substances,See method,Not detected,,Pass
+SMP-0000010,LAB-000010,Cotton Blue,MAT-9101,Blue,,,Restricted aromatic amines,30,ND,mg/kg,Complies
+SMP-0000011,LAB-000011,Cotton Blue,MAT-9101,Blue,LOT-47236,EU-APP-0005,CMR textile substances,See method,Not detected,,Complies
+SMP-0000012,LAB-000012,Cotton Black,MAT-6276,Black,,EU-APP-0006,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000013,LAB-000013,Cotton Black,MAT-6276,Black,LOT-84800,,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000014,LAB-000014,Cotton/polyester jersey White,MAT-6482,White,,EU-APP-0007,Restricted aromatic amines,30,<5,mg/kg,See report conclusion
+SMP-0000015,LAB-000015,Cotton/polyester jersey White,MAT-6482,White,,EU-APP-0007,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000016,LAB-000016,Polyester White,MAT-8344,White,LOT-21368,,Restricted aromatic amines,30,ND,mg/kg,Complies
+SMP-0000017,LAB-000017,Polyester White,MAT-8344,White,,EU-APP-0007,CMR textile substances,See method,Not detected,,Pass
+SMP-0000018,LAB-000018,Cotton/polyester jersey Beige,MAT-7933,Beige,LOT-31496,EU-APP-0008,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000019,LAB-000019,Polyester Black,MAT-6486,Black,LOT-17405,EU-APP-0008,Restricted aromatic amines,30,<10,mg/kg,Complies
+SMP-0000020,LAB-000020,Polyester Black,MAT-6486,Black,LOT-15767,EU-APP-0008,CMR textile substances,See method,See annex,,Pass
+SMP-0000021,LAB-000021,Cotton/polyester jersey Grey,MAT-6920,Grey,,EU-APP-0009,Restricted aromatic amines,30,28,mg/kg,Complies
+SMP-0000022,LAB-000022,Polyester Grey,MAT-5845,Grey,LOT-66552,EU-APP-0009,CMR textile substances,See method,Not detected,,Pass
+SMP-0000023,LAB-000023,Soft PVC print Grey,PVC-2788,Grey,LOT-32263,,Restricted aromatic amines,30,<10,mg/kg,See report conclusion
+SMP-0000024,LAB-000024,Soft PVC print Grey,PVC-2788,Grey,LOT-80518,EU-APP-0009,Restricted phthalates,0.1,<0.01,% w/w,Pass
+SMP-0000025,LAB-000025,Cotton/polyester jersey Pink,MAT-3902,Pink,LOT-42252,EU-APP-0010,Restricted aromatic amines,30,<5,mg/kg,Complies
+SMP-0000026,LAB-000026,Polyester Pink,MAT-3884,Pink,,EU-APP-0010,Restricted aromatic amines,30,ND,mg/kg,No conclusion stated
+SMP-0000027,LAB-000027,Cotton Olive,MAT-9380,Olive,,,Restricted aromatic amines,30,<5,mg/kg,Pass
+SMP-0000028,LAB-000028,Cotton Olive,MAT-9380,Olive,LOT-52353,,CMR textile substances,See method,Within listed limits,,Complies
+SMP-0000029,LAB-000029,Cotton/polyester jersey Black,MAT-8262,Black,LOT-52050,EU-APP-0012,Restricted aromatic amines,30,<10,mg/kg,Pass
+SMP-0000030,LAB-000030,Cotton/polyester jersey Black,MAT-8262,Black,LOT-44981,,CMR textile substances,See method,Within listed limits,,Complies
+SMP-0000031,LAB-000031,Polyester Black,MAT-2938,Black,,,Restricted aromatic amines,30,<5,mg/kg,Complies
+SMP-0000032,LAB-000032,Polyester Black,MAT-2938,Black,LOT-78184,,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000033,LAB-000033,Soft PVC print Black,PVC-5599,Black,LOT-11885,EU-APP-0012,Restricted aromatic amines,30,<10,mg/kg,Pass
+SMP-0000034,LAB-000034,Soft PVC print Black,PVC-5599,Black,LOT-64369,EU-APP-0012,Restricted phthalates,0.1,0.08,% w/w,No conclusion stated
+SMP-0000035,LAB-000035,Polyester Beige,MAT-2624,Beige,LOT-71190,EU-APP-0013,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000036,LAB-000036,Polyester Beige,MAT-2624,Beige,LOT-65738,EU-APP-0013,CMR textile substances,See method,See annex,,Complies
+SMP-0000037,LAB-000037,Viscose/linen blend Red,MAT-6578,Red,,EU-APP-0014,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000038,LAB-000038,Viscose/linen blend Red,MAT-6578,Red,,,CMR textile substances,See method,See annex,,Pass
+SMP-0000039,LAB-000039,Linen Red,MAT-1682,Red,LOT-95777,,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000040,LAB-000040,Linen Red,MAT-1682,Red,LOT-45917,EU-APP-0014,CMR textile substances,See method,See annex,,Pass
+SMP-0000041,LAB-000041,Stainless steel Red,TRIM-2602,Red,LOT-35682,,Nickel release,0.5,0.08,µg/cm²/week,Complies
+SMP-0000042,LAB-000042,Cotton Beige,MAT-5904,Beige,,,Restricted aromatic amines,30,28,mg/kg,See report conclusion
+SMP-0000043,LAB-000043,Cotton Beige,MAT-5904,Beige,LOT-47019,EU-APP-0015,CMR textile substances,See method,Not detected,,Complies
+SMP-0000044,LAB-000044,Cotton/elastane fleece Olive,MAT-9176,Olive,LOT-12078,EU-APP-0016,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000045,LAB-000045,Elastane Olive,MAT-4301,Olive,LOT-38263,,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000046,LAB-000046,Cotton Black,MAT-5404,Black,,,Restricted aromatic amines,30,12,mg/kg,Complies
+SMP-0000047,LAB-000047,Cotton Black,MAT-5404,Black,LOT-48186,EU-APP-0017,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000048,LAB-000048,Nickel-plated brass Black,TRIM-2370,Black,,EU-APP-0017,Nickel release,0.5,0.08,µg/cm²/week,See report conclusion
+SMP-0000049,LAB-000049,Cotton/elastane fleece Pink,MAT-4705,Pink,LOT-47821,EU-APP-0018,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000050,LAB-000050,Cotton/elastane fleece Pink,MAT-4705,Pink,LOT-48862,EU-APP-0018,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000051,LAB-000051,Elastane Pink,MAT-8334,Pink,,,Restricted aromatic amines,30,28,mg/kg,See report conclusion
+SMP-0000052,LAB-000052,Cotton Olive,MAT-6262,Olive,LOT-72068,EU-APP-0019,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000053,LAB-000053,Cotton Red,MAT-7546,Red,LOT-13504,,Restricted aromatic amines,30,<5,mg/kg,No conclusion stated
+SMP-0000054,LAB-000054,Cotton Red,MAT-8808,Red,,,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000055,LAB-000055,Cotton Blue,MAT-4651,Blue,LOT-65110,EU-APP-0022,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000056,LAB-000056,Soft PVC print Blue,PVC-2095,Blue,LOT-38623,,Restricted aromatic amines,30,28,mg/kg,Pass
+SMP-0000057,LAB-000057,Soft PVC print Blue,PVC-2095,Blue,,EU-APP-0022,Restricted phthalates,0.1,0.08,% w/w,See report conclusion
+SMP-0000058,LAB-000058,Cotton/elastane fleece Beige,MAT-2938,Beige,LOT-22094,EU-APP-0023,Restricted aromatic amines,30,<5,mg/kg,Complies
+SMP-0000059,LAB-000059,Elastane Beige,MAT-5129,Beige,,,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000060,LAB-000060,Elastane Beige,MAT-5129,Beige,,EU-APP-0023,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000061,LAB-000061,Cotton Navy,MAT-8125,Navy,LOT-92136,EU-APP-0024,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000062,LAB-000062,Cotton Navy,MAT-8125,Navy,LOT-52866,EU-APP-0024,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000063,LAB-000063,Genuine leather Brown,LEA-6246,Brown,LOT-10873,,Chromium VI,3,2.7,mg/kg,See report conclusion
+SMP-0000064,LAB-000064,Polyester White,MAT-8827,White,,,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000065,LAB-000065,Nickel-plated brass White,TRIM-3295,White,,EU-APP-0025,Nickel release,0.5,0.62,µg/cm²/week,No conclusion stated
+SMP-0000066,LAB-000066,Cotton/polyester jersey Pink,MAT-5086,Pink,LOT-17152,,Restricted aromatic amines,30,12,mg/kg,Pass
+SMP-0000067,LAB-000067,Cotton/polyester jersey Beige,MAT-5086,Beige,,EU-APP-0026,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000068,LAB-000068,Polyester Beige,MAT-8044,Beige,LOT-87641,,Restricted aromatic amines,30,28,mg/kg,Pass
+SMP-0000069,LAB-000069,Polyester Beige,MAT-8044,Beige,LOT-31269,EU-APP-0026,CMR textile substances,See method,Not detected,,Complies
+SMP-0000070,LAB-000070,Painted alloy Beige,TRIM-7984,Beige,LOT-87233,EU-APP-0026,Nickel release,0.5,0.62,µg/cm²/week,Complies
+SMP-0000071,LAB-000071,Polyester White,MAT-1619,White,LOT-53041,EU-APP-0027,Restricted aromatic amines,30,28,mg/kg,Complies
+SMP-0000072,LAB-000072,Polyester White,MAT-1619,White,,EU-APP-0027,CMR textile substances,See method,See annex,,Complies
+SMP-0000073,LAB-000073,Stainless steel White,TRIM-1716,White,LOT-17516,EU-APP-0027,Nickel release,0.5,0.21,µg/cm²/week,No conclusion stated
+SMP-0000074,LAB-000074,Viscose/linen blend Grey,MAT-3087,Grey,,EU-APP-0028,Restricted aromatic amines,30,12,mg/kg,Complies
+SMP-0000075,LAB-000075,Linen Grey,MAT-5746,Grey,LOT-82642,EU-APP-0028,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000076,LAB-000076,Linen Grey,MAT-5746,Grey,,EU-APP-0028,CMR textile substances,See method,Within listed limits,,Pass
+SMP-0000077,LAB-000077,Cotton/polyester jersey Pink,MAT-7395,Pink,LOT-16817,EU-APP-0029,Restricted aromatic amines,30,<5,mg/kg,No conclusion stated
+SMP-0000078,LAB-000078,Cotton/polyester jersey Pink,MAT-7395,Pink,LOT-59791,EU-APP-0029,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000079,LAB-000079,Polyester Grey,MAT-6718,Grey,LOT-58967,,Restricted aromatic amines,30,<10,mg/kg,Pass
+SMP-0000080,LAB-000080,Polyester Pink,MAT-6718,Pink,LOT-23759,EU-APP-0029,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000081,LAB-000081,Linen Black,MAT-5392,Black,LOT-75659,EU-APP-0030,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000082,LAB-000082,Nickel-plated brass Olive,TRIM-5499,Olive,LOT-37087,EU-APP-0030,Nickel release,0.5,0.62,µg/cm²/week,See report conclusion
+SMP-0000083,LAB-000083,Soft PVC print Olive,PVC-7996,Olive,,EU-APP-0030,Restricted aromatic amines,30,<10,mg/kg,Pass
+SMP-0000084,LAB-000084,Soft PVC print Olive,PVC-7996,Olive,,EU-APP-0030,Restricted phthalates,0.1,0.08,% w/w,Complies
+SMP-0000085,LAB-000085,Cotton/polyester jersey Navy,MAT-3306,Navy,,EU-APP-0031,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000086,LAB-000086,Cotton/polyester jersey Navy,MAT-3306,Navy,LOT-40669,,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000087,LAB-000087,Polyester Navy,MAT-7520,Navy,LOT-43928,,Restricted aromatic amines,30,12,mg/kg,Pass
+SMP-0000088,LAB-000088,Polyester Navy,MAT-7520,Navy,LOT-87294,EU-APP-0031,CMR textile substances,See method,See annex,,Complies
+SMP-0000089,LAB-000089,Cotton/elastane fleece White,MAT-6203,White,LOT-80558,EU-APP-0032,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000090,LAB-000090,Elastane White,MAT-1596,White,,,Restricted aromatic amines,30,<10,mg/kg,Complies
+SMP-0000091,LAB-000091,Elastane White,MAT-1596,White,,EU-APP-0032,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000092,LAB-000092,Cotton Beige,MAT-3073,Beige,LOT-91113,EU-APP-0033,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000093,LAB-000093,Cotton Beige,MAT-3073,Beige,,EU-APP-0033,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000094,LAB-000094,Viscose/linen blend White,MAT-1249,White,LOT-52187,EU-APP-0034,Restricted aromatic amines,30,<5,mg/kg,Complies
+SMP-0000095,LAB-000095,Viscose/linen blend Grey,MAT-3830,Grey,LOT-39415,EU-APP-0035,Restricted aromatic amines,30,28,mg/kg,Pass
+SMP-0000096,LAB-000096,Linen Grey,MAT-5766,Grey,,EU-APP-0035,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000097,LAB-000097,Linen Grey,MAT-5766,Grey,LOT-19499,,CMR textile substances,See method,Not detected,,Complies
+SMP-0000098,LAB-000098,Cotton/polyester jersey Grey,MAT-6428,Grey,LOT-13222,EU-APP-0036,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000099,LAB-000099,Cotton/polyester jersey White,MAT-6428,White,,EU-APP-0036,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000100,LAB-000100,Polyester White,MAT-4466,White,LOT-94200,,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000101,LAB-000101,Polyester White,MAT-4466,White,LOT-53204,,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000102,LAB-000102,Cotton Blue,MAT-6137,Blue,,EU-APP-0037,CMR textile substances,See method,See annex,,Pass
+SMP-0000103,LAB-000103,Painted alloy Blue,TRIM-1851,Blue,,EU-APP-0037,Nickel release,0.5,0.08,µg/cm²/week,See report conclusion
+SMP-0000104,LAB-000104,Polyester Beige,MAT-9812,Beige,LOT-42348,EU-APP-0038,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000105,LAB-000105,Polyester Beige,MAT-9812,Beige,LOT-99821,EU-APP-0038,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000106,LAB-000106,Cotton Navy,MAT-4280,Navy,LOT-54427,EU-APP-0039,Restricted aromatic amines,30,<5,mg/kg,Pass
+SMP-0000107,LAB-000107,Cotton Navy,MAT-4280,Navy,LOT-16913,,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000108,LAB-000108,Cotton/elastane fleece Olive,MAT-3894,Olive,,,Restricted aromatic amines,30,<5,mg/kg,See report conclusion
+SMP-0000109,LAB-000109,Elastane Olive,MAT-3727,Olive,LOT-96644,EU-APP-0040,Restricted aromatic amines,30,ND,mg/kg,No conclusion stated
+SMP-0000110,LAB-000110,Viscose/linen blend Olive,MAT-1627,Olive,LOT-12872,,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000111,LAB-000111,Linen Olive,MAT-4721,Olive,,,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000112,LAB-000112,Linen Olive,MAT-4721,Olive,LOT-53897,,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000113,LAB-000113,Viscose/linen blend Beige,MAT-9409,Beige,,EU-APP-0042,Restricted aromatic amines,30,12,mg/kg,Complies
+SMP-0000114,LAB-000114,Viscose/linen blend Beige,MAT-9409,Beige,LOT-38246,EU-APP-0042,CMR textile substances,See method,Not detected,,Complies
+SMP-0000115,LAB-000115,Linen Beige,MAT-2654,Beige,LOT-65675,EU-APP-0042,Restricted aromatic amines,30,ND,mg/kg,No conclusion stated
+SMP-0000116,LAB-000116,Linen Beige,MAT-2654,Beige,,EU-APP-0042,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000117,LAB-000117,Cotton Grey,MAT-1935,Grey,,EU-APP-0043,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000118,LAB-000118,Cotton Grey,MAT-1935,Grey,,EU-APP-0043,CMR textile substances,See method,Not detected,,Pass
+SMP-0000119,LAB-000119,Soft PVC print Grey,PVC-1754,Grey,,EU-APP-0043,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000120,LAB-000120,Soft PVC print Grey,PVC-1754,Grey,,,Restricted phthalates,0.1,0.08,% w/w,Complies
+SMP-0000121,LAB-000121,Cotton/polyester jersey Beige,MAT-9759,Beige,LOT-16858,EU-APP-0044,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000122,LAB-000122,Painted alloy Black,TRIM-2722,Black,LOT-65877,EU-APP-0044,Nickel release,0.5,0.21,µg/cm²/week,Complies
+SMP-0000123,LAB-000123,Genuine leather Brown,LEA-4175,Brown,,EU-APP-0044,Chromium VI,3,1.2,mg/kg,Pass
+SMP-0000124,LAB-000124,Polyester Navy,MAT-4076,Navy,LOT-71712,EU-APP-0045,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000125,LAB-000125,Soft PVC print Navy,PVC-9716,Navy,LOT-94290,,Restricted aromatic amines,30,<10,mg/kg,Complies
+SMP-0000126,LAB-000126,Soft PVC print Navy,PVC-9716,Navy,,EU-APP-0045,Restricted phthalates,0.1,0.14,% w/w,See report conclusion
+SMP-0000127,LAB-000127,Cotton/elastane fleece Black,MAT-6970,Black,,,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000128,LAB-000128,Cotton/elastane fleece Black,MAT-6970,Black,LOT-69097,EU-APP-0046,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000129,LAB-000129,Cotton/elastane fleece Black,MAT-1694,Black,,EU-APP-0047,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000130,LAB-000130,Cotton/elastane fleece Black,MAT-1694,Black,LOT-95725,EU-APP-0047,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000131,LAB-000131,Elastane Black,MAT-2735,Black,LOT-23345,EU-APP-0047,Restricted aromatic amines,30,<5,mg/kg,See report conclusion
+SMP-0000132,LAB-000132,Elastane Black,MAT-2735,Black,LOT-20609,EU-APP-0047,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000133,LAB-000133,Viscose/linen blend Grey,MAT-4814,Grey,,EU-APP-0048,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000134,LAB-000134,Linen Grey,MAT-4757,Grey,LOT-78733,,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000135,LAB-000135,Nickel-plated brass Olive,TRIM-4386,Olive,LOT-92789,EU-APP-0049,Nickel release,0.5,0.44,µg/cm²/week,Complies
+SMP-0000136,LAB-000136,Viscose/linen blend Grey,MAT-9926,Grey,LOT-58686,EU-APP-0050,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000137,LAB-000137,Linen Grey,MAT-4540,Grey,LOT-59281,EU-APP-0050,Restricted aromatic amines,30,<5,mg/kg,See report conclusion
+SMP-0000138,LAB-000138,Linen Grey,MAT-4540,Grey,LOT-66787,,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000139,LAB-000139,Cotton Grey,MAT-8411,Grey,,,Restricted aromatic amines,30,ND,mg/kg,Complies
+SMP-0000140,LAB-000140,Viscose/linen blend Black,MAT-6308,Black,LOT-59915,EU-APP-0052,Restricted aromatic amines,30,28,mg/kg,Complies
+SMP-0000141,LAB-000141,Viscose/linen blend Black,MAT-6308,Black,,EU-APP-0052,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000142,LAB-000142,Cotton/polyester jersey Grey,MAT-2767,Grey,LOT-81748,EU-APP-0053,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000143,LAB-000143,Cotton/polyester jersey Grey,MAT-2767,Grey,,EU-APP-0053,CMR textile substances,See method,Not detected,,Pass
+SMP-0000144,LAB-000144,Polyester Grey,MAT-6374,Grey,LOT-23335,EU-APP-0053,CMR textile substances,See method,Not detected,,Pass
+SMP-0000145,LAB-000145,Cotton Blue,MAT-4504,Blue,LOT-78605,,Restricted aromatic amines,30,12,mg/kg,Pass
+SMP-0000146,LAB-000146,Polyester Navy,MAT-6579,Navy,LOT-75540,EU-APP-0055,Restricted aromatic amines,30,<5,mg/kg,No conclusion stated
+SMP-0000147,LAB-000147,Soft PVC print Blue,PVC-1663,Blue,LOT-35909,EU-APP-0056,Restricted aromatic amines,30,<10,mg/kg,Pass
+SMP-0000148,LAB-000148,Soft PVC print Blue,PVC-1663,Blue,,,Restricted phthalates,0.1,0.14,% w/w,See report conclusion
+SMP-0000149,LAB-000149,Cotton/polyester jersey Olive,MAT-2727,Olive,,EU-APP-0057,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000150,LAB-000150,Polyester Pink,MAT-5653,Pink,LOT-45693,EU-APP-0057,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000151,LAB-000151,Polyester Pink,MAT-5653,Pink,,EU-APP-0057,CMR textile substances,See method,Not detected,,Pass
+SMP-0000152,LAB-000152,Cotton/polyester jersey Grey,MAT-5904,Grey,LOT-68338,EU-APP-0058,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000153,LAB-000153,Cotton/polyester jersey Grey,MAT-5904,Grey,LOT-19169,,CMR textile substances,See method,Within listed limits,,Pass
+SMP-0000154,LAB-000154,Polyester Grey,MAT-2780,Grey,LOT-77268,EU-APP-0058,Restricted aromatic amines,30,<5,mg/kg,See report conclusion
+SMP-0000155,LAB-000155,Polyester Grey,MAT-2780,Grey,LOT-82430,EU-APP-0058,CMR textile substances,See method,Not detected,,Complies
+SMP-0000156,LAB-000156,Polyester Red,MAT-5571,Red,LOT-17559,EU-APP-0059,CMR textile substances,See method,See annex,,Pass
+SMP-0000157,LAB-000157,Soft PVC print Black,PVC-5693,Black,,EU-APP-0059,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000158,LAB-000158,Polyester Red,MAT-9012,Red,LOT-19362,,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000159,LAB-000159,Polyester Red,MAT-9012,Red,LOT-61905,,CMR textile substances,See method,Not detected,,Pass
+SMP-0000160,LAB-000160,Polyester Black,MAT-1172,Black,LOT-41785,EU-APP-0061,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000161,LAB-000161,Polyester Blue,MAT-6261,Blue,LOT-32020,EU-APP-0062,Restricted aromatic amines,30,ND,mg/kg,See report conclusion
+SMP-0000162,LAB-000162,Polyester Blue,MAT-6261,Blue,LOT-81471,,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000163,LAB-000163,Cotton/elastane fleece Red,MAT-6062,Red,LOT-77536,EU-APP-0063,Restricted aromatic amines,30,<10,mg/kg,Complies
+SMP-0000164,LAB-000164,Cotton/elastane fleece Red,MAT-6062,Red,LOT-83211,EU-APP-0063,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000165,LAB-000165,Polyester Olive,MAT-1018,Olive,LOT-70886,EU-APP-0064,Restricted aromatic amines,30,ND,mg/kg,No conclusion stated
+SMP-0000166,LAB-000166,Polyester Olive,MAT-1018,Olive,,EU-APP-0064,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000167,LAB-000167,Viscose/linen blend White,MAT-9665,White,,EU-APP-0065,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000168,LAB-000168,Linen White,MAT-4073,White,,,CMR textile substances,See method,See annex,,Complies
+SMP-0000169,LAB-000169,Cotton/polyester jersey Black,MAT-7888,Black,LOT-42389,EU-APP-0066,Restricted aromatic amines,30,28,mg/kg,See report conclusion
+SMP-0000170,LAB-000170,Cotton/polyester jersey Black,MAT-7888,Black,,,CMR textile substances,See method,Not detected,,Pass
+SMP-0000171,LAB-000171,Polyester Black,MAT-5386,Black,LOT-82112,EU-APP-0066,Restricted aromatic amines,30,28,mg/kg,Complies
+SMP-0000172,LAB-000172,Cotton/elastane fleece Red,MAT-7503,Red,LOT-34112,,Restricted aromatic amines,30,<5,mg/kg,Pass
+SMP-0000173,LAB-000173,Cotton/elastane fleece Pink,MAT-7503,Pink,,EU-APP-0067,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000174,LAB-000174,Elastane Pink,MAT-6326,Pink,LOT-86104,EU-APP-0067,Restricted aromatic amines,30,28,mg/kg,No conclusion stated
+SMP-0000175,LAB-000175,Elastane Pink,MAT-6326,Pink,LOT-36057,EU-APP-0067,CMR textile substances,See method,See annex,,Complies
+SMP-0000176,LAB-000176,Stainless steel Pink,TRIM-7265,Pink,LOT-14699,EU-APP-0067,Nickel release,0.5,0.62,µg/cm²/week,Complies
+SMP-0000177,LAB-000177,Soft PVC print Pink,PVC-3077,Pink,LOT-36827,,Restricted aromatic amines,30,<5,mg/kg,No conclusion stated
+SMP-0000178,LAB-000178,Soft PVC print Pink,PVC-3077,Pink,LOT-84321,EU-APP-0067,Restricted phthalates,0.1,0.08,% w/w,See report conclusion
+SMP-0000179,LAB-000179,Cotton/polyester jersey Pink,MAT-5977,Pink,LOT-14072,,Restricted aromatic amines,30,<5,mg/kg,No conclusion stated
+SMP-0000180,LAB-000180,Cotton/polyester jersey Pink,MAT-5977,Pink,,,CMR textile substances,See method,Not detected,,Pass
+SMP-0000181,LAB-000181,Polyester Pink,MAT-6291,Pink,LOT-51513,EU-APP-0068,CMR textile substances,See method,See annex,,Pass
+SMP-0000182,LAB-000182,Soft PVC print Pink,PVC-6126,Pink,LOT-58843,EU-APP-0068,Restricted aromatic amines,30,ND,mg/kg,No conclusion stated
+SMP-0000183,LAB-000183,Cotton/polyester jersey Beige,MAT-4365,Beige,LOT-83610,EU-APP-0069,Restricted aromatic amines,30,12,mg/kg,Pass
+SMP-0000184,LAB-000184,Cotton/polyester jersey Beige,MAT-4365,Beige,,,CMR textile substances,See method,Within listed limits,,Pass
+SMP-0000185,LAB-000185,Polyester Beige,MAT-4939,Beige,,EU-APP-0069,Restricted aromatic amines,30,12,mg/kg,Complies
+SMP-0000186,LAB-000186,Polyester Beige,MAT-4939,Beige,LOT-25106,EU-APP-0069,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000187,LAB-000187,Cotton Blue,MAT-7119,Blue,,EU-APP-0070,CMR textile substances,See method,Not detected,,See report conclusion
+SMP-0000188,LAB-000188,Genuine leather Brown,LEA-8609,Brown,,EU-APP-0070,Chromium VI,3,<3,mg/kg,Pass
+SMP-0000189,LAB-000189,Cotton/elastane fleece Red,MAT-1882,Red,,EU-APP-0072,Restricted aromatic amines,30,<10,mg/kg,See report conclusion
+SMP-0000190,LAB-000190,Cotton/elastane fleece Red,MAT-1882,Red,,EU-APP-0072,CMR textile substances,See method,Within listed limits,,See report conclusion
+SMP-0000191,LAB-000191,Elastane Red,MAT-9130,Red,,EU-APP-0072,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000192,LAB-000192,Elastane Red,MAT-9130,Red,LOT-49513,EU-APP-0072,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000193,LAB-000193,Cotton/elastane fleece Beige,MAT-7696,Beige,,,Restricted aromatic amines,30,12,mg/kg,Pass
+SMP-0000194,LAB-000194,Cotton/elastane fleece Beige,MAT-7696,Beige,LOT-21901,EU-APP-0073,CMR textile substances,See method,Not detected,,Pass
+SMP-0000195,LAB-000195,Elastane Beige,MAT-4889,Beige,,,Restricted aromatic amines,30,12,mg/kg,Complies
+SMP-0000196,LAB-000196,Elastane Beige,MAT-4889,Beige,LOT-31990,EU-APP-0073,CMR textile substances,See method,See annex,,Pass
+SMP-0000197,LAB-000197,Polyester Navy,MAT-4019,Navy,,,Restricted aromatic amines,30,12,mg/kg,No conclusion stated
+SMP-0000198,LAB-000198,Polyester Navy,MAT-4019,Navy,,EU-APP-0074,CMR textile substances,See method,Not detected,,Pass
+SMP-0000199,LAB-000199,Viscose/linen blend Pink,MAT-5611,Pink,LOT-29765,,Restricted aromatic amines,30,ND,mg/kg,Complies
+SMP-0000200,LAB-000200,Viscose/linen blend Pink,MAT-5611,Pink,LOT-99437,,CMR textile substances,See method,Not detected,,No conclusion stated
+SMP-0000201,LAB-000201,Linen Pink,MAT-5139,Pink,LOT-93632,EU-APP-0075,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000202,LAB-000202,Cotton/elastane fleece Blue,MAT-2836,Blue,LOT-85033,EU-APP-0076,Restricted aromatic amines,30,<10,mg/kg,Complies
+SMP-0000203,LAB-000203,Cotton/elastane fleece Blue,MAT-2836,Blue,LOT-27772,EU-APP-0076,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000204,LAB-000204,Elastane Blue,MAT-3603,Blue,LOT-22906,EU-APP-0076,Restricted aromatic amines,30,ND,mg/kg,Pass
+SMP-0000205,LAB-000205,Elastane Blue,MAT-3603,Blue,LOT-96238,EU-APP-0076,CMR textile substances,See method,Not detected,,Pass
+SMP-0000206,LAB-000206,Cotton Pink,MAT-9576,Pink,,EU-APP-0077,CMR textile substances,See method,See annex,,No conclusion stated
+SMP-0000207,LAB-000207,Viscose/linen blend Beige,MAT-9843,Beige,LOT-10753,EU-APP-0078,Restricted aromatic amines,30,28,mg/kg,Pass
+SMP-0000208,LAB-000208,Viscose/linen blend Olive,MAT-9843,Olive,LOT-33637,,CMR textile substances,See method,See annex,,See report conclusion
+SMP-0000209,LAB-000209,Linen Olive,MAT-2536,Olive,LOT-10994,EU-APP-0078,CMR textile substances,See method,See annex,,Pass
+SMP-0000210,LAB-000210,Stainless steel Olive,TRIM-2642,Olive,,EU-APP-0078,Nickel release,0.5,0.08,µg/cm²/week,No conclusion stated
+SMP-0000211,LAB-000211,Soft PVC print Olive,PVC-4094,Olive,LOT-32088,,Restricted aromatic amines,30,<10,mg/kg,See report conclusion
+SMP-0000212,LAB-000212,Soft PVC print Olive,PVC-4094,Olive,LOT-29249,EU-APP-0078,Restricted phthalates,0.1,0.08,% w/w,Complies
+SMP-0000213,LAB-000213,Viscose/linen blend Grey,MAT-9463,Grey,LOT-72734,,Restricted aromatic amines,30,<10,mg/kg,No conclusion stated
+SMP-0000214,LAB-000214,Viscose/linen blend Grey,MAT-9463,Grey,,EU-APP-0079,CMR textile substances,See method,Within listed limits,,No conclusion stated
+SMP-0000215,LAB-000215,Linen Grey,MAT-8632,Grey,,,Restricted aromatic amines,30,12,mg/kg,See report conclusion
+SMP-0000216,LAB-000216,Cotton Navy,MAT-7919,Navy,,,Restricted aromatic amines,30,28,mg/kg,Complies
+SMP-0000217,LAB-000217,Cotton Navy,MAT-7919,Navy,,,CMR textile substances,See method,See annex,,Pass
+SMP-SHP1-AZO,LAB-SHP1-AZO,Cotton/elastane fleece Navy,MAT-2351,Navy,,,Restricted aromatic amines,30,<5,mg/kg,Pass

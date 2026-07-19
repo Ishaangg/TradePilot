@@ -1,0 +1,961 @@
+﻿rate_id,provider_name,origin_city,destination_country_raw,destination_port,transport_mode,rate_basis,base_rate,currency,minimum_charge,origin_charges,destination_charges,estimated_transit_days,valid_from,valid_to,weight_min_kg,weight_max_kg
+RATE-000001,BlueWave Logistics,Delhi,Germany,Hamburg,Air,per_kg,6.88,USD,474.01,85.02,123.23,6,2026-07-01,2027-03-31,1,5000
+RATE-000002,TransGlobe Freight,Delhi,Germany,Hamburg,Air,per_kg,6.07,EUR,190.28,106.96,187.72,10,2026-07-01,2027-03-31,1,5000
+RATE-000003,OceanBridge Logistics,Delhi,Germany,Hamburg,Air,per_kg,5.31,USD,431.82,115.93,131.46,7,2026-07-01,2027-03-31,1,5000
+RATE-000004,SkyCargo Partners,Delhi,Germany,Hamburg,Air,per_kg,6.37,USD,464.23,238.0,184.44,7,2026-07-01,2027-03-31,1,5000
+RATE-000005,BlueWave Logistics,Delhi,Germany,Hamburg,Sea LCL,per_cbm,255.5,USD,174.65,129.31,133.94,26,2026-07-01,2027-03-31,100,28000
+RATE-000006,TransGlobe Freight,Delhi,Germany,Hamburg,Sea LCL,per_cbm,145.36,USD,498.24,189.75,110.38,36,2026-07-01,2027-03-31,100,28000
+RATE-000007,OceanBridge Logistics,Delhi,Germany,Hamburg,Sea LCL,per_cbm,234.26,USD,327.64,155.92,90.96,38,2026-07-01,2027-03-31,100,28000
+RATE-000008,SkyCargo Partners,Delhi,Germany,Hamburg,Sea LCL,per_cbm,199.61,EUR,363.41,166.03,101.44,27,2026-07-01,2027-03-31,100,28000
+RATE-000009,BlueWave Logistics,Delhi,Germany,Hamburg,Sea FCL,per_container,2435.76,USD,210.1,176.01,169.02,34,2026-07-01,2027-03-31,100,28000
+RATE-000010,TransGlobe Freight,Delhi,Germany,Hamburg,Sea FCL,per_container,2860.13,USD,142.9,180.75,116.52,31,2026-07-01,2027-03-31,100,28000
+RATE-000011,OceanBridge Logistics,Delhi,Germany,Hamburg,Sea FCL,per_container,3660.13,EUR,348.82,137.38,141.06,29,2026-07-01,2027-03-31,100,28000
+RATE-000012,SkyCargo Partners,Delhi,Germany,Hamburg,Sea FCL,per_container,3531.77,USD,254.11,139.26,146.6,26,2026-07-01,2027-03-31,100,28000
+RATE-000013,BlueWave Logistics,Delhi,Germany,Bremerhaven,Air,per_kg,6.36,USD,261.96,199.53,175.77,8,2026-07-01,2027-03-31,1,5000
+RATE-000014,TransGlobe Freight,Delhi,Germany,Bremerhaven,Air,per_kg,6.9,USD,253.37,225.39,99.61,8,2026-07-01,2027-03-31,1,5000
+RATE-000015,OceanBridge Logistics,Delhi,Germany,Bremerhaven,Air,per_kg,6.5,EUR,289.62,158.97,135.52,7,2026-07-01,2027-03-31,1,5000
+RATE-000016,SkyCargo Partners,Delhi,Germany,Bremerhaven,Air,per_kg,6.96,USD,430.98,110.57,101.24,6,2026-07-01,2027-03-31,1,5000
+RATE-000017,BlueWave Logistics,Delhi,Germany,Bremerhaven,Sea LCL,per_cbm,199.95,USD,316.71,81.76,100.85,28,2026-07-01,2027-03-31,100,28000
+RATE-000018,TransGlobe Freight,Delhi,Germany,Bremerhaven,Sea LCL,per_cbm,212.51,USD,139.66,183.34,88.62,36,2026-07-01,2027-03-31,100,28000
+RATE-000019,OceanBridge Logistics,Delhi,Germany,Bremerhaven,Sea LCL,per_cbm,167.46,EUR,430.66,90.98,119.97,25,2026-07-01,2027-03-31,100,28000
+RATE-000020,SkyCargo Partners,Delhi,Germany,Bremerhaven,Sea LCL,per_cbm,175.19,USD,495.28,197.86,127.25,30,2026-07-01,2027-03-31,100,28000
+RATE-000021,BlueWave Logistics,Delhi,Germany,Bremerhaven,Sea FCL,per_container,2662.41,EUR,157.7,94.25,139.13,32,2026-07-01,2027-03-31,100,28000
+RATE-000022,TransGlobe Freight,Delhi,Germany,Bremerhaven,Sea FCL,per_container,3362.8,USD,299.95,111.13,101.2,23,2026-07-01,2027-03-31,100,28000
+RATE-000023,OceanBridge Logistics,Delhi,Germany,Bremerhaven,Sea FCL,per_container,2506.47,USD,121.56,231.01,127.89,24,2026-07-01,2027-03-31,100,28000
+RATE-000024,SkyCargo Partners,Delhi,Germany,Bremerhaven,Sea FCL,per_container,3037.34,USD,455.11,209.53,101.2,25,2026-07-01,2027-03-31,100,28000
+RATE-000025,BlueWave Logistics,Delhi,The Netherlands,Rotterdam,Air,per_kg,4.9,EUR,350.65,209.1,85.47,10,2026-07-01,2027-03-31,1,5000
+RATE-000026,TransGlobe Freight,Delhi,The Netherlands,Rotterdam,Air,per_kg,4.92,USD,169.35,221.24,143.49,6,2026-07-01,2027-03-31,1,5000
+RATE-000027,OceanBridge Logistics,Delhi,The Netherlands,Rotterdam,Air,per_kg,5.45,EUR,266.77,128.16,93.85,5,2026-07-01,2027-03-31,1,5000
+RATE-000028,SkyCargo Partners,Delhi,The Netherlands,Rotterdam,Air,per_kg,5.72,EUR,255.23,218.89,129.31,8,2026-07-01,2027-03-31,1,5000
+RATE-000029,BlueWave Logistics,Delhi,The Netherlands,Rotterdam,Sea LCL,per_cbm,179.53,EUR,246.35,122.74,105.87,24,2026-07-01,2027-03-31,100,28000
+RATE-000030,TransGlobe Freight,Delhi,The Netherlands,Rotterdam,Sea LCL,per_cbm,268.89,USD,207.85,81.83,180.33,24,2026-07-01,2027-03-31,100,28000
+RATE-000031,OceanBridge Logistics,Delhi,The Netherlands,Rotterdam,Sea LCL,per_cbm,273.99,EUR,349.68,173.08,63.96,35,2026-07-01,2027-03-31,100,28000
+RATE-000032,SkyCargo Partners,Delhi,The Netherlands,Rotterdam,Sea LCL,per_cbm,171.6,USD,426.82,170.99,95.05,38,2026-07-01,2027-03-31,100,28000
+RATE-000033,BlueWave Logistics,Delhi,The Netherlands,Rotterdam,Sea FCL,per_container,2734.01,USD,177.26,163.67,175.89,21,2026-07-01,2027-03-31,100,28000
+RATE-000034,TransGlobe Freight,Delhi,The Netherlands,Rotterdam,Sea FCL,per_container,2948.72,USD,395.1,226.18,72.77,35,2026-07-01,2027-03-31,100,28000
+RATE-000035,OceanBridge Logistics,Delhi,The Netherlands,Rotterdam,Sea FCL,per_container,3116.11,EUR,108.44,175.44,146.3,30,2026-07-01,2027-03-31,100,28000
+RATE-000036,SkyCargo Partners,Delhi,The Netherlands,Rotterdam,Sea FCL,per_container,2682.84,USD,318.45,228.21,123.01,26,2026-07-01,2027-03-31,100,28000
+RATE-000037,BlueWave Logistics,Delhi,FR,Le Havre,Air,per_kg,4.5,USD,273.18,187.18,188.79,6,2026-07-01,2027-03-31,1,5000
+RATE-000038,TransGlobe Freight,Delhi,FR,Le Havre,Air,per_kg,6.92,EUR,228.31,239.93,89.66,4,2026-07-01,2027-03-31,1,5000
+RATE-000039,OceanBridge Logistics,Delhi,FR,Le Havre,Air,per_kg,4.56,USD,428.93,131.27,103.12,5,2026-07-01,2027-03-31,1,5000
+RATE-000040,SkyCargo Partners,Delhi,FR,Le Havre,Air,per_kg,5.29,EUR,440.24,84.7,70.5,9,2026-07-01,2027-03-31,1,5000
+RATE-000041,BlueWave Logistics,Delhi,FR,Le Havre,Sea LCL,per_cbm,205.79,USD,148.54,147.62,98.46,26,2026-07-01,2027-03-31,100,28000
+RATE-000042,TransGlobe Freight,Delhi,FR,Le Havre,Sea LCL,per_cbm,173.49,USD,243.36,186.95,79.79,38,2026-07-01,2027-03-31,100,28000
+RATE-000043,OceanBridge Logistics,Delhi,FR,Le Havre,Sea LCL,per_cbm,157.36,EUR,248.32,172.83,149.9,38,2026-07-01,2027-03-31,100,28000
+RATE-000044,SkyCargo Partners,Delhi,FR,Le Havre,Sea LCL,per_cbm,125.98,EUR,277.37,96.91,66.82,29,2026-07-01,2027-03-31,100,28000
+RATE-000045,BlueWave Logistics,Delhi,FR,Le Havre,Sea FCL,per_container,2138.82,EUR,301.37,202.47,147.97,22,2026-07-01,2027-03-31,100,28000
+RATE-000046,TransGlobe Freight,Delhi,FR,Le Havre,Sea FCL,per_container,3222.3,EUR,488.98,110.54,174.2,29,2026-07-01,2027-03-31,100,28000
+RATE-000047,OceanBridge Logistics,Delhi,FR,Le Havre,Sea FCL,per_container,1907.23,USD,180.2,207.9,113.09,35,2026-07-01,2027-03-31,100,28000
+RATE-000048,SkyCargo Partners,Delhi,FR,Le Havre,Sea FCL,per_container,2192.78,USD,488.96,82.91,183.4,27,2026-07-01,2027-03-31,100,28000
+RATE-000049,BlueWave Logistics,Delhi,FR,Marseille,Air,per_kg,5.31,USD,146.69,163.3,133.76,5,2026-07-01,2027-03-31,1,5000
+RATE-000050,TransGlobe Freight,Delhi,FR,Marseille,Air,per_kg,6.89,USD,290.8,201.34,159.16,4,2026-07-01,2027-03-31,1,5000
+RATE-000051,OceanBridge Logistics,Delhi,FR,Marseille,Air,per_kg,6.4,USD,109.82,210.12,168.54,7,2026-07-01,2027-03-31,1,5000
+RATE-000052,SkyCargo Partners,Delhi,FR,Marseille,Air,per_kg,5.45,EUR,327.77,235.34,145.51,5,2026-07-01,2027-03-31,1,5000
+RATE-000053,BlueWave Logistics,Delhi,FR,Marseille,Sea LCL,per_cbm,230.36,USD,268.8,236.29,141.07,27,2026-07-01,2027-03-31,100,28000
+RATE-000054,TransGlobe Freight,Delhi,FR,Marseille,Sea LCL,per_cbm,162.07,EUR,235.28,111.3,135.49,28,2026-07-01,2027-03-31,100,28000
+RATE-000055,OceanBridge Logistics,Delhi,FR,Marseille,Sea LCL,per_cbm,142.23,USD,129.32,178.6,168.09,38,2026-07-01,2027-03-31,100,28000
+RATE-000056,SkyCargo Partners,Delhi,FR,Marseille,Sea LCL,per_cbm,154.66,USD,478.17,124.3,82.58,34,2026-07-01,2027-03-31,100,28000
+RATE-000057,BlueWave Logistics,Delhi,FR,Marseille,Sea FCL,per_container,3393.88,USD,173.09,89.44,100.45,33,2026-07-01,2027-03-31,100,28000
+RATE-000058,TransGlobe Freight,Delhi,FR,Marseille,Sea FCL,per_container,2626.05,EUR,301.27,108.85,77.95,31,2026-07-01,2027-03-31,100,28000
+RATE-000059,OceanBridge Logistics,Delhi,FR,Marseille,Sea FCL,per_container,2404.95,USD,114.75,233.4,174.93,31,2026-07-01,2027-03-31,100,28000
+RATE-000060,SkyCargo Partners,Delhi,FR,Marseille,Sea FCL,per_container,3347.41,EUR,460.12,92.62,140.73,36,2026-07-01,2027-03-31,100,28000
+RATE-000061,BlueWave Logistics,Delhi,IT,Genoa,Air,per_kg,5.95,USD,338.83,133.25,71.57,6,2026-07-01,2027-03-31,1,5000
+RATE-000062,TransGlobe Freight,Delhi,IT,Genoa,Air,per_kg,6.82,USD,439.43,194.65,129.67,5,2026-07-01,2027-03-31,1,5000
+RATE-000063,OceanBridge Logistics,Delhi,IT,Genoa,Air,per_kg,5.02,EUR,159.91,182.95,173.12,7,2026-07-01,2027-03-31,1,5000
+RATE-000064,SkyCargo Partners,Delhi,IT,Genoa,Air,per_kg,4.37,USD,122.64,102.03,96.44,9,2026-07-01,2027-03-31,1,5000
+RATE-000065,BlueWave Logistics,Delhi,IT,Genoa,Sea LCL,per_cbm,259.19,USD,138.97,157.45,175.2,34,2026-07-01,2027-03-31,100,28000
+RATE-000066,TransGlobe Freight,Delhi,IT,Genoa,Sea LCL,per_cbm,161.33,USD,377.67,197.96,164.62,29,2026-07-01,2027-03-31,100,28000
+RATE-000067,OceanBridge Logistics,Delhi,IT,Genoa,Sea LCL,per_cbm,165.63,USD,229.7,139.54,181.05,33,2026-07-01,2027-03-31,100,28000
+RATE-000068,SkyCargo Partners,Delhi,IT,Genoa,Sea LCL,per_cbm,188.39,EUR,108.56,142.12,69.14,28,2026-07-01,2027-03-31,100,28000
+RATE-000069,BlueWave Logistics,Delhi,IT,Genoa,Sea FCL,per_container,2115.4,USD,160.49,204.77,159.83,26,2026-07-01,2027-03-31,100,28000
+RATE-000070,TransGlobe Freight,Delhi,IT,Genoa,Sea FCL,per_container,3378.16,USD,85.36,116.15,165.45,25,2026-07-01,2027-03-31,100,28000
+RATE-000071,OceanBridge Logistics,Delhi,IT,Genoa,Sea FCL,per_container,2027.53,EUR,226.97,144.83,96.93,24,2026-07-01,2027-03-31,100,28000
+RATE-000072,SkyCargo Partners,Delhi,IT,Genoa,Sea FCL,per_container,3457.0,EUR,180.54,92.75,66.28,27,2026-07-01,2027-03-31,100,28000
+RATE-000073,BlueWave Logistics,Delhi,España,Barcelona,Air,per_kg,4.38,USD,408.63,206.93,104.28,9,2026-07-01,2027-03-31,1,5000
+RATE-000074,TransGlobe Freight,Delhi,España,Barcelona,Air,per_kg,4.56,USD,452.89,223.56,73.01,10,2026-07-01,2027-03-31,1,5000
+RATE-000075,OceanBridge Logistics,Delhi,España,Barcelona,Air,per_kg,4.48,EUR,325.23,195.55,71.97,4,2026-07-01,2027-03-31,1,5000
+RATE-000076,SkyCargo Partners,Delhi,España,Barcelona,Air,per_kg,6.69,USD,280.37,201.03,93.77,4,2026-07-01,2027-03-31,1,5000
+RATE-000077,BlueWave Logistics,Delhi,España,Barcelona,Sea LCL,per_cbm,274.49,EUR,296.91,82.64,129.01,38,2026-07-01,2027-03-31,100,28000
+RATE-000078,TransGlobe Freight,Delhi,España,Barcelona,Sea LCL,per_cbm,275.33,USD,265.15,126.3,101.38,38,2026-07-01,2027-03-31,100,28000
+RATE-000079,OceanBridge Logistics,Delhi,España,Barcelona,Sea LCL,per_cbm,203.43,EUR,331.02,114.55,82.36,30,2026-07-01,2027-03-31,100,28000
+RATE-000080,SkyCargo Partners,Delhi,España,Barcelona,Sea LCL,per_cbm,261.34,USD,350.2,196.12,165.77,37,2026-07-01,2027-03-31,100,28000
+RATE-000081,BlueWave Logistics,Delhi,España,Barcelona,Sea FCL,per_container,2401.89,USD,396.03,153.57,81.28,22,2026-07-01,2027-03-31,100,28000
+RATE-000082,TransGlobe Freight,Delhi,España,Barcelona,Sea FCL,per_container,2307.16,EUR,126.75,103.5,79.86,22,2026-07-01,2027-03-31,100,28000
+RATE-000083,OceanBridge Logistics,Delhi,España,Barcelona,Sea FCL,per_container,2799.69,EUR,442.6,119.98,125.84,33,2026-07-01,2027-03-31,100,28000
+RATE-000084,SkyCargo Partners,Delhi,España,Barcelona,Sea FCL,per_container,3530.05,EUR,217.62,175.78,189.55,31,2026-07-01,2027-03-31,100,28000
+RATE-000085,BlueWave Logistics,Delhi,España,Valencia,Air,per_kg,4.72,EUR,183.0,186.01,61.82,5,2026-07-01,2027-03-31,1,5000
+RATE-000086,TransGlobe Freight,Delhi,España,Valencia,Air,per_kg,6.87,USD,215.09,166.79,116.26,4,2026-07-01,2027-03-31,1,5000
+RATE-000087,OceanBridge Logistics,Delhi,España,Valencia,Air,per_kg,6.36,EUR,370.46,152.01,134.78,9,2026-07-01,2027-03-31,1,5000
+RATE-000088,SkyCargo Partners,Delhi,España,Valencia,Air,per_kg,4.3,EUR,383.64,173.76,96.97,8,2026-07-01,2027-03-31,1,5000
+RATE-000089,BlueWave Logistics,Delhi,España,Valencia,Sea LCL,per_cbm,252.62,USD,149.5,237.79,71.89,30,2026-07-01,2027-03-31,100,28000
+RATE-000090,TransGlobe Freight,Delhi,España,Valencia,Sea LCL,per_cbm,197.33,USD,280.54,228.97,82.76,37,2026-07-01,2027-03-31,100,28000
+RATE-000091,OceanBridge Logistics,Delhi,España,Valencia,Sea LCL,per_cbm,150.28,EUR,307.26,100.18,139.52,37,2026-07-01,2027-03-31,100,28000
+RATE-000092,SkyCargo Partners,Delhi,España,Valencia,Sea LCL,per_cbm,251.76,USD,310.26,123.5,104.63,28,2026-07-01,2027-03-31,100,28000
+RATE-000093,BlueWave Logistics,Delhi,España,Valencia,Sea FCL,per_container,3258.72,USD,467.5,123.97,90.06,34,2026-07-01,2027-03-31,100,28000
+RATE-000094,TransGlobe Freight,Delhi,España,Valencia,Sea FCL,per_container,3250.36,USD,403.33,95.43,159.92,24,2026-07-01,2027-03-31,100,28000
+RATE-000095,OceanBridge Logistics,Delhi,España,Valencia,Sea FCL,per_container,2971.09,USD,387.77,92.71,168.97,31,2026-07-01,2027-03-31,100,28000
+RATE-000096,SkyCargo Partners,Delhi,España,Valencia,Sea FCL,per_container,1861.02,USD,152.73,106.9,137.92,28,2026-07-01,2027-03-31,100,28000
+RATE-000097,BlueWave Logistics,Mumbai,DE,Hamburg,Air,per_kg,4.36,EUR,379.72,131.55,135.83,4,2026-07-01,2027-03-31,1,5000
+RATE-000098,TransGlobe Freight,Mumbai,DE,Hamburg,Air,per_kg,6.61,EUR,107.45,191.9,78.47,8,2026-07-01,2027-03-31,1,5000
+RATE-000099,OceanBridge Logistics,Mumbai,DE,Hamburg,Air,per_kg,6.87,EUR,364.16,128.1,160.91,5,2026-07-01,2027-03-31,1,5000
+RATE-000100,SkyCargo Partners,Mumbai,DE,Hamburg,Air,per_kg,6.44,USD,339.94,130.57,68.18,4,2026-07-01,2027-03-31,1,5000
+RATE-000101,BlueWave Logistics,Mumbai,DE,Hamburg,Sea LCL,per_cbm,249.83,USD,261.2,183.83,180.63,34,2026-07-01,2027-03-31,100,28000
+RATE-000102,TransGlobe Freight,Mumbai,DE,Hamburg,Sea LCL,per_cbm,255.13,USD,177.18,224.34,167.37,28,2026-07-01,2027-03-31,100,28000
+RATE-000103,OceanBridge Logistics,Mumbai,DE,Hamburg,Sea LCL,per_cbm,257.17,EUR,438.11,223.84,114.06,34,2026-07-01,2027-03-31,100,28000
+RATE-000104,SkyCargo Partners,Mumbai,DE,Hamburg,Sea LCL,per_cbm,205.01,EUR,446.58,176.64,180.94,23,2026-07-01,2027-03-31,100,28000
+RATE-000105,BlueWave Logistics,Mumbai,DE,Hamburg,Sea FCL,per_container,3383.54,EUR,315.36,149.2,137.79,29,2026-07-01,2027-03-31,100,28000
+RATE-000106,TransGlobe Freight,Mumbai,DE,Hamburg,Sea FCL,per_container,1819.94,USD,241.81,177.34,61.47,35,2026-07-01,2027-03-31,100,28000
+RATE-000107,OceanBridge Logistics,Mumbai,DE,Hamburg,Sea FCL,per_container,2468.91,EUR,499.02,173.24,175.99,27,2026-07-01,2027-03-31,100,28000
+RATE-000108,SkyCargo Partners,Mumbai,DE,Hamburg,Sea FCL,per_container,3047.8,USD,163.32,120.97,147.48,30,2026-07-01,2027-03-31,100,28000
+RATE-000109,BlueWave Logistics,Mumbai,DE,Bremerhaven,Air,per_kg,5.27,EUR,283.46,99.64,185.99,6,2026-07-01,2027-03-31,1,5000
+RATE-000110,TransGlobe Freight,Mumbai,DE,Bremerhaven,Air,per_kg,6.36,EUR,95.78,215.59,189.39,8,2026-07-01,2027-03-31,1,5000
+RATE-000111,OceanBridge Logistics,Mumbai,DE,Bremerhaven,Air,per_kg,5.14,EUR,133.95,239.71,114.16,9,2026-07-01,2027-03-31,1,5000
+RATE-000112,SkyCargo Partners,Mumbai,DE,Bremerhaven,Air,per_kg,6.38,USD,212.88,199.02,77.83,8,2026-07-01,2027-03-31,1,5000
+RATE-000113,BlueWave Logistics,Mumbai,DE,Bremerhaven,Sea LCL,per_cbm,149.81,EUR,361.84,230.27,76.08,36,2026-07-01,2027-03-31,100,28000
+RATE-000114,TransGlobe Freight,Mumbai,DE,Bremerhaven,Sea LCL,per_cbm,163.54,USD,145.77,174.53,78.86,37,2026-07-01,2027-03-31,100,28000
+RATE-000115,OceanBridge Logistics,Mumbai,DE,Bremerhaven,Sea LCL,per_cbm,214.04,USD,180.77,172.89,149.4,22,2026-07-01,2027-03-31,100,28000
+RATE-000116,SkyCargo Partners,Mumbai,DE,Bremerhaven,Sea LCL,per_cbm,171.7,USD,185.83,179.59,184.41,22,2026-07-01,2027-03-31,100,28000
+RATE-000117,BlueWave Logistics,Mumbai,DE,Bremerhaven,Sea FCL,per_container,2615.08,USD,274.3,143.22,181.94,33,2026-07-01,2027-03-31,100,28000
+RATE-000118,TransGlobe Freight,Mumbai,DE,Bremerhaven,Sea FCL,per_container,2383.71,EUR,395.64,210.97,110.18,33,2026-07-01,2027-03-31,100,28000
+RATE-000119,OceanBridge Logistics,Mumbai,DE,Bremerhaven,Sea FCL,per_container,2613.32,EUR,274.8,95.93,161.64,35,2026-07-01,2027-03-31,100,28000
+RATE-000120,SkyCargo Partners,Mumbai,DE,Bremerhaven,Sea FCL,per_container,2812.35,USD,221.9,149.78,184.19,23,2026-07-01,2027-03-31,100,28000
+RATE-000121,BlueWave Logistics,Mumbai,The Netherlands,Rotterdam,Air,per_kg,5.7,EUR,162.37,113.14,126.89,5,2026-07-01,2027-03-31,1,5000
+RATE-000122,TransGlobe Freight,Mumbai,The Netherlands,Rotterdam,Air,per_kg,5.06,EUR,181.37,102.06,82.12,6,2026-07-01,2027-03-31,1,5000
+RATE-000123,OceanBridge Logistics,Mumbai,The Netherlands,Rotterdam,Air,per_kg,4.41,USD,450.31,149.71,144.53,6,2026-07-01,2027-03-31,1,5000
+RATE-000124,SkyCargo Partners,Mumbai,The Netherlands,Rotterdam,Air,per_kg,6.86,EUR,480.94,161.09,136.7,9,2026-07-01,2027-03-31,1,5000
+RATE-000125,BlueWave Logistics,Mumbai,The Netherlands,Rotterdam,Sea LCL,per_cbm,221.2,USD,124.2,86.59,98.78,34,2026-07-01,2027-03-31,100,28000
+RATE-000126,TransGlobe Freight,Mumbai,The Netherlands,Rotterdam,Sea LCL,per_cbm,200.32,USD,399.6,109.0,96.27,27,2026-07-01,2027-03-31,100,28000
+RATE-000127,OceanBridge Logistics,Mumbai,The Netherlands,Rotterdam,Sea LCL,per_cbm,122.15,EUR,186.37,172.29,100.75,27,2026-07-01,2027-03-31,100,28000
+RATE-000128,SkyCargo Partners,Mumbai,The Netherlands,Rotterdam,Sea LCL,per_cbm,202.45,USD,100.61,99.33,78.01,33,2026-07-01,2027-03-31,100,28000
+RATE-000129,BlueWave Logistics,Mumbai,The Netherlands,Rotterdam,Sea FCL,per_container,2384.94,USD,204.2,163.16,137.77,25,2026-07-01,2027-03-31,100,28000
+RATE-000130,TransGlobe Freight,Mumbai,The Netherlands,Rotterdam,Sea FCL,per_container,3313.05,USD,347.69,144.55,76.12,29,2026-07-01,2027-03-31,100,28000
+RATE-000131,OceanBridge Logistics,Mumbai,The Netherlands,Rotterdam,Sea FCL,per_container,2146.22,USD,107.32,82.25,115.31,27,2026-07-01,2027-03-31,100,28000
+RATE-000132,SkyCargo Partners,Mumbai,The Netherlands,Rotterdam,Sea FCL,per_container,2523.19,USD,383.54,82.73,107.65,27,2026-07-01,2027-03-31,100,28000
+RATE-000133,BlueWave Logistics,Mumbai,France,Le Havre,Air,per_kg,4.42,EUR,163.06,109.78,62.13,8,2026-07-01,2027-03-31,1,5000
+RATE-000134,TransGlobe Freight,Mumbai,France,Le Havre,Air,per_kg,5.57,EUR,412.22,164.04,95.73,4,2026-07-01,2027-03-31,1,5000
+RATE-000135,OceanBridge Logistics,Mumbai,France,Le Havre,Air,per_kg,5.11,USD,220.85,116.38,138.7,8,2026-07-01,2027-03-31,1,5000
+RATE-000136,SkyCargo Partners,Mumbai,France,Le Havre,Air,per_kg,4.19,USD,495.58,165.55,73.02,9,2026-07-01,2027-03-31,1,5000
+RATE-000137,BlueWave Logistics,Mumbai,France,Le Havre,Sea LCL,per_cbm,231.43,USD,242.8,166.84,188.46,28,2026-07-01,2027-03-31,100,28000
+RATE-000138,TransGlobe Freight,Mumbai,France,Le Havre,Sea LCL,per_cbm,272.42,EUR,361.94,154.28,105.7,34,2026-07-01,2027-03-31,100,28000
+RATE-000139,OceanBridge Logistics,Mumbai,France,Le Havre,Sea LCL,per_cbm,122.58,EUR,455.65,190.61,68.29,28,2026-07-01,2027-03-31,100,28000
+RATE-000140,SkyCargo Partners,Mumbai,France,Le Havre,Sea LCL,per_cbm,171.85,USD,398.49,138.69,163.21,31,2026-07-01,2027-03-31,100,28000
+RATE-000141,BlueWave Logistics,Mumbai,France,Le Havre,Sea FCL,per_container,1858.6,EUR,407.87,235.76,163.85,24,2026-07-01,2027-03-31,100,28000
+RATE-000142,TransGlobe Freight,Mumbai,France,Le Havre,Sea FCL,per_container,2704.07,USD,466.44,162.03,180.13,35,2026-07-01,2027-03-31,100,28000
+RATE-000143,OceanBridge Logistics,Mumbai,France,Le Havre,Sea FCL,per_container,2125.29,USD,342.71,172.65,120.41,30,2026-07-01,2027-03-31,100,28000
+RATE-000144,SkyCargo Partners,Mumbai,France,Le Havre,Sea FCL,per_container,3443.96,USD,197.54,178.57,106.02,34,2026-07-01,2027-03-31,100,28000
+RATE-000145,BlueWave Logistics,Mumbai,France,Marseille,Air,per_kg,5.01,EUR,446.97,147.54,188.45,5,2026-07-01,2027-03-31,1,5000
+RATE-000146,TransGlobe Freight,Mumbai,France,Marseille,Air,per_kg,6.34,USD,192.06,92.96,84.15,5,2026-07-01,2027-03-31,1,5000
+RATE-000147,OceanBridge Logistics,Mumbai,France,Marseille,Air,per_kg,5.17,EUR,215.49,230.78,100.32,7,2026-07-01,2027-03-31,1,5000
+RATE-000148,SkyCargo Partners,Mumbai,France,Marseille,Air,per_kg,6.4,EUR,467.14,228.77,173.86,8,2026-07-01,2027-03-31,1,5000
+RATE-000149,BlueWave Logistics,Mumbai,France,Marseille,Sea LCL,per_cbm,125.0,EUR,266.47,161.8,153.4,38,2026-07-01,2027-03-31,100,28000
+RATE-000150,TransGlobe Freight,Mumbai,France,Marseille,Sea LCL,per_cbm,248.06,USD,447.15,202.38,118.31,23,2026-07-01,2027-03-31,100,28000
+RATE-000151,OceanBridge Logistics,Mumbai,France,Marseille,Sea LCL,per_cbm,136.78,USD,109.45,236.91,156.3,27,2026-07-01,2027-03-31,100,28000
+RATE-000152,SkyCargo Partners,Mumbai,France,Marseille,Sea LCL,per_cbm,223.39,EUR,205.67,188.64,100.41,27,2026-07-01,2027-03-31,100,28000
+RATE-000153,BlueWave Logistics,Mumbai,France,Marseille,Sea FCL,per_container,2284.29,USD,129.83,116.81,138.71,28,2026-07-01,2027-03-31,100,28000
+RATE-000154,TransGlobe Freight,Mumbai,France,Marseille,Sea FCL,per_container,3255.8,USD,455.27,130.37,106.39,24,2026-07-01,2027-03-31,100,28000
+RATE-000155,OceanBridge Logistics,Mumbai,France,Marseille,Sea FCL,per_container,2910.8,EUR,462.95,183.04,123.06,31,2026-07-01,2027-03-31,100,28000
+RATE-000156,SkyCargo Partners,Mumbai,France,Marseille,Sea FCL,per_container,2845.86,USD,499.8,136.45,119.51,27,2026-07-01,2027-03-31,100,28000
+RATE-000157,BlueWave Logistics,Mumbai,Italia,Genoa,Air,per_kg,4.92,USD,315.83,233.76,98.55,6,2026-07-01,2027-03-31,1,5000
+RATE-000158,TransGlobe Freight,Mumbai,Italia,Genoa,Air,per_kg,6.09,USD,274.96,109.69,85.4,5,2026-07-01,2027-03-31,1,5000
+RATE-000159,OceanBridge Logistics,Mumbai,Italia,Genoa,Air,per_kg,6.99,USD,466.91,217.44,173.41,5,2026-07-01,2027-03-31,1,5000
+RATE-000160,SkyCargo Partners,Mumbai,Italia,Genoa,Air,per_kg,6.73,USD,121.94,153.99,163.94,7,2026-07-01,2027-03-31,1,5000
+RATE-000161,BlueWave Logistics,Mumbai,Italia,Genoa,Sea LCL,per_cbm,121.63,USD,355.08,189.15,84.31,28,2026-07-01,2027-03-31,100,28000
+RATE-000162,TransGlobe Freight,Mumbai,Italia,Genoa,Sea LCL,per_cbm,185.21,EUR,383.46,149.8,79.0,28,2026-07-01,2027-03-31,100,28000
+RATE-000163,OceanBridge Logistics,Mumbai,Italia,Genoa,Sea LCL,per_cbm,273.38,USD,181.62,125.74,134.4,34,2026-07-01,2027-03-31,100,28000
+RATE-000164,SkyCargo Partners,Mumbai,Italia,Genoa,Sea LCL,per_cbm,177.06,USD,179.21,239.84,94.3,34,2026-07-01,2027-03-31,100,28000
+RATE-000165,BlueWave Logistics,Mumbai,Italia,Genoa,Sea FCL,per_container,2608.25,USD,332.67,113.13,91.03,35,2026-07-01,2027-03-31,100,28000
+RATE-000166,TransGlobe Freight,Mumbai,Italia,Genoa,Sea FCL,per_container,2164.3,USD,432.11,139.38,82.79,21,2026-07-01,2027-03-31,100,28000
+RATE-000167,OceanBridge Logistics,Mumbai,Italia,Genoa,Sea FCL,per_container,3594.66,USD,232.88,151.84,102.6,23,2026-07-01,2027-03-31,100,28000
+RATE-000168,SkyCargo Partners,Mumbai,Italia,Genoa,Sea FCL,per_container,2565.9,EUR,357.64,221.97,77.37,22,2026-07-01,2027-03-31,100,28000
+RATE-000169,BlueWave Logistics,Mumbai,Spain,Barcelona,Air,per_kg,5.26,USD,331.94,83.5,88.43,7,2026-07-01,2027-03-31,1,5000
+RATE-000170,TransGlobe Freight,Mumbai,Spain,Barcelona,Air,per_kg,6.04,EUR,348.96,160.51,110.57,9,2026-07-01,2027-03-31,1,5000
+RATE-000171,OceanBridge Logistics,Mumbai,Spain,Barcelona,Air,per_kg,6.54,EUR,363.75,227.03,125.52,7,2026-07-01,2027-03-31,1,5000
+RATE-000172,SkyCargo Partners,Mumbai,Spain,Barcelona,Air,per_kg,4.47,USD,464.47,173.26,157.11,5,2026-07-01,2027-03-31,1,5000
+RATE-000173,BlueWave Logistics,Mumbai,Spain,Barcelona,Sea LCL,per_cbm,148.13,EUR,225.55,128.66,64.13,29,2026-07-01,2027-03-31,100,28000
+RATE-000174,TransGlobe Freight,Mumbai,Spain,Barcelona,Sea LCL,per_cbm,231.01,USD,368.52,176.63,144.79,22,2026-07-01,2027-03-31,100,28000
+RATE-000175,OceanBridge Logistics,Mumbai,Spain,Barcelona,Sea LCL,per_cbm,140.41,USD,476.82,133.64,133.93,23,2026-07-01,2027-03-31,100,28000
+RATE-000176,SkyCargo Partners,Mumbai,Spain,Barcelona,Sea LCL,per_cbm,202.6,USD,354.25,190.76,178.35,30,2026-07-01,2027-03-31,100,28000
+RATE-000177,BlueWave Logistics,Mumbai,Spain,Barcelona,Sea FCL,per_container,2576.46,EUR,264.92,96.2,167.27,26,2026-07-01,2027-03-31,100,28000
+RATE-000178,TransGlobe Freight,Mumbai,Spain,Barcelona,Sea FCL,per_container,2921.39,EUR,162.08,185.92,122.09,24,2026-07-01,2027-03-31,100,28000
+RATE-000179,OceanBridge Logistics,Mumbai,Spain,Barcelona,Sea FCL,per_container,2175.22,EUR,495.81,204.91,63.22,32,2026-07-01,2027-03-31,100,28000
+RATE-000180,SkyCargo Partners,Mumbai,Spain,Barcelona,Sea FCL,per_container,1812.72,USD,225.08,193.54,120.0,25,2026-07-01,2027-03-31,100,28000
+RATE-000181,BlueWave Logistics,Mumbai,Spain,Valencia,Air,per_kg,4.15,USD,150.13,167.22,63.07,10,2026-07-01,2027-03-31,1,5000
+RATE-000182,TransGlobe Freight,Mumbai,Spain,Valencia,Air,per_kg,6.41,USD,435.61,196.95,88.78,6,2026-07-01,2027-03-31,1,5000
+RATE-000183,OceanBridge Logistics,Mumbai,Spain,Valencia,Air,per_kg,5.09,USD,454.1,174.7,106.25,10,2026-07-01,2027-03-31,1,5000
+RATE-000184,SkyCargo Partners,Mumbai,Spain,Valencia,Air,per_kg,5.41,EUR,256.14,212.21,71.95,10,2026-07-01,2027-03-31,1,5000
+RATE-000185,BlueWave Logistics,Mumbai,Spain,Valencia,Sea LCL,per_cbm,277.85,USD,329.98,97.85,81.13,37,2026-07-01,2027-03-31,100,28000
+RATE-000186,TransGlobe Freight,Mumbai,Spain,Valencia,Sea LCL,per_cbm,214.12,EUR,176.42,224.15,129.35,31,2026-07-01,2027-03-31,100,28000
+RATE-000187,OceanBridge Logistics,Mumbai,Spain,Valencia,Sea LCL,per_cbm,226.92,EUR,302.26,127.14,109.17,22,2026-07-01,2027-03-31,100,28000
+RATE-000188,SkyCargo Partners,Mumbai,Spain,Valencia,Sea LCL,per_cbm,129.16,EUR,401.49,127.7,164.24,38,2026-07-01,2027-03-31,100,28000
+RATE-000189,BlueWave Logistics,Mumbai,Spain,Valencia,Sea FCL,per_container,2787.37,EUR,256.73,167.08,138.63,35,2026-07-01,2027-03-31,100,28000
+RATE-000190,TransGlobe Freight,Mumbai,Spain,Valencia,Sea FCL,per_container,3067.59,USD,299.71,181.68,163.43,28,2026-07-01,2027-03-31,100,28000
+RATE-000191,OceanBridge Logistics,Mumbai,Spain,Valencia,Sea FCL,per_container,2961.3,USD,247.49,222.57,95.27,23,2026-07-01,2027-03-31,100,28000
+RATE-000192,SkyCargo Partners,Mumbai,Spain,Valencia,Sea FCL,per_container,2681.43,EUR,477.27,166.41,160.18,35,2026-07-01,2027-03-31,100,28000
+RATE-000193,BlueWave Logistics,Chennai,DE,Hamburg,Air,per_kg,4.84,USD,241.97,231.99,165.71,5,2026-07-01,2027-03-31,1,5000
+RATE-000194,TransGlobe Freight,Chennai,DE,Hamburg,Air,per_kg,5.13,EUR,313.54,239.8,72.57,4,2026-07-01,2027-03-31,1,5000
+RATE-000195,OceanBridge Logistics,Chennai,DE,Hamburg,Air,per_kg,5.88,USD,417.02,119.93,186.32,5,2026-07-01,2027-03-31,1,5000
+RATE-000196,SkyCargo Partners,Chennai,DE,Hamburg,Air,per_kg,5.43,USD,370.62,118.23,119.09,9,2026-07-01,2027-03-31,1,5000
+RATE-000197,BlueWave Logistics,Chennai,DE,Hamburg,Sea LCL,per_cbm,202.33,USD,119.67,215.87,146.41,30,2026-07-01,2027-03-31,100,28000
+RATE-000198,TransGlobe Freight,Chennai,DE,Hamburg,Sea LCL,per_cbm,246.2,EUR,279.9,157.07,87.93,27,2026-07-01,2027-03-31,100,28000
+RATE-000199,OceanBridge Logistics,Chennai,DE,Hamburg,Sea LCL,per_cbm,224.21,USD,338.3,180.12,63.01,36,2026-07-01,2027-03-31,100,28000
+RATE-000200,SkyCargo Partners,Chennai,DE,Hamburg,Sea LCL,per_cbm,222.04,USD,413.18,221.07,94.57,36,2026-07-01,2027-03-31,100,28000
+RATE-000201,BlueWave Logistics,Chennai,DE,Hamburg,Sea FCL,per_container,1892.95,USD,113.66,199.63,75.52,30,2026-07-01,2027-03-31,100,28000
+RATE-000202,TransGlobe Freight,Chennai,DE,Hamburg,Sea FCL,per_container,3570.81,USD,403.52,114.87,79.97,21,2026-07-01,2027-03-31,100,28000
+RATE-000203,OceanBridge Logistics,Chennai,DE,Hamburg,Sea FCL,per_container,2434.6,USD,137.93,128.95,175.79,32,2026-07-01,2027-03-31,100,28000
+RATE-000204,SkyCargo Partners,Chennai,DE,Hamburg,Sea FCL,per_container,3181.65,EUR,344.64,196.8,67.1,24,2026-07-01,2027-03-31,100,28000
+RATE-000205,BlueWave Logistics,Chennai,DE,Bremerhaven,Air,per_kg,5.26,USD,288.86,149.31,102.88,4,2026-07-01,2027-03-31,1,5000
+RATE-000206,TransGlobe Freight,Chennai,DE,Bremerhaven,Air,per_kg,6.01,EUR,307.84,107.15,155.9,4,2026-07-01,2027-03-31,1,5000
+RATE-000207,OceanBridge Logistics,Chennai,DE,Bremerhaven,Air,per_kg,4.73,USD,404.78,180.38,99.71,9,2026-07-01,2027-03-31,1,5000
+RATE-000208,SkyCargo Partners,Chennai,DE,Bremerhaven,Air,per_kg,5.57,EUR,160.84,88.12,173.94,10,2026-07-01,2027-03-31,1,5000
+RATE-000209,BlueWave Logistics,Chennai,DE,Bremerhaven,Sea LCL,per_cbm,174.16,EUR,269.25,189.64,140.9,25,2026-07-01,2027-03-31,100,28000
+RATE-000210,TransGlobe Freight,Chennai,DE,Bremerhaven,Sea LCL,per_cbm,178.09,EUR,270.21,129.82,93.19,28,2026-07-01,2027-03-31,100,28000
+RATE-000211,OceanBridge Logistics,Chennai,DE,Bremerhaven,Sea LCL,per_cbm,126.37,EUR,460.22,233.47,168.31,32,2026-07-01,2027-03-31,100,28000
+RATE-000212,SkyCargo Partners,Chennai,DE,Bremerhaven,Sea LCL,per_cbm,220.66,EUR,132.05,146.55,136.93,28,2026-07-01,2027-03-31,100,28000
+RATE-000213,BlueWave Logistics,Chennai,DE,Bremerhaven,Sea FCL,per_container,1936.82,EUR,168.83,198.56,112.44,21,2026-07-01,2027-03-31,100,28000
+RATE-000214,TransGlobe Freight,Chennai,DE,Bremerhaven,Sea FCL,per_container,3322.71,USD,488.32,86.19,101.6,26,2026-07-01,2027-03-31,100,28000
+RATE-000215,OceanBridge Logistics,Chennai,DE,Bremerhaven,Sea FCL,per_container,2283.1,USD,199.63,82.37,99.57,33,2026-07-01,2027-03-31,100,28000
+RATE-000216,SkyCargo Partners,Chennai,DE,Bremerhaven,Sea FCL,per_container,3508.13,USD,350.26,109.95,113.45,31,2026-07-01,2027-03-31,100,28000
+RATE-000217,BlueWave Logistics,Chennai,Netherlands,Rotterdam,Air,per_kg,4.27,USD,82.36,146.02,66.39,4,2026-07-01,2027-03-31,1,5000
+RATE-000218,TransGlobe Freight,Chennai,Netherlands,Rotterdam,Air,per_kg,6.84,USD,293.46,196.38,142.96,6,2026-07-01,2027-03-31,1,5000
+RATE-000219,OceanBridge Logistics,Chennai,Netherlands,Rotterdam,Air,per_kg,4.97,USD,101.1,129.36,126.55,7,2026-07-01,2027-03-31,1,5000
+RATE-000220,SkyCargo Partners,Chennai,Netherlands,Rotterdam,Air,per_kg,6.12,USD,436.77,201.33,185.88,10,2026-07-01,2027-03-31,1,5000
+RATE-000221,BlueWave Logistics,Chennai,Netherlands,Rotterdam,Sea LCL,per_cbm,235.8,USD,264.36,185.63,85.93,30,2026-07-01,2027-03-31,100,28000
+RATE-000222,TransGlobe Freight,Chennai,Netherlands,Rotterdam,Sea LCL,per_cbm,176.41,EUR,276.34,226.0,173.55,36,2026-07-01,2027-03-31,100,28000
+RATE-000223,OceanBridge Logistics,Chennai,Netherlands,Rotterdam,Sea LCL,per_cbm,198.07,USD,135.81,230.21,87.36,36,2026-07-01,2027-03-31,100,28000
+RATE-000224,SkyCargo Partners,Chennai,Netherlands,Rotterdam,Sea LCL,per_cbm,191.54,USD,181.94,85.43,113.86,28,2026-07-01,2027-03-31,100,28000
+RATE-000225,BlueWave Logistics,Chennai,Netherlands,Rotterdam,Sea FCL,per_container,2271.31,EUR,283.53,213.7,112.47,21,2026-07-01,2027-03-31,100,28000
+RATE-000226,TransGlobe Freight,Chennai,Netherlands,Rotterdam,Sea FCL,per_container,2357.01,USD,112.65,179.46,145.63,33,2026-07-01,2027-03-31,100,28000
+RATE-000227,OceanBridge Logistics,Chennai,Netherlands,Rotterdam,Sea FCL,per_container,2867.3,EUR,84.48,92.09,181.61,29,2026-07-01,2027-03-31,100,28000
+RATE-000228,SkyCargo Partners,Chennai,Netherlands,Rotterdam,Sea FCL,per_container,2249.31,EUR,113.06,186.61,97.64,21,2026-07-01,2027-03-31,100,28000
+RATE-000229,BlueWave Logistics,Chennai,French Republic,Le Havre,Air,per_kg,5.77,USD,367.5,103.46,89.41,10,2026-07-01,2027-03-31,1,5000
+RATE-000230,TransGlobe Freight,Chennai,French Republic,Le Havre,Air,per_kg,5.04,USD,271.06,134.11,61.45,9,2026-07-01,2027-03-31,1,5000
+RATE-000231,OceanBridge Logistics,Chennai,French Republic,Le Havre,Air,per_kg,5.79,USD,462.04,80.11,95.88,10,2026-07-01,2027-03-31,1,5000
+RATE-000232,SkyCargo Partners,Chennai,French Republic,Le Havre,Air,per_kg,4.83,EUR,409.44,234.92,94.26,6,2026-07-01,2027-03-31,1,5000
+RATE-000233,BlueWave Logistics,Chennai,French Republic,Le Havre,Sea LCL,per_cbm,188.62,USD,172.51,203.7,164.98,22,2026-07-01,2027-03-31,100,28000
+RATE-000234,TransGlobe Freight,Chennai,French Republic,Le Havre,Sea LCL,per_cbm,250.27,EUR,106.85,194.41,184.08,26,2026-07-01,2027-03-31,100,28000
+RATE-000235,OceanBridge Logistics,Chennai,French Republic,Le Havre,Sea LCL,per_cbm,224.38,EUR,441.77,164.36,116.52,26,2026-07-01,2027-03-31,100,28000
+RATE-000236,SkyCargo Partners,Chennai,French Republic,Le Havre,Sea LCL,per_cbm,122.62,USD,225.51,105.79,119.43,28,2026-07-01,2027-03-31,100,28000
+RATE-000237,BlueWave Logistics,Chennai,French Republic,Le Havre,Sea FCL,per_container,2958.36,USD,380.01,124.09,132.42,29,2026-07-01,2027-03-31,100,28000
+RATE-000238,TransGlobe Freight,Chennai,French Republic,Le Havre,Sea FCL,per_container,3489.77,EUR,376.46,103.82,66.98,26,2026-07-01,2027-03-31,100,28000
+RATE-000239,OceanBridge Logistics,Chennai,French Republic,Le Havre,Sea FCL,per_container,3825.71,EUR,110.2,226.72,75.2,31,2026-07-01,2027-03-31,100,28000
+RATE-000240,SkyCargo Partners,Chennai,French Republic,Le Havre,Sea FCL,per_container,3743.39,USD,101.42,160.52,171.32,28,2026-07-01,2027-03-31,100,28000
+RATE-000241,BlueWave Logistics,Chennai,French Republic,Marseille,Air,per_kg,4.89,EUR,265.1,103.31,80.62,6,2026-07-01,2027-03-31,1,5000
+RATE-000242,TransGlobe Freight,Chennai,French Republic,Marseille,Air,per_kg,4.41,USD,260.13,97.94,116.57,7,2026-07-01,2027-03-31,1,5000
+RATE-000243,OceanBridge Logistics,Chennai,French Republic,Marseille,Air,per_kg,5.98,EUR,177.83,183.4,181.81,5,2026-07-01,2027-03-31,1,5000
+RATE-000244,SkyCargo Partners,Chennai,French Republic,Marseille,Air,per_kg,4.83,EUR,145.19,230.93,160.08,7,2026-07-01,2027-03-31,1,5000
+RATE-000245,BlueWave Logistics,Chennai,French Republic,Marseille,Sea LCL,per_cbm,125.14,USD,450.3,164.16,111.56,32,2026-07-01,2027-03-31,100,28000
+RATE-000246,TransGlobe Freight,Chennai,French Republic,Marseille,Sea LCL,per_cbm,272.86,USD,409.87,232.51,139.3,32,2026-07-01,2027-03-31,100,28000
+RATE-000247,OceanBridge Logistics,Chennai,French Republic,Marseille,Sea LCL,per_cbm,137.7,USD,444.98,166.7,171.13,23,2026-07-01,2027-03-31,100,28000
+RATE-000248,SkyCargo Partners,Chennai,French Republic,Marseille,Sea LCL,per_cbm,221.87,USD,166.99,226.48,70.23,28,2026-07-01,2027-03-31,100,28000
+RATE-000249,BlueWave Logistics,Chennai,French Republic,Marseille,Sea FCL,per_container,3490.12,USD,97.42,103.36,156.39,22,2026-07-01,2027-03-31,100,28000
+RATE-000250,TransGlobe Freight,Chennai,French Republic,Marseille,Sea FCL,per_container,3670.74,USD,248.83,139.64,106.24,36,2026-07-01,2027-03-31,100,28000
+RATE-000251,OceanBridge Logistics,Chennai,French Republic,Marseille,Sea FCL,per_container,2095.72,USD,228.31,155.49,87.09,22,2026-07-01,2027-03-31,100,28000
+RATE-000252,SkyCargo Partners,Chennai,French Republic,Marseille,Sea FCL,per_container,2250.5,USD,494.38,183.45,91.89,23,2026-07-01,2027-03-31,100,28000
+RATE-000253,BlueWave Logistics,Chennai,IT,Genoa,Air,per_kg,6.26,USD,169.06,86.12,125.24,9,2026-07-01,2027-03-31,1,5000
+RATE-000254,TransGlobe Freight,Chennai,IT,Genoa,Air,per_kg,6.24,USD,361.68,199.63,163.57,10,2026-07-01,2027-03-31,1,5000
+RATE-000255,OceanBridge Logistics,Chennai,IT,Genoa,Air,per_kg,4.23,USD,399.78,116.66,129.29,7,2026-07-01,2027-03-31,1,5000
+RATE-000256,SkyCargo Partners,Chennai,IT,Genoa,Air,per_kg,6.15,USD,137.48,174.93,151.1,7,2026-07-01,2027-03-31,1,5000
+RATE-000257,BlueWave Logistics,Chennai,IT,Genoa,Sea LCL,per_cbm,166.63,EUR,159.7,90.28,110.74,27,2026-07-01,2027-03-31,100,28000
+RATE-000258,TransGlobe Freight,Chennai,IT,Genoa,Sea LCL,per_cbm,267.09,USD,253.13,128.89,154.57,33,2026-07-01,2027-03-31,100,28000
+RATE-000259,OceanBridge Logistics,Chennai,IT,Genoa,Sea LCL,per_cbm,268.98,USD,176.36,83.28,132.66,36,2026-07-01,2027-03-31,100,28000
+RATE-000260,SkyCargo Partners,Chennai,IT,Genoa,Sea LCL,per_cbm,161.62,USD,97.95,87.13,137.0,38,2026-07-01,2027-03-31,100,28000
+RATE-000261,BlueWave Logistics,Chennai,IT,Genoa,Sea FCL,per_container,3282.62,USD,451.36,174.73,165.13,24,2026-07-01,2027-03-31,100,28000
+RATE-000262,TransGlobe Freight,Chennai,IT,Genoa,Sea FCL,per_container,3140.34,USD,267.27,169.65,72.11,36,2026-07-01,2027-03-31,100,28000
+RATE-000263,OceanBridge Logistics,Chennai,IT,Genoa,Sea FCL,per_container,3177.26,USD,247.84,84.55,188.98,25,2026-07-01,2027-03-31,100,28000
+RATE-000264,SkyCargo Partners,Chennai,IT,Genoa,Sea FCL,per_container,1817.3,USD,272.18,94.66,187.95,28,2026-07-01,2027-03-31,100,28000
+RATE-000265,BlueWave Logistics,Chennai,ES,Barcelona,Air,per_kg,6.22,USD,242.58,232.45,121.3,8,2026-07-01,2027-03-31,1,5000
+RATE-000266,TransGlobe Freight,Chennai,ES,Barcelona,Air,per_kg,6.23,EUR,413.38,115.0,120.08,7,2026-07-01,2027-03-31,1,5000
+RATE-000267,OceanBridge Logistics,Chennai,ES,Barcelona,Air,per_kg,5.27,USD,282.49,215.98,94.25,8,2026-07-01,2027-03-31,1,5000
+RATE-000268,SkyCargo Partners,Chennai,ES,Barcelona,Air,per_kg,4.99,USD,407.22,160.81,140.21,6,2026-07-01,2027-03-31,1,5000
+RATE-000269,BlueWave Logistics,Chennai,ES,Barcelona,Sea LCL,per_cbm,161.17,USD,497.87,128.94,88.84,36,2026-07-01,2027-03-31,100,28000
+RATE-000270,TransGlobe Freight,Chennai,ES,Barcelona,Sea LCL,per_cbm,270.91,USD,341.61,205.73,74.91,28,2026-07-01,2027-03-31,100,28000
+RATE-000271,OceanBridge Logistics,Chennai,ES,Barcelona,Sea LCL,per_cbm,189.83,EUR,203.98,152.55,89.79,25,2026-07-01,2027-03-31,100,28000
+RATE-000272,SkyCargo Partners,Chennai,ES,Barcelona,Sea LCL,per_cbm,209.49,EUR,460.37,226.59,137.8,26,2026-07-01,2027-03-31,100,28000
+RATE-000273,BlueWave Logistics,Chennai,ES,Barcelona,Sea FCL,per_container,2359.37,USD,469.98,234.41,90.44,26,2026-07-01,2027-03-31,100,28000
+RATE-000274,TransGlobe Freight,Chennai,ES,Barcelona,Sea FCL,per_container,2113.55,USD,164.41,133.05,164.68,35,2026-07-01,2027-03-31,100,28000
+RATE-000275,OceanBridge Logistics,Chennai,ES,Barcelona,Sea FCL,per_container,3493.19,EUR,262.24,98.27,120.35,30,2026-07-01,2027-03-31,100,28000
+RATE-000276,SkyCargo Partners,Chennai,ES,Barcelona,Sea FCL,per_container,3235.69,USD,185.85,239.4,120.35,23,2026-07-01,2027-03-31,100,28000
+RATE-000277,BlueWave Logistics,Chennai,ES,Valencia,Air,per_kg,4.97,USD,97.0,159.93,84.7,5,2026-07-01,2027-03-31,1,5000
+RATE-000278,TransGlobe Freight,Chennai,ES,Valencia,Air,per_kg,4.86,USD,331.07,109.99,91.77,9,2026-07-01,2027-03-31,1,5000
+RATE-000279,OceanBridge Logistics,Chennai,ES,Valencia,Air,per_kg,6.09,EUR,209.55,135.8,174.7,7,2026-07-01,2027-03-31,1,5000
+RATE-000280,SkyCargo Partners,Chennai,ES,Valencia,Air,per_kg,5.75,EUR,389.68,197.39,187.6,5,2026-07-01,2027-03-31,1,5000
+RATE-000281,BlueWave Logistics,Chennai,ES,Valencia,Sea LCL,per_cbm,229.62,EUR,384.08,130.07,140.39,31,2026-07-01,2027-03-31,100,28000
+RATE-000282,TransGlobe Freight,Chennai,ES,Valencia,Sea LCL,per_cbm,161.11,USD,86.7,158.56,186.6,38,2026-07-01,2027-03-31,100,28000
+RATE-000283,OceanBridge Logistics,Chennai,ES,Valencia,Sea LCL,per_cbm,189.93,USD,306.14,107.32,151.67,27,2026-07-01,2027-03-31,100,28000
+RATE-000284,SkyCargo Partners,Chennai,ES,Valencia,Sea LCL,per_cbm,242.98,EUR,449.74,135.59,85.17,27,2026-07-01,2027-03-31,100,28000
+RATE-000285,BlueWave Logistics,Chennai,ES,Valencia,Sea FCL,per_container,1941.18,EUR,190.45,207.15,137.2,35,2026-07-01,2027-03-31,100,28000
+RATE-000286,TransGlobe Freight,Chennai,ES,Valencia,Sea FCL,per_container,2642.69,USD,440.12,81.24,81.69,25,2026-07-01,2027-03-31,100,28000
+RATE-000287,OceanBridge Logistics,Chennai,ES,Valencia,Sea FCL,per_container,2036.14,USD,264.06,214.34,154.83,35,2026-07-01,2027-03-31,100,28000
+RATE-000288,SkyCargo Partners,Chennai,ES,Valencia,Sea FCL,per_container,3841.54,EUR,226.68,199.27,88.56,25,2026-07-01,2027-03-31,100,28000
+RATE-000289,BlueWave Logistics,Kolkata,Germany,Hamburg,Air,per_kg,4.4,USD,294.57,187.03,112.25,10,2026-07-01,2027-03-31,1,5000
+RATE-000290,TransGlobe Freight,Kolkata,Germany,Hamburg,Air,per_kg,5.67,USD,188.71,130.38,189.54,8,2026-07-01,2027-03-31,1,5000
+RATE-000291,OceanBridge Logistics,Kolkata,Germany,Hamburg,Air,per_kg,5.26,EUR,451.15,146.68,161.9,9,2026-07-01,2027-03-31,1,5000
+RATE-000292,SkyCargo Partners,Kolkata,Germany,Hamburg,Air,per_kg,6.28,USD,482.0,85.46,69.99,8,2026-07-01,2027-03-31,1,5000
+RATE-000293,BlueWave Logistics,Kolkata,Germany,Hamburg,Sea LCL,per_cbm,183.64,USD,412.97,151.11,108.68,29,2026-07-01,2027-03-31,100,28000
+RATE-000294,TransGlobe Freight,Kolkata,Germany,Hamburg,Sea LCL,per_cbm,148.76,USD,450.31,200.36,89.21,24,2026-07-01,2027-03-31,100,28000
+RATE-000295,OceanBridge Logistics,Kolkata,Germany,Hamburg,Sea LCL,per_cbm,210.82,USD,101.18,110.64,68.64,23,2026-07-01,2027-03-31,100,28000
+RATE-000296,SkyCargo Partners,Kolkata,Germany,Hamburg,Sea LCL,per_cbm,132.01,USD,348.89,155.24,109.01,31,2026-07-01,2027-03-31,100,28000
+RATE-000297,BlueWave Logistics,Kolkata,Germany,Hamburg,Sea FCL,per_container,2938.17,USD,366.58,222.01,103.02,27,2026-07-01,2027-03-31,100,28000
+RATE-000298,TransGlobe Freight,Kolkata,Germany,Hamburg,Sea FCL,per_container,2286.75,EUR,159.12,162.68,146.15,21,2026-07-01,2027-03-31,100,28000
+RATE-000299,OceanBridge Logistics,Kolkata,Germany,Hamburg,Sea FCL,per_container,2031.3,EUR,271.17,225.92,96.05,36,2026-07-01,2027-03-31,100,28000
+RATE-000300,SkyCargo Partners,Kolkata,Germany,Hamburg,Sea FCL,per_container,1932.66,EUR,137.96,222.16,77.03,21,2026-07-01,2027-03-31,100,28000
+RATE-000301,BlueWave Logistics,Kolkata,Germany,Bremerhaven,Air,per_kg,6.33,EUR,352.54,158.44,151.21,9,2026-07-01,2027-03-31,1,5000
+RATE-000302,TransGlobe Freight,Kolkata,Germany,Bremerhaven,Air,per_kg,6.29,USD,118.06,180.67,149.37,8,2026-07-01,2027-03-31,1,5000
+RATE-000303,OceanBridge Logistics,Kolkata,Germany,Bremerhaven,Air,per_kg,6.35,USD,125.39,218.71,80.45,10,2026-07-01,2027-03-31,1,5000
+RATE-000304,SkyCargo Partners,Kolkata,Germany,Bremerhaven,Air,per_kg,6.45,USD,196.08,129.28,68.68,10,2026-07-01,2027-03-31,1,5000
+RATE-000305,BlueWave Logistics,Kolkata,Germany,Bremerhaven,Sea LCL,per_cbm,171.65,EUR,400.23,156.3,133.87,30,2026-07-01,2027-03-31,100,28000
+RATE-000306,TransGlobe Freight,Kolkata,Germany,Bremerhaven,Sea LCL,per_cbm,193.87,USD,303.81,232.28,141.89,27,2026-07-01,2027-03-31,100,28000
+RATE-000307,OceanBridge Logistics,Kolkata,Germany,Bremerhaven,Sea LCL,per_cbm,229.65,USD,223.38,151.73,146.99,30,2026-07-01,2027-03-31,100,28000
+RATE-000308,SkyCargo Partners,Kolkata,Germany,Bremerhaven,Sea LCL,per_cbm,144.86,EUR,349.21,201.15,63.09,25,2026-07-01,2027-03-31,100,28000
+RATE-000309,BlueWave Logistics,Kolkata,Germany,Bremerhaven,Sea FCL,per_container,1823.32,EUR,366.95,196.24,186.72,29,2026-07-01,2027-03-31,100,28000
+RATE-000310,TransGlobe Freight,Kolkata,Germany,Bremerhaven,Sea FCL,per_container,3836.89,USD,363.6,189.7,75.74,26,2026-07-01,2027-03-31,100,28000
+RATE-000311,OceanBridge Logistics,Kolkata,Germany,Bremerhaven,Sea FCL,per_container,2974.01,USD,97.06,239.4,142.69,22,2026-07-01,2027-03-31,100,28000
+RATE-000312,SkyCargo Partners,Kolkata,Germany,Bremerhaven,Sea FCL,per_container,1913.88,EUR,431.21,122.54,66.0,25,2026-07-01,2027-03-31,100,28000
+RATE-000313,BlueWave Logistics,Kolkata,NL,Rotterdam,Air,per_kg,4.27,EUR,253.15,225.67,160.95,8,2026-07-01,2027-03-31,1,5000
+RATE-000314,TransGlobe Freight,Kolkata,NL,Rotterdam,Air,per_kg,6.73,EUR,259.24,225.05,64.73,4,2026-07-01,2027-03-31,1,5000
+RATE-000315,OceanBridge Logistics,Kolkata,NL,Rotterdam,Air,per_kg,5.87,USD,150.54,159.46,107.96,10,2026-07-01,2027-03-31,1,5000
+RATE-000316,SkyCargo Partners,Kolkata,NL,Rotterdam,Air,per_kg,5.28,EUR,169.76,101.9,188.64,6,2026-07-01,2027-03-31,1,5000
+RATE-000317,BlueWave Logistics,Kolkata,NL,Rotterdam,Sea LCL,per_cbm,249.85,EUR,152.93,165.38,156.95,25,2026-07-01,2027-03-31,100,28000
+RATE-000318,TransGlobe Freight,Kolkata,NL,Rotterdam,Sea LCL,per_cbm,186.02,USD,317.52,139.19,152.34,30,2026-07-01,2027-03-31,100,28000
+RATE-000319,OceanBridge Logistics,Kolkata,NL,Rotterdam,Sea LCL,per_cbm,153.56,USD,374.91,162.93,113.8,31,2026-07-01,2027-03-31,100,28000
+RATE-000320,SkyCargo Partners,Kolkata,NL,Rotterdam,Sea LCL,per_cbm,222.12,EUR,417.81,83.06,148.1,33,2026-07-01,2027-03-31,100,28000
+RATE-000321,BlueWave Logistics,Kolkata,NL,Rotterdam,Sea FCL,per_container,3887.58,EUR,263.89,157.02,156.53,33,2026-07-01,2027-03-31,100,28000
+RATE-000322,TransGlobe Freight,Kolkata,NL,Rotterdam,Sea FCL,per_container,2436.62,EUR,372.66,88.68,174.49,27,2026-07-01,2027-03-31,100,28000
+RATE-000323,OceanBridge Logistics,Kolkata,NL,Rotterdam,Sea FCL,per_container,3717.62,USD,304.18,88.22,62.52,36,2026-07-01,2027-03-31,100,28000
+RATE-000324,SkyCargo Partners,Kolkata,NL,Rotterdam,Sea FCL,per_container,2834.16,USD,383.78,92.73,175.3,24,2026-07-01,2027-03-31,100,28000
+RATE-000325,BlueWave Logistics,Kolkata,France,Le Havre,Air,per_kg,5.63,EUR,195.79,106.35,87.71,9,2026-07-01,2027-03-31,1,5000
+RATE-000326,TransGlobe Freight,Kolkata,France,Le Havre,Air,per_kg,5.69,USD,385.78,221.43,72.99,4,2026-07-01,2027-03-31,1,5000
+RATE-000327,OceanBridge Logistics,Kolkata,France,Le Havre,Air,per_kg,6.56,USD,225.85,148.71,146.91,7,2026-07-01,2027-03-31,1,5000
+RATE-000328,SkyCargo Partners,Kolkata,France,Le Havre,Air,per_kg,6.23,EUR,480.4,143.1,95.08,5,2026-07-01,2027-03-31,1,5000
+RATE-000329,BlueWave Logistics,Kolkata,France,Le Havre,Sea LCL,per_cbm,150.16,USD,174.93,156.85,67.48,34,2026-07-01,2027-03-31,100,28000
+RATE-000330,TransGlobe Freight,Kolkata,France,Le Havre,Sea LCL,per_cbm,271.27,USD,342.17,111.47,82.7,25,2026-07-01,2027-03-31,100,28000
+RATE-000331,OceanBridge Logistics,Kolkata,France,Le Havre,Sea LCL,per_cbm,279.53,USD,170.15,167.15,173.73,35,2026-07-01,2027-03-31,100,28000
+RATE-000332,SkyCargo Partners,Kolkata,France,Le Havre,Sea LCL,per_cbm,249.07,USD,92.27,96.27,187.82,22,2026-07-01,2027-03-31,100,28000
+RATE-000333,BlueWave Logistics,Kolkata,France,Le Havre,Sea FCL,per_container,3246.62,USD,398.39,232.92,69.64,28,2026-07-01,2027-03-31,100,28000
+RATE-000334,TransGlobe Freight,Kolkata,France,Le Havre,Sea FCL,per_container,2194.78,EUR,222.0,141.52,141.86,28,2026-07-01,2027-03-31,100,28000
+RATE-000335,OceanBridge Logistics,Kolkata,France,Le Havre,Sea FCL,per_container,3296.56,EUR,127.66,229.2,71.71,36,2026-07-01,2027-03-31,100,28000
+RATE-000336,SkyCargo Partners,Kolkata,France,Le Havre,Sea FCL,per_container,3636.09,USD,171.25,164.07,104.11,34,2026-07-01,2027-03-31,100,28000
+RATE-000337,BlueWave Logistics,Kolkata,France,Marseille,Air,per_kg,4.89,EUR,442.08,102.25,145.62,9,2026-07-01,2027-03-31,1,5000
+RATE-000338,TransGlobe Freight,Kolkata,France,Marseille,Air,per_kg,4.15,EUR,272.87,230.56,161.38,5,2026-07-01,2027-03-31,1,5000
+RATE-000339,OceanBridge Logistics,Kolkata,France,Marseille,Air,per_kg,5.43,USD,101.96,90.7,125.67,8,2026-07-01,2027-03-31,1,5000
+RATE-000340,SkyCargo Partners,Kolkata,France,Marseille,Air,per_kg,4.63,USD,464.91,121.5,74.49,9,2026-07-01,2027-03-31,1,5000
+RATE-000341,BlueWave Logistics,Kolkata,France,Marseille,Sea LCL,per_cbm,255.26,USD,327.02,105.53,147.17,31,2026-07-01,2027-03-31,100,28000
+RATE-000342,TransGlobe Freight,Kolkata,France,Marseille,Sea LCL,per_cbm,184.05,EUR,395.85,121.53,60.45,31,2026-07-01,2027-03-31,100,28000
+RATE-000343,OceanBridge Logistics,Kolkata,France,Marseille,Sea LCL,per_cbm,177.12,USD,234.73,81.62,115.22,32,2026-07-01,2027-03-31,100,28000
+RATE-000344,SkyCargo Partners,Kolkata,France,Marseille,Sea LCL,per_cbm,264.8,USD,169.25,224.07,89.97,23,2026-07-01,2027-03-31,100,28000
+RATE-000345,BlueWave Logistics,Kolkata,France,Marseille,Sea FCL,per_container,2540.96,USD,214.82,180.87,72.67,21,2026-07-01,2027-03-31,100,28000
+RATE-000346,TransGlobe Freight,Kolkata,France,Marseille,Sea FCL,per_container,3434.9,EUR,149.55,189.73,100.26,29,2026-07-01,2027-03-31,100,28000
+RATE-000347,OceanBridge Logistics,Kolkata,France,Marseille,Sea FCL,per_container,1814.2,USD,93.69,161.46,187.39,35,2026-07-01,2027-03-31,100,28000
+RATE-000348,SkyCargo Partners,Kolkata,France,Marseille,Sea FCL,per_container,3602.44,EUR,88.63,212.12,155.52,29,2026-07-01,2027-03-31,100,28000
+RATE-000349,BlueWave Logistics,Kolkata,Italy,Genoa,Air,per_kg,4.81,USD,375.84,181.7,91.84,8,2026-07-01,2027-03-31,1,5000
+RATE-000350,TransGlobe Freight,Kolkata,Italy,Genoa,Air,per_kg,5.55,USD,423.8,141.09,70.64,7,2026-07-01,2027-03-31,1,5000
+RATE-000351,OceanBridge Logistics,Kolkata,Italy,Genoa,Air,per_kg,4.75,EUR,276.1,111.66,74.11,5,2026-07-01,2027-03-31,1,5000
+RATE-000352,SkyCargo Partners,Kolkata,Italy,Genoa,Air,per_kg,6.78,USD,435.88,160.99,124.97,6,2026-07-01,2027-03-31,1,5000
+RATE-000353,BlueWave Logistics,Kolkata,Italy,Genoa,Sea LCL,per_cbm,167.46,EUR,303.06,131.88,63.63,36,2026-07-01,2027-03-31,100,28000
+RATE-000354,TransGlobe Freight,Kolkata,Italy,Genoa,Sea LCL,per_cbm,169.45,USD,212.9,218.78,169.57,38,2026-07-01,2027-03-31,100,28000
+RATE-000355,OceanBridge Logistics,Kolkata,Italy,Genoa,Sea LCL,per_cbm,239.6,USD,151.75,90.74,107.89,30,2026-07-01,2027-03-31,100,28000
+RATE-000356,SkyCargo Partners,Kolkata,Italy,Genoa,Sea LCL,per_cbm,196.07,EUR,280.32,119.71,113.2,36,2026-07-01,2027-03-31,100,28000
+RATE-000357,BlueWave Logistics,Kolkata,Italy,Genoa,Sea FCL,per_container,2129.87,USD,93.3,123.88,132.55,21,2026-07-01,2027-03-31,100,28000
+RATE-000358,TransGlobe Freight,Kolkata,Italy,Genoa,Sea FCL,per_container,2824.05,EUR,138.05,81.6,70.13,27,2026-07-01,2027-03-31,100,28000
+RATE-000359,OceanBridge Logistics,Kolkata,Italy,Genoa,Sea FCL,per_container,2336.88,EUR,397.91,159.16,158.06,25,2026-07-01,2027-03-31,100,28000
+RATE-000360,SkyCargo Partners,Kolkata,Italy,Genoa,Sea FCL,per_container,2086.81,EUR,83.18,201.75,106.23,24,2026-07-01,2027-03-31,100,28000
+RATE-000361,BlueWave Logistics,Kolkata,España,Barcelona,Air,per_kg,4.18,EUR,116.62,130.87,74.42,4,2026-07-01,2027-03-31,1,5000
+RATE-000362,TransGlobe Freight,Kolkata,España,Barcelona,Air,per_kg,6.59,EUR,447.85,143.13,159.23,10,2026-07-01,2027-03-31,1,5000
+RATE-000363,OceanBridge Logistics,Kolkata,España,Barcelona,Air,per_kg,5.64,USD,313.29,135.3,81.47,5,2026-07-01,2027-03-31,1,5000
+RATE-000364,SkyCargo Partners,Kolkata,España,Barcelona,Air,per_kg,6.58,USD,490.34,128.84,126.67,4,2026-07-01,2027-03-31,1,5000
+RATE-000365,BlueWave Logistics,Kolkata,España,Barcelona,Sea LCL,per_cbm,272.4,USD,486.76,204.3,77.2,24,2026-07-01,2027-03-31,100,28000
+RATE-000366,TransGlobe Freight,Kolkata,España,Barcelona,Sea LCL,per_cbm,266.7,EUR,294.3,102.84,68.32,30,2026-07-01,2027-03-31,100,28000
+RATE-000367,OceanBridge Logistics,Kolkata,España,Barcelona,Sea LCL,per_cbm,145.79,USD,159.43,207.26,133.37,25,2026-07-01,2027-03-31,100,28000
+RATE-000368,SkyCargo Partners,Kolkata,España,Barcelona,Sea LCL,per_cbm,138.6,EUR,120.85,235.28,107.66,37,2026-07-01,2027-03-31,100,28000
+RATE-000369,BlueWave Logistics,Kolkata,España,Barcelona,Sea FCL,per_container,3508.19,EUR,94.93,146.9,155.67,28,2026-07-01,2027-03-31,100,28000
+RATE-000370,TransGlobe Freight,Kolkata,España,Barcelona,Sea FCL,per_container,3832.76,USD,255.27,208.81,71.96,28,2026-07-01,2027-03-31,100,28000
+RATE-000371,OceanBridge Logistics,Kolkata,España,Barcelona,Sea FCL,per_container,2120.83,USD,400.54,148.61,94.3,24,2026-07-01,2027-03-31,100,28000
+RATE-000372,SkyCargo Partners,Kolkata,España,Barcelona,Sea FCL,per_container,2894.66,EUR,355.99,225.81,68.21,26,2026-07-01,2027-03-31,100,28000
+RATE-000373,BlueWave Logistics,Kolkata,España,Valencia,Air,per_kg,5.57,EUR,464.03,191.16,130.94,8,2026-07-01,2027-03-31,1,5000
+RATE-000374,TransGlobe Freight,Kolkata,España,Valencia,Air,per_kg,5.34,USD,214.43,133.59,85.06,4,2026-07-01,2027-03-31,1,5000
+RATE-000375,OceanBridge Logistics,Kolkata,España,Valencia,Air,per_kg,6.76,EUR,256.81,158.93,102.78,10,2026-07-01,2027-03-31,1,5000
+RATE-000376,SkyCargo Partners,Kolkata,España,Valencia,Air,per_kg,4.25,EUR,303.02,188.07,90.14,10,2026-07-01,2027-03-31,1,5000
+RATE-000377,BlueWave Logistics,Kolkata,España,Valencia,Sea LCL,per_cbm,255.01,USD,187.24,187.74,153.5,31,2026-07-01,2027-03-31,100,28000
+RATE-000378,TransGlobe Freight,Kolkata,España,Valencia,Sea LCL,per_cbm,136.01,EUR,248.05,85.51,134.58,33,2026-07-01,2027-03-31,100,28000
+RATE-000379,OceanBridge Logistics,Kolkata,España,Valencia,Sea LCL,per_cbm,180.28,USD,262.29,102.06,101.57,23,2026-07-01,2027-03-31,100,28000
+RATE-000380,SkyCargo Partners,Kolkata,España,Valencia,Sea LCL,per_cbm,209.17,EUR,96.82,163.63,96.4,22,2026-07-01,2027-03-31,100,28000
+RATE-000381,BlueWave Logistics,Kolkata,España,Valencia,Sea FCL,per_container,3416.8,USD,254.74,100.99,168.16,35,2026-07-01,2027-03-31,100,28000
+RATE-000382,TransGlobe Freight,Kolkata,España,Valencia,Sea FCL,per_container,3304.01,USD,277.52,94.99,133.03,29,2026-07-01,2027-03-31,100,28000
+RATE-000383,OceanBridge Logistics,Kolkata,España,Valencia,Sea FCL,per_container,1862.28,USD,81.62,114.82,123.87,21,2026-07-01,2027-03-31,100,28000
+RATE-000384,SkyCargo Partners,Kolkata,España,Valencia,Sea FCL,per_container,2365.05,USD,419.94,136.45,128.77,26,2026-07-01,2027-03-31,100,28000
+RATE-000385,BlueWave Logistics,Bengaluru,DE,Hamburg,Air,per_kg,5.75,USD,326.6,146.22,143.7,8,2026-07-01,2027-03-31,1,5000
+RATE-000386,TransGlobe Freight,Bengaluru,DE,Hamburg,Air,per_kg,5.1,USD,431.78,227.46,154.86,8,2026-07-01,2027-03-31,1,5000
+RATE-000387,OceanBridge Logistics,Bengaluru,DE,Hamburg,Air,per_kg,5.84,USD,201.42,149.62,108.06,9,2026-07-01,2027-03-31,1,5000
+RATE-000388,SkyCargo Partners,Bengaluru,DE,Hamburg,Air,per_kg,5.36,EUR,130.37,185.47,182.82,10,2026-07-01,2027-03-31,1,5000
+RATE-000389,BlueWave Logistics,Bengaluru,DE,Hamburg,Sea LCL,per_cbm,229.54,USD,309.63,126.68,92.94,36,2026-07-01,2027-03-31,100,28000
+RATE-000390,TransGlobe Freight,Bengaluru,DE,Hamburg,Sea LCL,per_cbm,192.02,USD,491.62,96.92,116.35,30,2026-07-01,2027-03-31,100,28000
+RATE-000391,OceanBridge Logistics,Bengaluru,DE,Hamburg,Sea LCL,per_cbm,130.45,USD,250.31,219.43,183.72,23,2026-07-01,2027-03-31,100,28000
+RATE-000392,SkyCargo Partners,Bengaluru,DE,Hamburg,Sea LCL,per_cbm,199.82,EUR,137.43,175.21,180.53,28,2026-07-01,2027-03-31,100,28000
+RATE-000393,BlueWave Logistics,Bengaluru,DE,Hamburg,Sea FCL,per_container,3438.44,USD,250.82,234.88,103.92,36,2026-07-01,2027-03-31,100,28000
+RATE-000394,TransGlobe Freight,Bengaluru,DE,Hamburg,Sea FCL,per_container,2419.74,USD,183.83,230.32,63.27,24,2026-07-01,2027-03-31,100,28000
+RATE-000395,OceanBridge Logistics,Bengaluru,DE,Hamburg,Sea FCL,per_container,3619.87,USD,292.63,171.5,78.42,23,2026-07-01,2027-03-31,100,28000
+RATE-000396,SkyCargo Partners,Bengaluru,DE,Hamburg,Sea FCL,per_container,3563.36,USD,215.96,83.81,93.41,22,2026-07-01,2027-03-31,100,28000
+RATE-000397,BlueWave Logistics,Bengaluru,DE,Bremerhaven,Air,per_kg,6.86,USD,197.5,213.63,153.22,4,2026-07-01,2027-03-31,1,5000
+RATE-000398,TransGlobe Freight,Bengaluru,DE,Bremerhaven,Air,per_kg,6.15,EUR,369.67,172.11,102.54,4,2026-07-01,2027-03-31,1,5000
+RATE-000399,OceanBridge Logistics,Bengaluru,DE,Bremerhaven,Air,per_kg,5.17,USD,201.71,115.96,115.42,4,2026-07-01,2027-03-31,1,5000
+RATE-000400,SkyCargo Partners,Bengaluru,DE,Bremerhaven,Air,per_kg,6.0,USD,356.45,229.94,74.1,5,2026-07-01,2027-03-31,1,5000
+RATE-000401,BlueWave Logistics,Bengaluru,DE,Bremerhaven,Sea LCL,per_cbm,201.42,EUR,369.47,186.31,127.54,22,2026-07-01,2027-03-31,100,28000
+RATE-000402,TransGlobe Freight,Bengaluru,DE,Bremerhaven,Sea LCL,per_cbm,166.88,EUR,267.37,95.8,97.49,38,2026-07-01,2027-03-31,100,28000
+RATE-000403,OceanBridge Logistics,Bengaluru,DE,Bremerhaven,Sea LCL,per_cbm,151.09,EUR,376.13,203.87,71.16,22,2026-07-01,2027-03-31,100,28000
+RATE-000404,SkyCargo Partners,Bengaluru,DE,Bremerhaven,Sea LCL,per_cbm,177.18,USD,373.39,212.43,97.81,33,2026-07-01,2027-03-31,100,28000
+RATE-000405,BlueWave Logistics,Bengaluru,DE,Bremerhaven,Sea FCL,per_container,3423.4,EUR,273.28,202.81,126.33,30,2026-07-01,2027-03-31,100,28000
+RATE-000406,TransGlobe Freight,Bengaluru,DE,Bremerhaven,Sea FCL,per_container,2635.0,EUR,328.98,107.96,74.47,34,2026-07-01,2027-03-31,100,28000
+RATE-000407,OceanBridge Logistics,Bengaluru,DE,Bremerhaven,Sea FCL,per_container,1855.84,EUR,239.02,177.65,114.37,33,2026-07-01,2027-03-31,100,28000
+RATE-000408,SkyCargo Partners,Bengaluru,DE,Bremerhaven,Sea FCL,per_container,3219.61,USD,437.16,226.2,170.96,29,2026-07-01,2027-03-31,100,28000
+RATE-000409,BlueWave Logistics,Bengaluru,NL,Rotterdam,Air,per_kg,6.52,EUR,280.91,218.43,67.06,8,2026-07-01,2027-03-31,1,5000
+RATE-000410,TransGlobe Freight,Bengaluru,NL,Rotterdam,Air,per_kg,4.96,USD,138.16,179.26,77.96,9,2026-07-01,2027-03-31,1,5000
+RATE-000411,OceanBridge Logistics,Bengaluru,NL,Rotterdam,Air,per_kg,5.88,USD,303.91,100.99,74.08,7,2026-07-01,2027-03-31,1,5000
+RATE-000412,SkyCargo Partners,Bengaluru,NL,Rotterdam,Air,per_kg,5.81,EUR,185.57,196.98,135.45,9,2026-07-01,2027-03-31,1,5000
+RATE-000413,BlueWave Logistics,Bengaluru,NL,Rotterdam,Sea LCL,per_cbm,248.22,USD,152.25,152.32,128.44,23,2026-07-01,2027-03-31,100,28000
+RATE-000414,TransGlobe Freight,Bengaluru,NL,Rotterdam,Sea LCL,per_cbm,254.19,USD,274.43,80.77,141.55,31,2026-07-01,2027-03-31,100,28000
+RATE-000415,OceanBridge Logistics,Bengaluru,NL,Rotterdam,Sea LCL,per_cbm,139.33,EUR,391.24,117.28,91.06,28,2026-07-01,2027-03-31,100,28000
+RATE-000416,SkyCargo Partners,Bengaluru,NL,Rotterdam,Sea LCL,per_cbm,275.1,USD,186.3,174.58,163.64,34,2026-07-01,2027-03-31,100,28000
+RATE-000417,BlueWave Logistics,Bengaluru,NL,Rotterdam,Sea FCL,per_container,2007.54,EUR,368.76,234.66,158.96,21,2026-07-01,2027-03-31,100,28000
+RATE-000418,TransGlobe Freight,Bengaluru,NL,Rotterdam,Sea FCL,per_container,2528.5,USD,230.36,106.52,185.64,24,2026-07-01,2027-03-31,100,28000
+RATE-000419,OceanBridge Logistics,Bengaluru,NL,Rotterdam,Sea FCL,per_container,2165.45,USD,289.44,85.51,112.96,21,2026-07-01,2027-03-31,100,28000
+RATE-000420,SkyCargo Partners,Bengaluru,NL,Rotterdam,Sea FCL,per_container,2970.2,USD,431.51,238.02,74.15,35,2026-07-01,2027-03-31,100,28000
+RATE-000421,BlueWave Logistics,Bengaluru,French Republic,Le Havre,Air,per_kg,4.33,USD,330.79,177.93,62.43,5,2026-07-01,2027-03-31,1,5000
+RATE-000422,TransGlobe Freight,Bengaluru,French Republic,Le Havre,Air,per_kg,6.27,USD,275.65,191.84,86.08,8,2026-07-01,2027-03-31,1,5000
+RATE-000423,OceanBridge Logistics,Bengaluru,French Republic,Le Havre,Air,per_kg,6.79,EUR,314.38,210.17,110.14,8,2026-07-01,2027-03-31,1,5000
+RATE-000424,SkyCargo Partners,Bengaluru,French Republic,Le Havre,Air,per_kg,4.3,USD,103.63,165.98,76.57,6,2026-07-01,2027-03-31,1,5000
+RATE-000425,BlueWave Logistics,Bengaluru,French Republic,Le Havre,Sea LCL,per_cbm,271.78,USD,189.44,234.72,186.07,28,2026-07-01,2027-03-31,100,28000
+RATE-000426,TransGlobe Freight,Bengaluru,French Republic,Le Havre,Sea LCL,per_cbm,146.2,EUR,190.8,174.73,76.94,27,2026-07-01,2027-03-31,100,28000
+RATE-000427,OceanBridge Logistics,Bengaluru,French Republic,Le Havre,Sea LCL,per_cbm,200.64,EUR,131.09,95.43,89.36,37,2026-07-01,2027-03-31,100,28000
+RATE-000428,SkyCargo Partners,Bengaluru,French Republic,Le Havre,Sea LCL,per_cbm,125.04,USD,116.37,126.37,73.68,37,2026-07-01,2027-03-31,100,28000
+RATE-000429,BlueWave Logistics,Bengaluru,French Republic,Le Havre,Sea FCL,per_container,2574.08,USD,222.93,224.39,182.43,30,2026-07-01,2027-03-31,100,28000
+RATE-000430,TransGlobe Freight,Bengaluru,French Republic,Le Havre,Sea FCL,per_container,3891.21,USD,385.14,102.81,86.99,29,2026-07-01,2027-03-31,100,28000
+RATE-000431,OceanBridge Logistics,Bengaluru,French Republic,Le Havre,Sea FCL,per_container,3208.3,USD,329.99,144.86,157.26,31,2026-07-01,2027-03-31,100,28000
+RATE-000432,SkyCargo Partners,Bengaluru,French Republic,Le Havre,Sea FCL,per_container,2537.47,USD,311.7,163.64,177.38,23,2026-07-01,2027-03-31,100,28000
+RATE-000433,BlueWave Logistics,Bengaluru,French Republic,Marseille,Air,per_kg,6.73,EUR,287.55,99.08,141.66,5,2026-07-01,2027-03-31,1,5000
+RATE-000434,TransGlobe Freight,Bengaluru,French Republic,Marseille,Air,per_kg,4.75,EUR,380.32,189.16,163.35,5,2026-07-01,2027-03-31,1,5000
+RATE-000435,OceanBridge Logistics,Bengaluru,French Republic,Marseille,Air,per_kg,5.7,USD,437.58,124.32,73.72,10,2026-07-01,2027-03-31,1,5000
+RATE-000436,SkyCargo Partners,Bengaluru,French Republic,Marseille,Air,per_kg,4.5,USD,298.64,156.94,95.61,6,2026-07-01,2027-03-31,1,5000
+RATE-000437,BlueWave Logistics,Bengaluru,French Republic,Marseille,Sea LCL,per_cbm,204.6,EUR,335.21,119.56,79.03,23,2026-07-01,2027-03-31,100,28000
+RATE-000438,TransGlobe Freight,Bengaluru,French Republic,Marseille,Sea LCL,per_cbm,141.57,USD,482.21,107.23,176.34,24,2026-07-01,2027-03-31,100,28000
+RATE-000439,OceanBridge Logistics,Bengaluru,French Republic,Marseille,Sea LCL,per_cbm,154.22,USD,260.96,100.26,147.29,25,2026-07-01,2027-03-31,100,28000
+RATE-000440,SkyCargo Partners,Bengaluru,French Republic,Marseille,Sea LCL,per_cbm,169.46,USD,331.06,125.53,176.67,28,2026-07-01,2027-03-31,100,28000
+RATE-000441,BlueWave Logistics,Bengaluru,French Republic,Marseille,Sea FCL,per_container,2790.08,USD,246.97,95.47,116.55,23,2026-07-01,2027-03-31,100,28000
+RATE-000442,TransGlobe Freight,Bengaluru,French Republic,Marseille,Sea FCL,per_container,3651.83,EUR,364.75,192.82,83.11,23,2026-07-01,2027-03-31,100,28000
+RATE-000443,OceanBridge Logistics,Bengaluru,French Republic,Marseille,Sea FCL,per_container,3442.54,EUR,99.17,104.95,76.74,26,2026-07-01,2027-03-31,100,28000
+RATE-000444,SkyCargo Partners,Bengaluru,French Republic,Marseille,Sea FCL,per_container,2193.43,EUR,190.68,135.54,174.32,28,2026-07-01,2027-03-31,100,28000
+RATE-000445,BlueWave Logistics,Bengaluru,Italia,Genoa,Air,per_kg,5.11,EUR,125.6,151.5,93.58,10,2026-07-01,2027-03-31,1,5000
+RATE-000446,TransGlobe Freight,Bengaluru,Italia,Genoa,Air,per_kg,6.78,USD,99.86,108.3,127.59,10,2026-07-01,2027-03-31,1,5000
+RATE-000447,OceanBridge Logistics,Bengaluru,Italia,Genoa,Air,per_kg,6.53,USD,159.27,115.29,91.28,9,2026-07-01,2027-03-31,1,5000
+RATE-000448,SkyCargo Partners,Bengaluru,Italia,Genoa,Air,per_kg,6.76,EUR,167.62,91.94,140.23,7,2026-07-01,2027-03-31,1,5000
+RATE-000449,BlueWave Logistics,Bengaluru,Italia,Genoa,Sea LCL,per_cbm,213.63,USD,173.75,176.22,145.21,32,2026-07-01,2027-03-31,100,28000
+RATE-000450,TransGlobe Freight,Bengaluru,Italia,Genoa,Sea LCL,per_cbm,205.18,USD,238.07,187.05,128.33,22,2026-07-01,2027-03-31,100,28000
+RATE-000451,OceanBridge Logistics,Bengaluru,Italia,Genoa,Sea LCL,per_cbm,279.49,USD,216.85,226.19,93.98,36,2026-07-01,2027-03-31,100,28000
+RATE-000452,SkyCargo Partners,Bengaluru,Italia,Genoa,Sea LCL,per_cbm,132.56,USD,293.98,211.08,114.29,38,2026-07-01,2027-03-31,100,28000
+RATE-000453,BlueWave Logistics,Bengaluru,Italia,Genoa,Sea FCL,per_container,2574.76,USD,401.61,169.13,144.52,33,2026-07-01,2027-03-31,100,28000
+RATE-000454,TransGlobe Freight,Bengaluru,Italia,Genoa,Sea FCL,per_container,3867.46,USD,393.55,163.07,73.4,25,2026-07-01,2027-03-31,100,28000
+RATE-000455,OceanBridge Logistics,Bengaluru,Italia,Genoa,Sea FCL,per_container,3703.06,USD,178.88,190.18,73.96,23,2026-07-01,2027-03-31,100,28000
+RATE-000456,SkyCargo Partners,Bengaluru,Italia,Genoa,Sea FCL,per_container,2084.96,EUR,293.67,220.33,72.44,27,2026-07-01,2027-03-31,100,28000
+RATE-000457,BlueWave Logistics,Bengaluru,España,Barcelona,Air,per_kg,4.65,USD,184.16,83.19,113.12,6,2026-07-01,2027-03-31,1,5000
+RATE-000458,TransGlobe Freight,Bengaluru,España,Barcelona,Air,per_kg,5.75,USD,402.37,160.91,150.68,4,2026-07-01,2027-03-31,1,5000
+RATE-000459,OceanBridge Logistics,Bengaluru,España,Barcelona,Air,per_kg,6.02,EUR,112.78,193.46,111.94,5,2026-07-01,2027-03-31,1,5000
+RATE-000460,SkyCargo Partners,Bengaluru,España,Barcelona,Air,per_kg,6.82,USD,136.39,130.34,168.88,8,2026-07-01,2027-03-31,1,5000
+RATE-000461,BlueWave Logistics,Bengaluru,España,Barcelona,Sea LCL,per_cbm,164.31,EUR,207.26,163.63,166.28,33,2026-07-01,2027-03-31,100,28000
+RATE-000462,TransGlobe Freight,Bengaluru,España,Barcelona,Sea LCL,per_cbm,246.5,USD,281.05,123.97,165.56,37,2026-07-01,2027-03-31,100,28000
+RATE-000463,OceanBridge Logistics,Bengaluru,España,Barcelona,Sea LCL,per_cbm,151.31,USD,224.12,194.99,153.25,31,2026-07-01,2027-03-31,100,28000
+RATE-000464,SkyCargo Partners,Bengaluru,España,Barcelona,Sea LCL,per_cbm,169.64,USD,155.14,149.97,98.91,38,2026-07-01,2027-03-31,100,28000
+RATE-000465,BlueWave Logistics,Bengaluru,España,Barcelona,Sea FCL,per_container,3430.02,USD,92.02,108.28,118.88,30,2026-07-01,2027-03-31,100,28000
+RATE-000466,TransGlobe Freight,Bengaluru,España,Barcelona,Sea FCL,per_container,3086.67,USD,276.08,195.61,136.36,34,2026-07-01,2027-03-31,100,28000
+RATE-000467,OceanBridge Logistics,Bengaluru,España,Barcelona,Sea FCL,per_container,2023.61,USD,238.74,215.61,164.9,24,2026-07-01,2027-03-31,100,28000
+RATE-000468,SkyCargo Partners,Bengaluru,España,Barcelona,Sea FCL,per_container,2961.17,USD,200.69,108.31,176.55,26,2026-07-01,2027-03-31,100,28000
+RATE-000469,BlueWave Logistics,Bengaluru,España,Valencia,Air,per_kg,5.45,EUR,119.41,234.98,129.52,9,2026-07-01,2027-03-31,1,5000
+RATE-000470,TransGlobe Freight,Bengaluru,España,Valencia,Air,per_kg,6.07,EUR,191.45,161.87,68.98,6,2026-07-01,2027-03-31,1,5000
+RATE-000471,OceanBridge Logistics,Bengaluru,España,Valencia,Air,per_kg,4.83,USD,241.98,127.12,93.2,7,2026-07-01,2027-03-31,1,5000
+RATE-000472,SkyCargo Partners,Bengaluru,España,Valencia,Air,per_kg,5.77,EUR,297.34,107.59,137.51,8,2026-07-01,2027-03-31,1,5000
+RATE-000473,BlueWave Logistics,Bengaluru,España,Valencia,Sea LCL,per_cbm,169.87,USD,280.36,223.42,92.69,31,2026-07-01,2027-03-31,100,28000
+RATE-000474,TransGlobe Freight,Bengaluru,España,Valencia,Sea LCL,per_cbm,171.17,USD,476.17,216.65,85.13,33,2026-07-01,2027-03-31,100,28000
+RATE-000475,OceanBridge Logistics,Bengaluru,España,Valencia,Sea LCL,per_cbm,153.75,USD,215.57,148.53,114.1,38,2026-07-01,2027-03-31,100,28000
+RATE-000476,SkyCargo Partners,Bengaluru,España,Valencia,Sea LCL,per_cbm,150.6,EUR,99.27,184.68,63.36,26,2026-07-01,2027-03-31,100,28000
+RATE-000477,BlueWave Logistics,Bengaluru,España,Valencia,Sea FCL,per_container,2830.58,USD,146.07,131.8,185.65,21,2026-07-01,2027-03-31,100,28000
+RATE-000478,TransGlobe Freight,Bengaluru,España,Valencia,Sea FCL,per_container,1891.19,USD,201.28,212.72,103.12,36,2026-07-01,2027-03-31,100,28000
+RATE-000479,OceanBridge Logistics,Bengaluru,España,Valencia,Sea FCL,per_container,2385.58,USD,212.33,154.11,178.17,30,2026-07-01,2027-03-31,100,28000
+RATE-000480,SkyCargo Partners,Bengaluru,España,Valencia,Sea FCL,per_container,3138.87,EUR,175.19,131.89,61.1,31,2026-07-01,2027-03-31,100,28000
+RATE-000481,BlueWave Logistics,Jaipur,DE,Hamburg,Air,per_kg,6.64,USD,242.41,209.62,75.76,9,2026-07-01,2027-03-31,1,5000
+RATE-000482,TransGlobe Freight,Jaipur,DE,Hamburg,Air,per_kg,6.4,USD,107.45,198.11,171.3,4,2026-07-01,2027-03-31,1,5000
+RATE-000483,OceanBridge Logistics,Jaipur,DE,Hamburg,Air,per_kg,4.56,USD,248.48,152.41,101.63,4,2026-07-01,2027-03-31,1,5000
+RATE-000484,SkyCargo Partners,Jaipur,DE,Hamburg,Air,per_kg,6.92,USD,232.91,197.09,181.87,10,2026-07-01,2027-03-31,1,5000
+RATE-000485,BlueWave Logistics,Jaipur,DE,Hamburg,Sea LCL,per_cbm,166.54,USD,491.52,227.14,66.1,26,2026-07-01,2027-03-31,100,28000
+RATE-000486,TransGlobe Freight,Jaipur,DE,Hamburg,Sea LCL,per_cbm,246.41,USD,328.25,209.06,158.37,30,2026-07-01,2027-03-31,100,28000
+RATE-000487,OceanBridge Logistics,Jaipur,DE,Hamburg,Sea LCL,per_cbm,220.17,EUR,228.65,173.23,72.42,28,2026-07-01,2027-03-31,100,28000
+RATE-000488,SkyCargo Partners,Jaipur,DE,Hamburg,Sea LCL,per_cbm,241.74,EUR,397.55,166.15,121.52,28,2026-07-01,2027-03-31,100,28000
+RATE-000489,BlueWave Logistics,Jaipur,DE,Hamburg,Sea FCL,per_container,3216.6,USD,161.51,146.25,83.24,23,2026-07-01,2027-03-31,100,28000
+RATE-000490,TransGlobe Freight,Jaipur,DE,Hamburg,Sea FCL,per_container,1836.85,USD,478.73,217.71,155.12,35,2026-07-01,2027-03-31,100,28000
+RATE-000491,OceanBridge Logistics,Jaipur,DE,Hamburg,Sea FCL,per_container,3617.43,USD,82.06,207.0,112.1,32,2026-07-01,2027-03-31,100,28000
+RATE-000492,SkyCargo Partners,Jaipur,DE,Hamburg,Sea FCL,per_container,3123.06,USD,434.83,105.2,180.08,25,2026-07-01,2027-03-31,100,28000
+RATE-000493,BlueWave Logistics,Jaipur,DE,Bremerhaven,Air,per_kg,4.73,EUR,176.35,228.94,72.77,10,2026-07-01,2027-03-31,1,5000
+RATE-000494,TransGlobe Freight,Jaipur,DE,Bremerhaven,Air,per_kg,5.52,USD,217.86,163.57,64.59,10,2026-07-01,2027-03-31,1,5000
+RATE-000495,OceanBridge Logistics,Jaipur,DE,Bremerhaven,Air,per_kg,4.99,USD,106.0,169.95,90.21,5,2026-07-01,2027-03-31,1,5000
+RATE-000496,SkyCargo Partners,Jaipur,DE,Bremerhaven,Air,per_kg,4.38,USD,375.05,129.47,166.13,7,2026-07-01,2027-03-31,1,5000
+RATE-000497,BlueWave Logistics,Jaipur,DE,Bremerhaven,Sea LCL,per_cbm,209.79,USD,432.84,217.64,79.26,28,2026-07-01,2027-03-31,100,28000
+RATE-000498,TransGlobe Freight,Jaipur,DE,Bremerhaven,Sea LCL,per_cbm,193.49,USD,280.19,196.8,141.75,22,2026-07-01,2027-03-31,100,28000
+RATE-000499,OceanBridge Logistics,Jaipur,DE,Bremerhaven,Sea LCL,per_cbm,259.87,USD,231.4,220.06,107.04,38,2026-07-01,2027-03-31,100,28000
+RATE-000500,SkyCargo Partners,Jaipur,DE,Bremerhaven,Sea LCL,per_cbm,187.57,USD,275.51,147.59,144.57,22,2026-07-01,2027-03-31,100,28000
+RATE-000501,BlueWave Logistics,Jaipur,DE,Bremerhaven,Sea FCL,per_container,2142.13,USD,363.66,198.21,173.17,32,2026-07-01,2027-03-31,100,28000
+RATE-000502,TransGlobe Freight,Jaipur,DE,Bremerhaven,Sea FCL,per_container,3432.55,EUR,491.55,159.49,61.39,28,2026-07-01,2027-03-31,100,28000
+RATE-000503,OceanBridge Logistics,Jaipur,DE,Bremerhaven,Sea FCL,per_container,2787.41,USD,132.87,233.63,143.0,21,2026-07-01,2027-03-31,100,28000
+RATE-000504,SkyCargo Partners,Jaipur,DE,Bremerhaven,Sea FCL,per_container,3231.34,USD,193.69,147.87,176.07,31,2026-07-01,2027-03-31,100,28000
+RATE-000505,BlueWave Logistics,Jaipur,Netherlands,Rotterdam,Air,per_kg,4.31,EUR,162.78,220.15,74.74,6,2026-07-01,2027-03-31,1,5000
+RATE-000506,TransGlobe Freight,Jaipur,Netherlands,Rotterdam,Air,per_kg,4.38,USD,81.82,148.39,181.83,4,2026-07-01,2027-03-31,1,5000
+RATE-000507,OceanBridge Logistics,Jaipur,Netherlands,Rotterdam,Air,per_kg,6.62,USD,432.14,141.64,141.7,6,2026-07-01,2027-03-31,1,5000
+RATE-000508,SkyCargo Partners,Jaipur,Netherlands,Rotterdam,Air,per_kg,4.3,USD,289.87,170.46,60.66,7,2026-07-01,2027-03-31,1,5000
+RATE-000509,BlueWave Logistics,Jaipur,Netherlands,Rotterdam,Sea LCL,per_cbm,216.12,EUR,392.72,114.93,66.74,37,2026-07-01,2027-03-31,100,28000
+RATE-000510,TransGlobe Freight,Jaipur,Netherlands,Rotterdam,Sea LCL,per_cbm,177.46,EUR,278.44,196.77,63.42,24,2026-07-01,2027-03-31,100,28000
+RATE-000511,OceanBridge Logistics,Jaipur,Netherlands,Rotterdam,Sea LCL,per_cbm,256.7,USD,452.95,160.69,138.83,28,2026-07-01,2027-03-31,100,28000
+RATE-000512,SkyCargo Partners,Jaipur,Netherlands,Rotterdam,Sea LCL,per_cbm,234.01,USD,319.35,96.31,115.83,32,2026-07-01,2027-03-31,100,28000
+RATE-000513,BlueWave Logistics,Jaipur,Netherlands,Rotterdam,Sea FCL,per_container,2582.47,USD,122.36,217.87,110.0,30,2026-07-01,2027-03-31,100,28000
+RATE-000514,TransGlobe Freight,Jaipur,Netherlands,Rotterdam,Sea FCL,per_container,2406.1,EUR,311.25,161.24,183.88,24,2026-07-01,2027-03-31,100,28000
+RATE-000515,OceanBridge Logistics,Jaipur,Netherlands,Rotterdam,Sea FCL,per_container,3781.51,USD,449.05,116.65,124.54,33,2026-07-01,2027-03-31,100,28000
+RATE-000516,SkyCargo Partners,Jaipur,Netherlands,Rotterdam,Sea FCL,per_container,3144.66,USD,163.22,196.97,107.89,25,2026-07-01,2027-03-31,100,28000
+RATE-000517,BlueWave Logistics,Jaipur,French Republic,Le Havre,Air,per_kg,4.98,USD,276.88,235.23,110.53,7,2026-07-01,2027-03-31,1,5000
+RATE-000518,TransGlobe Freight,Jaipur,French Republic,Le Havre,Air,per_kg,6.1,USD,253.77,222.69,97.87,10,2026-07-01,2027-03-31,1,5000
+RATE-000519,OceanBridge Logistics,Jaipur,French Republic,Le Havre,Air,per_kg,5.66,EUR,179.24,130.1,90.42,9,2026-07-01,2027-03-31,1,5000
+RATE-000520,SkyCargo Partners,Jaipur,French Republic,Le Havre,Air,per_kg,4.55,USD,303.43,230.55,72.39,8,2026-07-01,2027-03-31,1,5000
+RATE-000521,BlueWave Logistics,Jaipur,French Republic,Le Havre,Sea LCL,per_cbm,245.96,USD,350.14,139.72,126.69,35,2026-07-01,2027-03-31,100,28000
+RATE-000522,TransGlobe Freight,Jaipur,French Republic,Le Havre,Sea LCL,per_cbm,235.36,USD,119.65,137.62,148.81,29,2026-07-01,2027-03-31,100,28000
+RATE-000523,OceanBridge Logistics,Jaipur,French Republic,Le Havre,Sea LCL,per_cbm,163.25,EUR,395.17,111.45,74.94,34,2026-07-01,2027-03-31,100,28000
+RATE-000524,SkyCargo Partners,Jaipur,French Republic,Le Havre,Sea LCL,per_cbm,161.68,EUR,495.67,215.09,144.79,38,2026-07-01,2027-03-31,100,28000
+RATE-000525,BlueWave Logistics,Jaipur,French Republic,Le Havre,Sea FCL,per_container,3620.95,USD,442.27,85.6,120.85,29,2026-07-01,2027-03-31,100,28000
+RATE-000526,TransGlobe Freight,Jaipur,French Republic,Le Havre,Sea FCL,per_container,3231.26,EUR,418.78,148.65,136.8,26,2026-07-01,2027-03-31,100,28000
+RATE-000527,OceanBridge Logistics,Jaipur,French Republic,Le Havre,Sea FCL,per_container,2219.52,USD,156.8,163.81,127.73,27,2026-07-01,2027-03-31,100,28000
+RATE-000528,SkyCargo Partners,Jaipur,French Republic,Le Havre,Sea FCL,per_container,3359.0,EUR,415.2,135.15,142.78,32,2026-07-01,2027-03-31,100,28000
+RATE-000529,BlueWave Logistics,Jaipur,French Republic,Marseille,Air,per_kg,5.34,EUR,159.02,89.35,125.66,6,2026-07-01,2027-03-31,1,5000
+RATE-000530,TransGlobe Freight,Jaipur,French Republic,Marseille,Air,per_kg,5.84,USD,360.89,171.73,158.63,5,2026-07-01,2027-03-31,1,5000
+RATE-000531,OceanBridge Logistics,Jaipur,French Republic,Marseille,Air,per_kg,4.96,USD,196.55,185.21,129.0,4,2026-07-01,2027-03-31,1,5000
+RATE-000532,SkyCargo Partners,Jaipur,French Republic,Marseille,Air,per_kg,6.58,EUR,127.17,140.4,103.6,7,2026-07-01,2027-03-31,1,5000
+RATE-000533,BlueWave Logistics,Jaipur,French Republic,Marseille,Sea LCL,per_cbm,173.12,USD,396.83,177.55,121.34,25,2026-07-01,2027-03-31,100,28000
+RATE-000534,TransGlobe Freight,Jaipur,French Republic,Marseille,Sea LCL,per_cbm,253.84,USD,342.68,126.54,189.48,30,2026-07-01,2027-03-31,100,28000
+RATE-000535,OceanBridge Logistics,Jaipur,French Republic,Marseille,Sea LCL,per_cbm,241.58,USD,469.86,130.23,74.39,36,2026-07-01,2027-03-31,100,28000
+RATE-000536,SkyCargo Partners,Jaipur,French Republic,Marseille,Sea LCL,per_cbm,149.42,USD,244.7,98.92,89.64,33,2026-07-01,2027-03-31,100,28000
+RATE-000537,BlueWave Logistics,Jaipur,French Republic,Marseille,Sea FCL,per_container,3193.31,EUR,396.3,84.55,121.3,36,2026-07-01,2027-03-31,100,28000
+RATE-000538,TransGlobe Freight,Jaipur,French Republic,Marseille,Sea FCL,per_container,3234.44,EUR,162.49,194.87,87.39,29,2026-07-01,2027-03-31,100,28000
+RATE-000539,OceanBridge Logistics,Jaipur,French Republic,Marseille,Sea FCL,per_container,3251.11,EUR,271.63,229.83,149.18,30,2026-07-01,2027-03-31,100,28000
+RATE-000540,SkyCargo Partners,Jaipur,French Republic,Marseille,Sea FCL,per_container,3061.14,EUR,105.95,189.76,118.97,33,2026-07-01,2027-03-31,100,28000
+RATE-000541,BlueWave Logistics,Jaipur,Italia,Genoa,Air,per_kg,5.36,EUR,99.59,120.29,159.61,5,2026-07-01,2027-03-31,1,5000
+RATE-000542,TransGlobe Freight,Jaipur,Italia,Genoa,Air,per_kg,5.44,USD,490.42,88.95,92.95,8,2026-07-01,2027-03-31,1,5000
+RATE-000543,OceanBridge Logistics,Jaipur,Italia,Genoa,Air,per_kg,5.55,EUR,235.22,84.65,78.15,8,2026-07-01,2027-03-31,1,5000
+RATE-000544,SkyCargo Partners,Jaipur,Italia,Genoa,Air,per_kg,5.07,USD,498.09,196.07,76.49,9,2026-07-01,2027-03-31,1,5000
+RATE-000545,BlueWave Logistics,Jaipur,Italia,Genoa,Sea LCL,per_cbm,252.03,EUR,390.67,191.78,71.36,32,2026-07-01,2027-03-31,100,28000
+RATE-000546,TransGlobe Freight,Jaipur,Italia,Genoa,Sea LCL,per_cbm,180.64,EUR,495.42,175.34,108.48,26,2026-07-01,2027-03-31,100,28000
+RATE-000547,OceanBridge Logistics,Jaipur,Italia,Genoa,Sea LCL,per_cbm,196.73,USD,242.97,128.98,140.47,25,2026-07-01,2027-03-31,100,28000
+RATE-000548,SkyCargo Partners,Jaipur,Italia,Genoa,Sea LCL,per_cbm,258.68,USD,110.07,147.67,153.48,36,2026-07-01,2027-03-31,100,28000
+RATE-000549,BlueWave Logistics,Jaipur,Italia,Genoa,Sea FCL,per_container,3893.4,EUR,250.47,142.75,166.3,31,2026-07-01,2027-03-31,100,28000
+RATE-000550,TransGlobe Freight,Jaipur,Italia,Genoa,Sea FCL,per_container,2706.48,USD,265.61,146.79,77.23,23,2026-07-01,2027-03-31,100,28000
+RATE-000551,OceanBridge Logistics,Jaipur,Italia,Genoa,Sea FCL,per_container,2956.84,EUR,388.4,104.43,122.63,23,2026-07-01,2027-03-31,100,28000
+RATE-000552,SkyCargo Partners,Jaipur,Italia,Genoa,Sea FCL,per_container,2593.54,USD,90.93,116.14,96.71,27,2026-07-01,2027-03-31,100,28000
+RATE-000553,BlueWave Logistics,Jaipur,Spain,Barcelona,Air,per_kg,4.24,USD,173.02,208.67,92.36,4,2026-07-01,2027-03-31,1,5000
+RATE-000554,TransGlobe Freight,Jaipur,Spain,Barcelona,Air,per_kg,5.73,USD,340.57,107.38,63.29,9,2026-07-01,2027-03-31,1,5000
+RATE-000555,OceanBridge Logistics,Jaipur,Spain,Barcelona,Air,per_kg,4.26,EUR,365.59,148.81,104.71,4,2026-07-01,2027-03-31,1,5000
+RATE-000556,SkyCargo Partners,Jaipur,Spain,Barcelona,Air,per_kg,4.75,USD,260.82,100.63,101.03,10,2026-07-01,2027-03-31,1,5000
+RATE-000557,BlueWave Logistics,Jaipur,Spain,Barcelona,Sea LCL,per_cbm,130.85,USD,303.41,88.59,149.01,31,2026-07-01,2027-03-31,100,28000
+RATE-000558,TransGlobe Freight,Jaipur,Spain,Barcelona,Sea LCL,per_cbm,129.99,USD,230.54,172.71,112.98,22,2026-07-01,2027-03-31,100,28000
+RATE-000559,OceanBridge Logistics,Jaipur,Spain,Barcelona,Sea LCL,per_cbm,275.16,USD,483.12,154.51,111.3,34,2026-07-01,2027-03-31,100,28000
+RATE-000560,SkyCargo Partners,Jaipur,Spain,Barcelona,Sea LCL,per_cbm,139.58,EUR,458.03,81.99,131.15,33,2026-07-01,2027-03-31,100,28000
+RATE-000561,BlueWave Logistics,Jaipur,Spain,Barcelona,Sea FCL,per_container,3264.17,USD,101.9,83.04,155.35,33,2026-07-01,2027-03-31,100,28000
+RATE-000562,TransGlobe Freight,Jaipur,Spain,Barcelona,Sea FCL,per_container,2956.28,EUR,208.15,218.3,102.66,25,2026-07-01,2027-03-31,100,28000
+RATE-000563,OceanBridge Logistics,Jaipur,Spain,Barcelona,Sea FCL,per_container,3654.33,USD,369.08,142.15,64.34,30,2026-07-01,2027-03-31,100,28000
+RATE-000564,SkyCargo Partners,Jaipur,Spain,Barcelona,Sea FCL,per_container,2888.04,USD,182.66,117.14,126.25,30,2026-07-01,2027-03-31,100,28000
+RATE-000565,BlueWave Logistics,Jaipur,Spain,Valencia,Air,per_kg,6.13,USD,303.0,161.75,162.54,10,2026-07-01,2027-03-31,1,5000
+RATE-000566,TransGlobe Freight,Jaipur,Spain,Valencia,Air,per_kg,5.76,USD,456.2,181.87,108.65,4,2026-07-01,2027-03-31,1,5000
+RATE-000567,OceanBridge Logistics,Jaipur,Spain,Valencia,Air,per_kg,4.18,USD,223.48,201.0,107.4,9,2026-07-01,2027-03-31,1,5000
+RATE-000568,SkyCargo Partners,Jaipur,Spain,Valencia,Air,per_kg,4.12,USD,359.67,148.75,97.65,6,2026-07-01,2027-03-31,1,5000
+RATE-000569,BlueWave Logistics,Jaipur,Spain,Valencia,Sea LCL,per_cbm,238.21,USD,187.59,132.72,124.58,36,2026-07-01,2027-03-31,100,28000
+RATE-000570,TransGlobe Freight,Jaipur,Spain,Valencia,Sea LCL,per_cbm,166.23,USD,471.96,84.94,116.21,33,2026-07-01,2027-03-31,100,28000
+RATE-000571,OceanBridge Logistics,Jaipur,Spain,Valencia,Sea LCL,per_cbm,210.06,EUR,118.05,155.04,176.87,28,2026-07-01,2027-03-31,100,28000
+RATE-000572,SkyCargo Partners,Jaipur,Spain,Valencia,Sea LCL,per_cbm,213.2,EUR,86.32,164.15,145.03,34,2026-07-01,2027-03-31,100,28000
+RATE-000573,BlueWave Logistics,Jaipur,Spain,Valencia,Sea FCL,per_container,2627.05,USD,156.73,233.76,112.53,26,2026-07-01,2027-03-31,100,28000
+RATE-000574,TransGlobe Freight,Jaipur,Spain,Valencia,Sea FCL,per_container,3340.97,USD,400.03,106.64,166.49,27,2026-07-01,2027-03-31,100,28000
+RATE-000575,OceanBridge Logistics,Jaipur,Spain,Valencia,Sea FCL,per_container,2334.69,USD,241.61,131.22,71.35,26,2026-07-01,2027-03-31,100,28000
+RATE-000576,SkyCargo Partners,Jaipur,Spain,Valencia,Sea FCL,per_container,2470.52,USD,463.83,164.95,176.75,28,2026-07-01,2027-03-31,100,28000
+RATE-000577,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Air,per_kg,6.85,USD,258.77,80.9,150.49,6,2026-07-01,2027-03-31,1,5000
+RATE-000578,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Hamburg,Air,per_kg,6.15,USD,166.84,190.63,110.36,4,2026-07-01,2027-03-31,1,5000
+RATE-000579,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Air,per_kg,6.73,USD,108.11,206.95,92.98,10,2026-07-01,2027-03-31,1,5000
+RATE-000580,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Hamburg,Air,per_kg,5.16,EUR,255.99,227.53,180.04,8,2026-07-01,2027-03-31,1,5000
+RATE-000581,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,148.46,USD,307.3,191.2,116.33,24,2026-07-01,2027-03-31,100,28000
+RATE-000582,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,225.3,EUR,292.96,113.46,102.59,26,2026-07-01,2027-03-31,100,28000
+RATE-000583,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,227.36,USD,466.76,105.46,134.18,24,2026-07-01,2027-03-31,100,28000
+RATE-000584,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,261.31,USD,262.46,141.97,120.56,37,2026-07-01,2027-03-31,100,28000
+RATE-000585,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2167.5,EUR,115.46,152.76,90.45,25,2026-07-01,2027-03-31,100,28000
+RATE-000586,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2885.2,USD,370.05,232.99,118.54,28,2026-07-01,2027-03-31,100,28000
+RATE-000587,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Hamburg,Sea FCL,per_container,3778.98,USD,321.24,131.64,165.92,35,2026-07-01,2027-03-31,100,28000
+RATE-000588,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2838.96,USD,166.09,170.99,162.69,22,2026-07-01,2027-03-31,100,28000
+RATE-000589,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Air,per_kg,4.95,USD,298.49,217.07,128.92,7,2026-07-01,2027-03-31,1,5000
+RATE-000590,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Bremerhaven,Air,per_kg,4.44,USD,391.75,146.31,169.89,9,2026-07-01,2027-03-31,1,5000
+RATE-000591,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.05,EUR,191.43,201.93,134.29,4,2026-07-01,2027-03-31,1,5000
+RATE-000592,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.02,USD,186.2,157.57,95.49,7,2026-07-01,2027-03-31,1,5000
+RATE-000593,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,276.53,USD,337.25,222.95,180.51,35,2026-07-01,2027-03-31,100,28000
+RATE-000594,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,270.28,USD,424.71,229.09,124.88,32,2026-07-01,2027-03-31,100,28000
+RATE-000595,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,184.37,EUR,240.81,141.93,174.19,31,2026-07-01,2027-03-31,100,28000
+RATE-000596,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,147.64,USD,428.68,167.29,143.94,23,2026-07-01,2027-03-31,100,28000
+RATE-000597,BlueWave Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2920.89,USD,241.96,130.32,146.65,32,2026-07-01,2027-03-31,100,28000
+RATE-000598,TransGlobe Freight,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,3416.48,EUR,110.73,118.57,169.37,27,2026-07-01,2027-03-31,100,28000
+RATE-000599,OceanBridge Logistics,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2749.28,EUR,493.58,172.15,115.74,23,2026-07-01,2027-03-31,100,28000
+RATE-000600,SkyCargo Partners,Ahmedabad,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2305.66,USD,310.64,138.61,140.24,26,2026-07-01,2027-03-31,100,28000
+RATE-000601,BlueWave Logistics,Ahmedabad,Netherlands,Rotterdam,Air,per_kg,6.44,EUR,194.08,107.63,60.45,9,2026-07-01,2027-03-31,1,5000
+RATE-000602,TransGlobe Freight,Ahmedabad,Netherlands,Rotterdam,Air,per_kg,6.84,USD,321.08,86.27,131.24,4,2026-07-01,2027-03-31,1,5000
+RATE-000603,OceanBridge Logistics,Ahmedabad,Netherlands,Rotterdam,Air,per_kg,6.93,EUR,344.73,147.77,185.81,5,2026-07-01,2027-03-31,1,5000
+RATE-000604,SkyCargo Partners,Ahmedabad,Netherlands,Rotterdam,Air,per_kg,4.98,USD,168.33,83.49,81.65,8,2026-07-01,2027-03-31,1,5000
+RATE-000605,BlueWave Logistics,Ahmedabad,Netherlands,Rotterdam,Sea LCL,per_cbm,209.48,USD,248.97,80.96,182.33,27,2026-07-01,2027-03-31,100,28000
+RATE-000606,TransGlobe Freight,Ahmedabad,Netherlands,Rotterdam,Sea LCL,per_cbm,158.42,USD,324.03,214.09,170.25,38,2026-07-01,2027-03-31,100,28000
+RATE-000607,OceanBridge Logistics,Ahmedabad,Netherlands,Rotterdam,Sea LCL,per_cbm,268.71,USD,441.0,202.75,189.57,35,2026-07-01,2027-03-31,100,28000
+RATE-000608,SkyCargo Partners,Ahmedabad,Netherlands,Rotterdam,Sea LCL,per_cbm,178.82,USD,484.75,209.09,148.24,35,2026-07-01,2027-03-31,100,28000
+RATE-000609,BlueWave Logistics,Ahmedabad,Netherlands,Rotterdam,Sea FCL,per_container,2944.67,EUR,93.97,162.63,118.72,29,2026-07-01,2027-03-31,100,28000
+RATE-000610,TransGlobe Freight,Ahmedabad,Netherlands,Rotterdam,Sea FCL,per_container,2277.47,EUR,471.21,122.19,185.51,28,2026-07-01,2027-03-31,100,28000
+RATE-000611,OceanBridge Logistics,Ahmedabad,Netherlands,Rotterdam,Sea FCL,per_container,2081.42,USD,420.53,120.56,106.07,35,2026-07-01,2027-03-31,100,28000
+RATE-000612,SkyCargo Partners,Ahmedabad,Netherlands,Rotterdam,Sea FCL,per_container,3116.49,EUR,85.37,208.14,176.34,25,2026-07-01,2027-03-31,100,28000
+RATE-000613,BlueWave Logistics,Ahmedabad,France,Le Havre,Air,per_kg,6.27,USD,388.34,108.69,128.47,6,2026-07-01,2027-03-31,1,5000
+RATE-000614,TransGlobe Freight,Ahmedabad,France,Le Havre,Air,per_kg,5.68,EUR,348.08,163.97,169.8,10,2026-07-01,2027-03-31,1,5000
+RATE-000615,OceanBridge Logistics,Ahmedabad,France,Le Havre,Air,per_kg,4.19,EUR,133.17,231.49,108.29,5,2026-07-01,2027-03-31,1,5000
+RATE-000616,SkyCargo Partners,Ahmedabad,France,Le Havre,Air,per_kg,5.68,EUR,169.53,206.94,133.55,10,2026-07-01,2027-03-31,1,5000
+RATE-000617,BlueWave Logistics,Ahmedabad,France,Le Havre,Sea LCL,per_cbm,247.85,USD,203.33,122.71,163.98,30,2026-07-01,2027-03-31,100,28000
+RATE-000618,TransGlobe Freight,Ahmedabad,France,Le Havre,Sea LCL,per_cbm,277.2,USD,199.99,82.67,147.27,22,2026-07-01,2027-03-31,100,28000
+RATE-000619,OceanBridge Logistics,Ahmedabad,France,Le Havre,Sea LCL,per_cbm,251.77,USD,246.42,227.78,112.8,31,2026-07-01,2027-03-31,100,28000
+RATE-000620,SkyCargo Partners,Ahmedabad,France,Le Havre,Sea LCL,per_cbm,259.0,EUR,356.47,156.64,130.05,35,2026-07-01,2027-03-31,100,28000
+RATE-000621,BlueWave Logistics,Ahmedabad,France,Le Havre,Sea FCL,per_container,2316.36,USD,160.3,139.25,95.08,21,2026-07-01,2027-03-31,100,28000
+RATE-000622,TransGlobe Freight,Ahmedabad,France,Le Havre,Sea FCL,per_container,1982.67,USD,316.94,224.34,189.21,25,2026-07-01,2027-03-31,100,28000
+RATE-000623,OceanBridge Logistics,Ahmedabad,France,Le Havre,Sea FCL,per_container,3038.76,USD,439.23,122.12,148.84,22,2026-07-01,2027-03-31,100,28000
+RATE-000624,SkyCargo Partners,Ahmedabad,France,Le Havre,Sea FCL,per_container,2604.5,EUR,459.91,153.34,61.68,26,2026-07-01,2027-03-31,100,28000
+RATE-000625,BlueWave Logistics,Ahmedabad,France,Marseille,Air,per_kg,5.43,USD,404.26,141.91,168.74,9,2026-07-01,2027-03-31,1,5000
+RATE-000626,TransGlobe Freight,Ahmedabad,France,Marseille,Air,per_kg,5.33,USD,414.0,226.44,135.22,4,2026-07-01,2027-03-31,1,5000
+RATE-000627,OceanBridge Logistics,Ahmedabad,France,Marseille,Air,per_kg,5.2,USD,437.38,131.86,175.71,8,2026-07-01,2027-03-31,1,5000
+RATE-000628,SkyCargo Partners,Ahmedabad,France,Marseille,Air,per_kg,5.67,USD,148.58,158.22,71.74,4,2026-07-01,2027-03-31,1,5000
+RATE-000629,BlueWave Logistics,Ahmedabad,France,Marseille,Sea LCL,per_cbm,220.57,USD,465.73,85.21,84.81,35,2026-07-01,2027-03-31,100,28000
+RATE-000630,TransGlobe Freight,Ahmedabad,France,Marseille,Sea LCL,per_cbm,227.22,USD,482.14,159.45,95.84,24,2026-07-01,2027-03-31,100,28000
+RATE-000631,OceanBridge Logistics,Ahmedabad,France,Marseille,Sea LCL,per_cbm,197.95,USD,138.31,199.48,144.9,37,2026-07-01,2027-03-31,100,28000
+RATE-000632,SkyCargo Partners,Ahmedabad,France,Marseille,Sea LCL,per_cbm,240.69,USD,425.56,180.59,129.19,22,2026-07-01,2027-03-31,100,28000
+RATE-000633,BlueWave Logistics,Ahmedabad,France,Marseille,Sea FCL,per_container,1811.72,EUR,82.1,92.57,170.73,23,2026-07-01,2027-03-31,100,28000
+RATE-000634,TransGlobe Freight,Ahmedabad,France,Marseille,Sea FCL,per_container,2764.25,EUR,343.5,150.39,178.62,30,2026-07-01,2027-03-31,100,28000
+RATE-000635,OceanBridge Logistics,Ahmedabad,France,Marseille,Sea FCL,per_container,2735.45,USD,267.81,82.9,155.55,35,2026-07-01,2027-03-31,100,28000
+RATE-000636,SkyCargo Partners,Ahmedabad,France,Marseille,Sea FCL,per_container,2418.55,EUR,483.87,189.08,157.63,26,2026-07-01,2027-03-31,100,28000
+RATE-000637,BlueWave Logistics,Ahmedabad,Italia,Genoa,Air,per_kg,5.99,USD,197.86,156.67,93.44,6,2026-07-01,2027-03-31,1,5000
+RATE-000638,TransGlobe Freight,Ahmedabad,Italia,Genoa,Air,per_kg,4.74,USD,175.83,127.4,168.42,6,2026-07-01,2027-03-31,1,5000
+RATE-000639,OceanBridge Logistics,Ahmedabad,Italia,Genoa,Air,per_kg,4.5,USD,464.36,175.55,150.7,7,2026-07-01,2027-03-31,1,5000
+RATE-000640,SkyCargo Partners,Ahmedabad,Italia,Genoa,Air,per_kg,4.81,USD,103.2,111.75,169.31,5,2026-07-01,2027-03-31,1,5000
+RATE-000641,BlueWave Logistics,Ahmedabad,Italia,Genoa,Sea LCL,per_cbm,265.19,USD,292.33,148.03,98.46,25,2026-07-01,2027-03-31,100,28000
+RATE-000642,TransGlobe Freight,Ahmedabad,Italia,Genoa,Sea LCL,per_cbm,152.44,USD,264.48,99.58,123.46,31,2026-07-01,2027-03-31,100,28000
+RATE-000643,OceanBridge Logistics,Ahmedabad,Italia,Genoa,Sea LCL,per_cbm,166.25,USD,321.01,128.75,68.16,25,2026-07-01,2027-03-31,100,28000
+RATE-000644,SkyCargo Partners,Ahmedabad,Italia,Genoa,Sea LCL,per_cbm,231.55,USD,468.97,107.86,189.97,30,2026-07-01,2027-03-31,100,28000
+RATE-000645,BlueWave Logistics,Ahmedabad,Italia,Genoa,Sea FCL,per_container,2350.8,USD,258.04,160.65,107.69,21,2026-07-01,2027-03-31,100,28000
+RATE-000646,TransGlobe Freight,Ahmedabad,Italia,Genoa,Sea FCL,per_container,2852.77,EUR,409.56,231.68,188.05,36,2026-07-01,2027-03-31,100,28000
+RATE-000647,OceanBridge Logistics,Ahmedabad,Italia,Genoa,Sea FCL,per_container,1973.01,USD,349.01,98.89,77.44,33,2026-07-01,2027-03-31,100,28000
+RATE-000648,SkyCargo Partners,Ahmedabad,Italia,Genoa,Sea FCL,per_container,2307.07,USD,417.26,225.09,186.17,25,2026-07-01,2027-03-31,100,28000
+RATE-000649,BlueWave Logistics,Ahmedabad,Spain,Barcelona,Air,per_kg,6.07,USD,460.46,234.43,68.26,8,2026-07-01,2027-03-31,1,5000
+RATE-000650,TransGlobe Freight,Ahmedabad,Spain,Barcelona,Air,per_kg,5.37,USD,198.85,195.76,86.75,10,2026-07-01,2027-03-31,1,5000
+RATE-000651,OceanBridge Logistics,Ahmedabad,Spain,Barcelona,Air,per_kg,4.84,USD,436.46,91.76,76.54,4,2026-07-01,2027-03-31,1,5000
+RATE-000652,SkyCargo Partners,Ahmedabad,Spain,Barcelona,Air,per_kg,5.9,USD,244.16,98.78,83.33,4,2026-07-01,2027-03-31,1,5000
+RATE-000653,BlueWave Logistics,Ahmedabad,Spain,Barcelona,Sea LCL,per_cbm,169.74,USD,375.82,82.74,141.04,34,2026-07-01,2027-03-31,100,28000
+RATE-000654,TransGlobe Freight,Ahmedabad,Spain,Barcelona,Sea LCL,per_cbm,276.76,EUR,339.06,136.73,115.1,32,2026-07-01,2027-03-31,100,28000
+RATE-000655,OceanBridge Logistics,Ahmedabad,Spain,Barcelona,Sea LCL,per_cbm,168.94,USD,261.38,200.46,106.09,24,2026-07-01,2027-03-31,100,28000
+RATE-000656,SkyCargo Partners,Ahmedabad,Spain,Barcelona,Sea LCL,per_cbm,151.85,EUR,267.66,232.32,176.27,26,2026-07-01,2027-03-31,100,28000
+RATE-000657,BlueWave Logistics,Ahmedabad,Spain,Barcelona,Sea FCL,per_container,2717.85,USD,496.51,209.68,116.7,23,2026-07-01,2027-03-31,100,28000
+RATE-000658,TransGlobe Freight,Ahmedabad,Spain,Barcelona,Sea FCL,per_container,2254.53,USD,138.61,141.93,184.46,28,2026-07-01,2027-03-31,100,28000
+RATE-000659,OceanBridge Logistics,Ahmedabad,Spain,Barcelona,Sea FCL,per_container,1981.03,USD,357.85,96.98,140.8,23,2026-07-01,2027-03-31,100,28000
+RATE-000660,SkyCargo Partners,Ahmedabad,Spain,Barcelona,Sea FCL,per_container,2466.27,USD,380.0,81.31,154.21,34,2026-07-01,2027-03-31,100,28000
+RATE-000661,BlueWave Logistics,Ahmedabad,Spain,Valencia,Air,per_kg,6.98,EUR,266.51,197.03,119.74,4,2026-07-01,2027-03-31,1,5000
+RATE-000662,TransGlobe Freight,Ahmedabad,Spain,Valencia,Air,per_kg,5.85,USD,331.9,114.34,110.67,10,2026-07-01,2027-03-31,1,5000
+RATE-000663,OceanBridge Logistics,Ahmedabad,Spain,Valencia,Air,per_kg,6.33,EUR,449.53,223.74,146.56,6,2026-07-01,2027-03-31,1,5000
+RATE-000664,SkyCargo Partners,Ahmedabad,Spain,Valencia,Air,per_kg,4.79,USD,466.97,117.34,127.59,7,2026-07-01,2027-03-31,1,5000
+RATE-000665,BlueWave Logistics,Ahmedabad,Spain,Valencia,Sea LCL,per_cbm,241.91,USD,354.82,96.29,96.67,33,2026-07-01,2027-03-31,100,28000
+RATE-000666,TransGlobe Freight,Ahmedabad,Spain,Valencia,Sea LCL,per_cbm,121.93,USD,339.63,239.12,168.61,34,2026-07-01,2027-03-31,100,28000
+RATE-000667,OceanBridge Logistics,Ahmedabad,Spain,Valencia,Sea LCL,per_cbm,182.19,USD,422.65,164.65,157.76,33,2026-07-01,2027-03-31,100,28000
+RATE-000668,SkyCargo Partners,Ahmedabad,Spain,Valencia,Sea LCL,per_cbm,135.38,EUR,325.08,171.45,147.46,38,2026-07-01,2027-03-31,100,28000
+RATE-000669,BlueWave Logistics,Ahmedabad,Spain,Valencia,Sea FCL,per_container,2846.49,USD,393.97,158.15,115.17,36,2026-07-01,2027-03-31,100,28000
+RATE-000670,TransGlobe Freight,Ahmedabad,Spain,Valencia,Sea FCL,per_container,3161.71,EUR,466.98,152.5,122.37,33,2026-07-01,2027-03-31,100,28000
+RATE-000671,OceanBridge Logistics,Ahmedabad,Spain,Valencia,Sea FCL,per_container,3736.59,EUR,432.6,172.59,107.24,30,2026-07-01,2027-03-31,100,28000
+RATE-000672,SkyCargo Partners,Ahmedabad,Spain,Valencia,Sea FCL,per_container,2045.8,USD,365.57,130.41,91.44,21,2026-07-01,2027-03-31,100,28000
+RATE-000673,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Air,per_kg,6.77,USD,96.36,195.73,140.52,9,2026-07-01,2027-03-31,1,5000
+RATE-000674,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Hamburg,Air,per_kg,5.69,USD,242.27,218.43,103.17,10,2026-07-01,2027-03-31,1,5000
+RATE-000675,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Air,per_kg,4.6,USD,300.87,100.7,69.71,9,2026-07-01,2027-03-31,1,5000
+RATE-000676,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Hamburg,Air,per_kg,6.15,USD,265.12,199.91,167.87,7,2026-07-01,2027-03-31,1,5000
+RATE-000677,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,248.09,USD,386.39,223.77,114.27,32,2026-07-01,2027-03-31,100,28000
+RATE-000678,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,182.36,EUR,192.06,124.73,174.71,26,2026-07-01,2027-03-31,100,28000
+RATE-000679,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,243.96,USD,396.26,224.35,176.16,24,2026-07-01,2027-03-31,100,28000
+RATE-000680,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,144.33,USD,397.63,194.89,77.84,34,2026-07-01,2027-03-31,100,28000
+RATE-000681,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2474.89,USD,108.77,186.18,139.37,26,2026-07-01,2027-03-31,100,28000
+RATE-000682,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2572.76,EUR,94.57,200.89,136.46,29,2026-07-01,2027-03-31,100,28000
+RATE-000683,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Hamburg,Sea FCL,per_container,3228.94,USD,185.18,198.72,130.82,32,2026-07-01,2027-03-31,100,28000
+RATE-000684,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2022.59,EUR,248.41,156.49,189.81,22,2026-07-01,2027-03-31,100,28000
+RATE-000685,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.37,USD,184.22,112.16,107.9,9,2026-07-01,2027-03-31,1,5000
+RATE-000686,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Bremerhaven,Air,per_kg,4.82,EUR,474.91,100.55,181.2,6,2026-07-01,2027-03-31,1,5000
+RATE-000687,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.07,EUR,144.99,109.39,61.82,10,2026-07-01,2027-03-31,1,5000
+RATE-000688,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Bremerhaven,Air,per_kg,4.89,USD,266.36,83.14,139.53,5,2026-07-01,2027-03-31,1,5000
+RATE-000689,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,232.55,EUR,157.57,187.29,89.89,34,2026-07-01,2027-03-31,100,28000
+RATE-000690,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,253.89,USD,459.22,106.85,114.09,32,2026-07-01,2027-03-31,100,28000
+RATE-000691,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,169.03,EUR,309.2,208.7,102.61,32,2026-07-01,2027-03-31,100,28000
+RATE-000692,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,177.36,EUR,229.23,124.65,175.81,35,2026-07-01,2027-03-31,100,28000
+RATE-000693,BlueWave Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2517.04,EUR,242.05,220.37,131.1,33,2026-07-01,2027-03-31,100,28000
+RATE-000694,TransGlobe Freight,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2103.13,USD,217.37,234.52,144.36,28,2026-07-01,2027-03-31,100,28000
+RATE-000695,OceanBridge Logistics,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2683.04,USD,113.96,133.77,165.01,34,2026-07-01,2027-03-31,100,28000
+RATE-000696,SkyCargo Partners,Ludhiana,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2479.1,EUR,431.54,84.61,88.11,30,2026-07-01,2027-03-31,100,28000
+RATE-000697,BlueWave Logistics,Ludhiana,NL,Rotterdam,Air,per_kg,6.62,USD,459.35,102.69,138.98,5,2026-07-01,2027-03-31,1,5000
+RATE-000698,TransGlobe Freight,Ludhiana,NL,Rotterdam,Air,per_kg,5.11,USD,193.44,230.51,141.99,8,2026-07-01,2027-03-31,1,5000
+RATE-000699,OceanBridge Logistics,Ludhiana,NL,Rotterdam,Air,per_kg,5.66,USD,111.26,224.43,161.6,9,2026-07-01,2027-03-31,1,5000
+RATE-000700,SkyCargo Partners,Ludhiana,NL,Rotterdam,Air,per_kg,4.44,USD,94.39,176.87,121.7,5,2026-07-01,2027-03-31,1,5000
+RATE-000701,BlueWave Logistics,Ludhiana,NL,Rotterdam,Sea LCL,per_cbm,271.75,USD,101.82,164.12,142.65,31,2026-07-01,2027-03-31,100,28000
+RATE-000702,TransGlobe Freight,Ludhiana,NL,Rotterdam,Sea LCL,per_cbm,183.47,USD,401.73,148.7,121.14,34,2026-07-01,2027-03-31,100,28000
+RATE-000703,OceanBridge Logistics,Ludhiana,NL,Rotterdam,Sea LCL,per_cbm,211.8,EUR,465.46,111.31,135.74,32,2026-07-01,2027-03-31,100,28000
+RATE-000704,SkyCargo Partners,Ludhiana,NL,Rotterdam,Sea LCL,per_cbm,245.89,USD,170.29,180.7,120.69,25,2026-07-01,2027-03-31,100,28000
+RATE-000705,BlueWave Logistics,Ludhiana,NL,Rotterdam,Sea FCL,per_container,3234.2,EUR,104.23,165.59,122.64,30,2026-07-01,2027-03-31,100,28000
+RATE-000706,TransGlobe Freight,Ludhiana,NL,Rotterdam,Sea FCL,per_container,2195.87,EUR,319.98,85.41,91.58,27,2026-07-01,2027-03-31,100,28000
+RATE-000707,OceanBridge Logistics,Ludhiana,NL,Rotterdam,Sea FCL,per_container,2963.77,EUR,411.67,147.66,132.43,27,2026-07-01,2027-03-31,100,28000
+RATE-000708,SkyCargo Partners,Ludhiana,NL,Rotterdam,Sea FCL,per_container,3868.88,EUR,325.05,123.85,157.98,26,2026-07-01,2027-03-31,100,28000
+RATE-000709,BlueWave Logistics,Ludhiana,French Republic,Le Havre,Air,per_kg,6.6,EUR,159.54,227.27,183.71,5,2026-07-01,2027-03-31,1,5000
+RATE-000710,TransGlobe Freight,Ludhiana,French Republic,Le Havre,Air,per_kg,5.31,EUR,239.02,130.8,171.59,7,2026-07-01,2027-03-31,1,5000
+RATE-000711,OceanBridge Logistics,Ludhiana,French Republic,Le Havre,Air,per_kg,6.51,EUR,333.25,179.21,79.97,9,2026-07-01,2027-03-31,1,5000
+RATE-000712,SkyCargo Partners,Ludhiana,French Republic,Le Havre,Air,per_kg,4.17,USD,374.68,197.52,112.45,4,2026-07-01,2027-03-31,1,5000
+RATE-000713,BlueWave Logistics,Ludhiana,French Republic,Le Havre,Sea LCL,per_cbm,166.5,USD,470.86,153.17,152.02,37,2026-07-01,2027-03-31,100,28000
+RATE-000714,TransGlobe Freight,Ludhiana,French Republic,Le Havre,Sea LCL,per_cbm,141.41,EUR,437.05,214.0,107.44,26,2026-07-01,2027-03-31,100,28000
+RATE-000715,OceanBridge Logistics,Ludhiana,French Republic,Le Havre,Sea LCL,per_cbm,149.56,EUR,388.38,160.89,184.46,23,2026-07-01,2027-03-31,100,28000
+RATE-000716,SkyCargo Partners,Ludhiana,French Republic,Le Havre,Sea LCL,per_cbm,263.35,USD,255.34,222.14,187.49,37,2026-07-01,2027-03-31,100,28000
+RATE-000717,BlueWave Logistics,Ludhiana,French Republic,Le Havre,Sea FCL,per_container,3594.3,USD,255.99,183.17,108.02,24,2026-07-01,2027-03-31,100,28000
+RATE-000718,TransGlobe Freight,Ludhiana,French Republic,Le Havre,Sea FCL,per_container,2198.77,USD,172.04,222.77,77.57,23,2026-07-01,2027-03-31,100,28000
+RATE-000719,OceanBridge Logistics,Ludhiana,French Republic,Le Havre,Sea FCL,per_container,2607.33,USD,163.33,226.49,142.67,29,2026-07-01,2027-03-31,100,28000
+RATE-000720,SkyCargo Partners,Ludhiana,French Republic,Le Havre,Sea FCL,per_container,2737.27,EUR,107.05,183.34,86.09,24,2026-07-01,2027-03-31,100,28000
+RATE-000721,BlueWave Logistics,Ludhiana,French Republic,Marseille,Air,per_kg,4.2,USD,136.27,102.46,114.25,7,2026-07-01,2027-03-31,1,5000
+RATE-000722,TransGlobe Freight,Ludhiana,French Republic,Marseille,Air,per_kg,6.32,EUR,210.19,156.59,118.95,10,2026-07-01,2027-03-31,1,5000
+RATE-000723,OceanBridge Logistics,Ludhiana,French Republic,Marseille,Air,per_kg,6.88,USD,471.29,185.61,153.51,4,2026-07-01,2027-03-31,1,5000
+RATE-000724,SkyCargo Partners,Ludhiana,French Republic,Marseille,Air,per_kg,4.49,EUR,350.55,206.81,174.41,4,2026-07-01,2027-03-31,1,5000
+RATE-000725,BlueWave Logistics,Ludhiana,French Republic,Marseille,Sea LCL,per_cbm,159.53,EUR,316.0,104.07,162.79,23,2026-07-01,2027-03-31,100,28000
+RATE-000726,TransGlobe Freight,Ludhiana,French Republic,Marseille,Sea LCL,per_cbm,152.11,EUR,176.51,197.41,69.69,22,2026-07-01,2027-03-31,100,28000
+RATE-000727,OceanBridge Logistics,Ludhiana,French Republic,Marseille,Sea LCL,per_cbm,255.89,USD,109.57,137.2,101.98,24,2026-07-01,2027-03-31,100,28000
+RATE-000728,SkyCargo Partners,Ludhiana,French Republic,Marseille,Sea LCL,per_cbm,260.25,USD,94.41,190.61,151.27,23,2026-07-01,2027-03-31,100,28000
+RATE-000729,BlueWave Logistics,Ludhiana,French Republic,Marseille,Sea FCL,per_container,2909.61,EUR,499.15,124.31,145.39,28,2026-07-01,2027-03-31,100,28000
+RATE-000730,TransGlobe Freight,Ludhiana,French Republic,Marseille,Sea FCL,per_container,3032.36,USD,368.82,183.87,68.97,23,2026-07-01,2027-03-31,100,28000
+RATE-000731,OceanBridge Logistics,Ludhiana,French Republic,Marseille,Sea FCL,per_container,3711.93,USD,478.41,207.96,186.86,32,2026-07-01,2027-03-31,100,28000
+RATE-000732,SkyCargo Partners,Ludhiana,French Republic,Marseille,Sea FCL,per_container,3353.19,EUR,342.26,224.63,158.11,35,2026-07-01,2027-03-31,100,28000
+RATE-000733,BlueWave Logistics,Ludhiana,IT,Genoa,Air,per_kg,4.99,USD,207.3,224.57,166.41,9,2026-07-01,2027-03-31,1,5000
+RATE-000734,TransGlobe Freight,Ludhiana,IT,Genoa,Air,per_kg,5.07,USD,274.49,118.76,166.89,9,2026-07-01,2027-03-31,1,5000
+RATE-000735,OceanBridge Logistics,Ludhiana,IT,Genoa,Air,per_kg,4.9,USD,398.74,128.74,73.98,5,2026-07-01,2027-03-31,1,5000
+RATE-000736,SkyCargo Partners,Ludhiana,IT,Genoa,Air,per_kg,5.77,EUR,128.99,180.48,120.37,6,2026-07-01,2027-03-31,1,5000
+RATE-000737,BlueWave Logistics,Ludhiana,IT,Genoa,Sea LCL,per_cbm,178.48,EUR,359.8,231.09,137.19,30,2026-07-01,2027-03-31,100,28000
+RATE-000738,TransGlobe Freight,Ludhiana,IT,Genoa,Sea LCL,per_cbm,279.08,USD,424.83,111.33,85.56,30,2026-07-01,2027-03-31,100,28000
+RATE-000739,OceanBridge Logistics,Ludhiana,IT,Genoa,Sea LCL,per_cbm,180.51,USD,99.6,143.07,120.86,23,2026-07-01,2027-03-31,100,28000
+RATE-000740,SkyCargo Partners,Ludhiana,IT,Genoa,Sea LCL,per_cbm,153.1,EUR,419.6,202.91,170.48,35,2026-07-01,2027-03-31,100,28000
+RATE-000741,BlueWave Logistics,Ludhiana,IT,Genoa,Sea FCL,per_container,3230.89,USD,128.44,178.35,159.41,27,2026-07-01,2027-03-31,100,28000
+RATE-000742,TransGlobe Freight,Ludhiana,IT,Genoa,Sea FCL,per_container,3631.8,USD,249.61,86.86,99.49,32,2026-07-01,2027-03-31,100,28000
+RATE-000743,OceanBridge Logistics,Ludhiana,IT,Genoa,Sea FCL,per_container,3543.84,USD,312.21,134.53,76.21,28,2026-07-01,2027-03-31,100,28000
+RATE-000744,SkyCargo Partners,Ludhiana,IT,Genoa,Sea FCL,per_container,2842.38,USD,293.94,212.64,105.28,27,2026-07-01,2027-03-31,100,28000
+RATE-000745,BlueWave Logistics,Ludhiana,España,Barcelona,Air,per_kg,6.23,USD,229.21,211.91,130.91,5,2026-07-01,2027-03-31,1,5000
+RATE-000746,TransGlobe Freight,Ludhiana,España,Barcelona,Air,per_kg,5.56,USD,209.0,121.36,140.34,10,2026-07-01,2027-03-31,1,5000
+RATE-000747,OceanBridge Logistics,Ludhiana,España,Barcelona,Air,per_kg,4.16,USD,247.95,225.99,167.96,8,2026-07-01,2027-03-31,1,5000
+RATE-000748,SkyCargo Partners,Ludhiana,España,Barcelona,Air,per_kg,6.73,USD,158.92,148.69,168.82,5,2026-07-01,2027-03-31,1,5000
+RATE-000749,BlueWave Logistics,Ludhiana,España,Barcelona,Sea LCL,per_cbm,162.45,EUR,182.82,196.46,106.76,28,2026-07-01,2027-03-31,100,28000
+RATE-000750,TransGlobe Freight,Ludhiana,España,Barcelona,Sea LCL,per_cbm,164.6,USD,285.41,226.99,183.59,31,2026-07-01,2027-03-31,100,28000
+RATE-000751,OceanBridge Logistics,Ludhiana,España,Barcelona,Sea LCL,per_cbm,182.11,USD,160.91,117.68,69.86,34,2026-07-01,2027-03-31,100,28000
+RATE-000752,SkyCargo Partners,Ludhiana,España,Barcelona,Sea LCL,per_cbm,127.96,USD,400.27,147.9,169.62,37,2026-07-01,2027-03-31,100,28000
+RATE-000753,BlueWave Logistics,Ludhiana,España,Barcelona,Sea FCL,per_container,3639.52,USD,114.13,206.97,76.86,32,2026-07-01,2027-03-31,100,28000
+RATE-000754,TransGlobe Freight,Ludhiana,España,Barcelona,Sea FCL,per_container,3437.71,EUR,290.73,82.04,157.42,34,2026-07-01,2027-03-31,100,28000
+RATE-000755,OceanBridge Logistics,Ludhiana,España,Barcelona,Sea FCL,per_container,2411.4,USD,474.38,83.98,85.28,21,2026-07-01,2027-03-31,100,28000
+RATE-000756,SkyCargo Partners,Ludhiana,España,Barcelona,Sea FCL,per_container,3766.51,USD,373.36,239.31,184.47,35,2026-07-01,2027-03-31,100,28000
+RATE-000757,BlueWave Logistics,Ludhiana,España,Valencia,Air,per_kg,5.65,USD,483.6,156.01,78.93,7,2026-07-01,2027-03-31,1,5000
+RATE-000758,TransGlobe Freight,Ludhiana,España,Valencia,Air,per_kg,4.29,USD,394.61,178.15,179.1,9,2026-07-01,2027-03-31,1,5000
+RATE-000759,OceanBridge Logistics,Ludhiana,España,Valencia,Air,per_kg,4.84,USD,126.79,158.07,154.95,10,2026-07-01,2027-03-31,1,5000
+RATE-000760,SkyCargo Partners,Ludhiana,España,Valencia,Air,per_kg,4.54,USD,444.82,128.87,135.4,9,2026-07-01,2027-03-31,1,5000
+RATE-000761,BlueWave Logistics,Ludhiana,España,Valencia,Sea LCL,per_cbm,184.14,USD,494.1,92.9,89.05,38,2026-07-01,2027-03-31,100,28000
+RATE-000762,TransGlobe Freight,Ludhiana,España,Valencia,Sea LCL,per_cbm,151.43,USD,463.24,192.37,136.96,34,2026-07-01,2027-03-31,100,28000
+RATE-000763,OceanBridge Logistics,Ludhiana,España,Valencia,Sea LCL,per_cbm,231.07,USD,406.88,169.96,174.54,23,2026-07-01,2027-03-31,100,28000
+RATE-000764,SkyCargo Partners,Ludhiana,España,Valencia,Sea LCL,per_cbm,221.15,USD,102.18,211.91,76.38,38,2026-07-01,2027-03-31,100,28000
+RATE-000765,BlueWave Logistics,Ludhiana,España,Valencia,Sea FCL,per_container,2912.49,USD,279.26,181.18,95.82,24,2026-07-01,2027-03-31,100,28000
+RATE-000766,TransGlobe Freight,Ludhiana,España,Valencia,Sea FCL,per_container,1835.41,EUR,291.31,203.97,132.63,36,2026-07-01,2027-03-31,100,28000
+RATE-000767,OceanBridge Logistics,Ludhiana,España,Valencia,Sea FCL,per_container,2166.4,USD,365.38,192.92,70.59,26,2026-07-01,2027-03-31,100,28000
+RATE-000768,SkyCargo Partners,Ludhiana,España,Valencia,Sea FCL,per_container,2195.21,USD,426.15,221.07,132.81,35,2026-07-01,2027-03-31,100,28000
+RATE-000769,BlueWave Logistics,Surat,Federal Republic of Germany,Hamburg,Air,per_kg,4.5,USD,294.89,101.99,126.83,5,2026-07-01,2027-03-31,1,5000
+RATE-000770,TransGlobe Freight,Surat,Federal Republic of Germany,Hamburg,Air,per_kg,6.43,USD,457.85,232.5,123.48,8,2026-07-01,2027-03-31,1,5000
+RATE-000771,OceanBridge Logistics,Surat,Federal Republic of Germany,Hamburg,Air,per_kg,5.15,USD,445.01,190.51,163.98,6,2026-07-01,2027-03-31,1,5000
+RATE-000772,SkyCargo Partners,Surat,Federal Republic of Germany,Hamburg,Air,per_kg,5.87,USD,343.32,138.92,121.7,9,2026-07-01,2027-03-31,1,5000
+RATE-000773,BlueWave Logistics,Surat,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,153.2,USD,125.47,83.05,107.22,28,2026-07-01,2027-03-31,100,28000
+RATE-000774,TransGlobe Freight,Surat,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,230.39,EUR,361.2,133.1,182.88,22,2026-07-01,2027-03-31,100,28000
+RATE-000775,OceanBridge Logistics,Surat,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,263.03,USD,275.4,169.65,67.47,26,2026-07-01,2027-03-31,100,28000
+RATE-000776,SkyCargo Partners,Surat,Federal Republic of Germany,Hamburg,Sea LCL,per_cbm,264.06,EUR,95.0,104.94,168.73,28,2026-07-01,2027-03-31,100,28000
+RATE-000777,BlueWave Logistics,Surat,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2379.93,EUR,272.26,106.75,180.83,26,2026-07-01,2027-03-31,100,28000
+RATE-000778,TransGlobe Freight,Surat,Federal Republic of Germany,Hamburg,Sea FCL,per_container,2976.79,USD,328.52,152.45,140.51,26,2026-07-01,2027-03-31,100,28000
+RATE-000779,OceanBridge Logistics,Surat,Federal Republic of Germany,Hamburg,Sea FCL,per_container,3197.62,USD,123.39,236.61,73.12,24,2026-07-01,2027-03-31,100,28000
+RATE-000780,SkyCargo Partners,Surat,Federal Republic of Germany,Hamburg,Sea FCL,per_container,3250.93,EUR,190.05,194.66,118.33,34,2026-07-01,2027-03-31,100,28000
+RATE-000781,BlueWave Logistics,Surat,Federal Republic of Germany,Bremerhaven,Air,per_kg,5.66,USD,461.64,178.22,129.32,6,2026-07-01,2027-03-31,1,5000
+RATE-000782,TransGlobe Freight,Surat,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.02,USD,86.57,140.65,184.03,6,2026-07-01,2027-03-31,1,5000
+RATE-000783,OceanBridge Logistics,Surat,Federal Republic of Germany,Bremerhaven,Air,per_kg,5.17,USD,98.14,180.05,173.2,8,2026-07-01,2027-03-31,1,5000
+RATE-000784,SkyCargo Partners,Surat,Federal Republic of Germany,Bremerhaven,Air,per_kg,6.22,EUR,313.66,150.62,110.63,7,2026-07-01,2027-03-31,1,5000
+RATE-000785,BlueWave Logistics,Surat,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,149.25,EUR,107.52,96.89,72.44,24,2026-07-01,2027-03-31,100,28000
+RATE-000786,TransGlobe Freight,Surat,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,170.65,EUR,155.94,116.01,121.1,24,2026-07-01,2027-03-31,100,28000
+RATE-000787,OceanBridge Logistics,Surat,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,182.91,EUR,477.8,238.92,143.53,32,2026-07-01,2027-03-31,100,28000
+RATE-000788,SkyCargo Partners,Surat,Federal Republic of Germany,Bremerhaven,Sea LCL,per_cbm,257.49,USD,206.3,190.01,182.75,32,2026-07-01,2027-03-31,100,28000
+RATE-000789,BlueWave Logistics,Surat,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2141.23,USD,263.68,163.68,80.56,22,2026-07-01,2027-03-31,100,28000
+RATE-000790,TransGlobe Freight,Surat,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,3259.2,EUR,142.46,213.91,87.08,31,2026-07-01,2027-03-31,100,28000
+RATE-000791,OceanBridge Logistics,Surat,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,2729.73,USD,125.01,105.49,77.07,28,2026-07-01,2027-03-31,100,28000
+RATE-000792,SkyCargo Partners,Surat,Federal Republic of Germany,Bremerhaven,Sea FCL,per_container,3554.99,EUR,383.62,122.95,67.63,26,2026-07-01,2027-03-31,100,28000
+RATE-000793,BlueWave Logistics,Surat,The Netherlands,Rotterdam,Air,per_kg,4.37,USD,158.37,111.19,97.5,9,2026-07-01,2027-03-31,1,5000
+RATE-000794,TransGlobe Freight,Surat,The Netherlands,Rotterdam,Air,per_kg,6.47,EUR,345.09,194.97,97.5,8,2026-07-01,2027-03-31,1,5000
+RATE-000795,OceanBridge Logistics,Surat,The Netherlands,Rotterdam,Air,per_kg,5.33,USD,327.2,207.91,137.49,8,2026-07-01,2027-03-31,1,5000
+RATE-000796,SkyCargo Partners,Surat,The Netherlands,Rotterdam,Air,per_kg,6.02,EUR,239.66,120.33,174.04,7,2026-07-01,2027-03-31,1,5000
+RATE-000797,BlueWave Logistics,Surat,The Netherlands,Rotterdam,Sea LCL,per_cbm,149.42,USD,479.66,120.34,154.71,37,2026-07-01,2027-03-31,100,28000
+RATE-000798,TransGlobe Freight,Surat,The Netherlands,Rotterdam,Sea LCL,per_cbm,212.31,USD,375.24,163.93,84.86,31,2026-07-01,2027-03-31,100,28000
+RATE-000799,OceanBridge Logistics,Surat,The Netherlands,Rotterdam,Sea LCL,per_cbm,174.19,USD,499.11,223.27,67.62,29,2026-07-01,2027-03-31,100,28000
+RATE-000800,SkyCargo Partners,Surat,The Netherlands,Rotterdam,Sea LCL,per_cbm,254.19,USD,443.89,172.51,158.3,26,2026-07-01,2027-03-31,100,28000
+RATE-000801,BlueWave Logistics,Surat,The Netherlands,Rotterdam,Sea FCL,per_container,2638.52,EUR,368.6,238.13,186.99,36,2026-07-01,2027-03-31,100,28000
+RATE-000802,TransGlobe Freight,Surat,The Netherlands,Rotterdam,Sea FCL,per_container,2293.18,USD,382.1,104.78,178.95,36,2026-07-01,2027-03-31,100,28000
+RATE-000803,OceanBridge Logistics,Surat,The Netherlands,Rotterdam,Sea FCL,per_container,3802.84,USD,218.13,163.05,75.17,26,2026-07-01,2027-03-31,100,28000
+RATE-000804,SkyCargo Partners,Surat,The Netherlands,Rotterdam,Sea FCL,per_container,1813.91,USD,194.45,159.86,180.07,22,2026-07-01,2027-03-31,100,28000
+RATE-000805,BlueWave Logistics,Surat,French Republic,Le Havre,Air,per_kg,4.59,USD,388.99,239.82,126.93,4,2026-07-01,2027-03-31,1,5000
+RATE-000806,TransGlobe Freight,Surat,French Republic,Le Havre,Air,per_kg,5.23,USD,279.85,118.74,107.38,9,2026-07-01,2027-03-31,1,5000
+RATE-000807,OceanBridge Logistics,Surat,French Republic,Le Havre,Air,per_kg,4.11,USD,378.1,160.52,86.11,4,2026-07-01,2027-03-31,1,5000
+RATE-000808,SkyCargo Partners,Surat,French Republic,Le Havre,Air,per_kg,6.63,USD,231.8,184.71,103.42,7,2026-07-01,2027-03-31,1,5000
+RATE-000809,BlueWave Logistics,Surat,French Republic,Le Havre,Sea LCL,per_cbm,139.5,EUR,140.43,222.42,117.89,29,2026-07-01,2027-03-31,100,28000
+RATE-000810,TransGlobe Freight,Surat,French Republic,Le Havre,Sea LCL,per_cbm,129.77,EUR,165.21,143.07,97.15,29,2026-07-01,2027-03-31,100,28000
+RATE-000811,OceanBridge Logistics,Surat,French Republic,Le Havre,Sea LCL,per_cbm,128.2,USD,232.86,116.68,150.87,35,2026-07-01,2027-03-31,100,28000
+RATE-000812,SkyCargo Partners,Surat,French Republic,Le Havre,Sea LCL,per_cbm,198.61,USD,119.07,233.59,123.56,22,2026-07-01,2027-03-31,100,28000
+RATE-000813,BlueWave Logistics,Surat,French Republic,Le Havre,Sea FCL,per_container,3710.43,USD,358.4,101.86,188.21,27,2026-07-01,2027-03-31,100,28000
+RATE-000814,TransGlobe Freight,Surat,French Republic,Le Havre,Sea FCL,per_container,2537.92,USD,405.22,135.37,93.92,36,2026-07-01,2027-03-31,100,28000
+RATE-000815,OceanBridge Logistics,Surat,French Republic,Le Havre,Sea FCL,per_container,3755.14,USD,128.26,224.0,141.88,21,2026-07-01,2027-03-31,100,28000
+RATE-000816,SkyCargo Partners,Surat,French Republic,Le Havre,Sea FCL,per_container,2167.17,USD,222.17,215.51,87.13,32,2026-07-01,2027-03-31,100,28000
+RATE-000817,BlueWave Logistics,Surat,French Republic,Marseille,Air,per_kg,6.02,EUR,251.68,199.58,151.53,6,2026-07-01,2027-03-31,1,5000
+RATE-000818,TransGlobe Freight,Surat,French Republic,Marseille,Air,per_kg,4.69,USD,406.46,95.39,151.0,7,2026-07-01,2027-03-31,1,5000
+RATE-000819,OceanBridge Logistics,Surat,French Republic,Marseille,Air,per_kg,6.12,EUR,143.29,128.51,151.84,4,2026-07-01,2027-03-31,1,5000
+RATE-000820,SkyCargo Partners,Surat,French Republic,Marseille,Air,per_kg,6.09,USD,370.84,166.2,174.1,6,2026-07-01,2027-03-31,1,5000
+RATE-000821,BlueWave Logistics,Surat,French Republic,Marseille,Sea LCL,per_cbm,271.31,EUR,160.19,129.22,130.01,32,2026-07-01,2027-03-31,100,28000
+RATE-000822,TransGlobe Freight,Surat,French Republic,Marseille,Sea LCL,per_cbm,127.98,EUR,178.73,84.6,79.92,32,2026-07-01,2027-03-31,100,28000
+RATE-000823,OceanBridge Logistics,Surat,French Republic,Marseille,Sea LCL,per_cbm,125.98,USD,379.12,219.81,170.16,30,2026-07-01,2027-03-31,100,28000
+RATE-000824,SkyCargo Partners,Surat,French Republic,Marseille,Sea LCL,per_cbm,272.25,USD,290.11,143.02,134.12,27,2026-07-01,2027-03-31,100,28000
+RATE-000825,BlueWave Logistics,Surat,French Republic,Marseille,Sea FCL,per_container,2221.11,EUR,333.64,175.13,91.28,25,2026-07-01,2027-03-31,100,28000
+RATE-000826,TransGlobe Freight,Surat,French Republic,Marseille,Sea FCL,per_container,1999.97,EUR,352.5,141.71,176.94,23,2026-07-01,2027-03-31,100,28000
+RATE-000827,OceanBridge Logistics,Surat,French Republic,Marseille,Sea FCL,per_container,2042.8,EUR,248.75,217.88,183.77,22,2026-07-01,2027-03-31,100,28000
+RATE-000828,SkyCargo Partners,Surat,French Republic,Marseille,Sea FCL,per_container,2763.75,USD,193.05,189.15,70.19,25,2026-07-01,2027-03-31,100,28000
+RATE-000829,BlueWave Logistics,Surat,IT,Genoa,Air,per_kg,5.63,USD,455.42,152.87,61.04,7,2026-07-01,2027-03-31,1,5000
+RATE-000830,TransGlobe Freight,Surat,IT,Genoa,Air,per_kg,6.11,USD,272.56,82.18,182.45,4,2026-07-01,2027-03-31,1,5000
+RATE-000831,OceanBridge Logistics,Surat,IT,Genoa,Air,per_kg,4.46,EUR,82.16,120.92,100.01,9,2026-07-01,2027-03-31,1,5000
+RATE-000832,SkyCargo Partners,Surat,IT,Genoa,Air,per_kg,6.79,USD,466.41,154.03,118.86,9,2026-07-01,2027-03-31,1,5000
+RATE-000833,BlueWave Logistics,Surat,IT,Genoa,Sea LCL,per_cbm,228.55,EUR,369.16,222.45,92.6,36,2026-07-01,2027-03-31,100,28000
+RATE-000834,TransGlobe Freight,Surat,IT,Genoa,Sea LCL,per_cbm,140.1,USD,369.45,217.0,101.54,37,2026-07-01,2027-03-31,100,28000
+RATE-000835,OceanBridge Logistics,Surat,IT,Genoa,Sea LCL,per_cbm,130.89,EUR,419.27,129.23,103.32,32,2026-07-01,2027-03-31,100,28000
+RATE-000836,SkyCargo Partners,Surat,IT,Genoa,Sea LCL,per_cbm,178.12,USD,407.91,125.13,60.54,36,2026-07-01,2027-03-31,100,28000
+RATE-000837,BlueWave Logistics,Surat,IT,Genoa,Sea FCL,per_container,3111.38,EUR,261.32,164.37,109.43,27,2026-07-01,2027-03-31,100,28000
+RATE-000838,TransGlobe Freight,Surat,IT,Genoa,Sea FCL,per_container,3429.69,EUR,345.23,148.68,94.72,22,2026-07-01,2027-03-31,100,28000
+RATE-000839,OceanBridge Logistics,Surat,IT,Genoa,Sea FCL,per_container,3739.34,USD,136.93,204.95,125.5,25,2026-07-01,2027-03-31,100,28000
+RATE-000840,SkyCargo Partners,Surat,IT,Genoa,Sea FCL,per_container,2546.8,USD,490.28,222.05,95.44,33,2026-07-01,2027-03-31,100,28000
+RATE-000841,BlueWave Logistics,Surat,Spain,Barcelona,Air,per_kg,6.62,EUR,388.35,192.94,159.16,5,2026-07-01,2027-03-31,1,5000
+RATE-000842,TransGlobe Freight,Surat,Spain,Barcelona,Air,per_kg,5.07,USD,333.86,222.89,159.11,6,2026-07-01,2027-03-31,1,5000
+RATE-000843,OceanBridge Logistics,Surat,Spain,Barcelona,Air,per_kg,4.41,USD,124.58,125.78,139.37,8,2026-07-01,2027-03-31,1,5000
+RATE-000844,SkyCargo Partners,Surat,Spain,Barcelona,Air,per_kg,5.96,USD,348.76,122.83,182.99,7,2026-07-01,2027-03-31,1,5000
+RATE-000845,BlueWave Logistics,Surat,Spain,Barcelona,Sea LCL,per_cbm,136.62,USD,221.02,120.82,177.8,31,2026-07-01,2027-03-31,100,28000
+RATE-000846,TransGlobe Freight,Surat,Spain,Barcelona,Sea LCL,per_cbm,238.8,USD,324.12,141.58,150.17,35,2026-07-01,2027-03-31,100,28000
+RATE-000847,OceanBridge Logistics,Surat,Spain,Barcelona,Sea LCL,per_cbm,266.69,EUR,438.93,125.76,90.8,36,2026-07-01,2027-03-31,100,28000
+RATE-000848,SkyCargo Partners,Surat,Spain,Barcelona,Sea LCL,per_cbm,137.12,USD,312.95,204.07,78.71,34,2026-07-01,2027-03-31,100,28000
+RATE-000849,BlueWave Logistics,Surat,Spain,Barcelona,Sea FCL,per_container,3536.74,USD,270.83,137.11,124.31,21,2026-07-01,2027-03-31,100,28000
+RATE-000850,TransGlobe Freight,Surat,Spain,Barcelona,Sea FCL,per_container,1901.17,USD,224.15,189.21,114.35,30,2026-07-01,2027-03-31,100,28000
+RATE-000851,OceanBridge Logistics,Surat,Spain,Barcelona,Sea FCL,per_container,2906.19,USD,361.26,126.56,182.07,22,2026-07-01,2027-03-31,100,28000
+RATE-000852,SkyCargo Partners,Surat,Spain,Barcelona,Sea FCL,per_container,2141.52,USD,207.73,129.4,120.98,24,2026-07-01,2027-03-31,100,28000
+RATE-000853,BlueWave Logistics,Surat,Spain,Valencia,Air,per_kg,4.75,USD,303.91,125.98,176.31,5,2026-07-01,2027-03-31,1,5000
+RATE-000854,TransGlobe Freight,Surat,Spain,Valencia,Air,per_kg,6.01,USD,99.8,166.09,83.49,9,2026-07-01,2027-03-31,1,5000
+RATE-000855,OceanBridge Logistics,Surat,Spain,Valencia,Air,per_kg,5.46,EUR,366.59,203.0,174.04,10,2026-07-01,2027-03-31,1,5000
+RATE-000856,SkyCargo Partners,Surat,Spain,Valencia,Air,per_kg,6.21,EUR,441.75,148.78,72.01,4,2026-07-01,2027-03-31,1,5000
+RATE-000857,BlueWave Logistics,Surat,Spain,Valencia,Sea LCL,per_cbm,170.74,USD,220.65,105.91,93.06,33,2026-07-01,2027-03-31,100,28000
+RATE-000858,TransGlobe Freight,Surat,Spain,Valencia,Sea LCL,per_cbm,149.08,EUR,481.98,151.01,156.6,36,2026-07-01,2027-03-31,100,28000
+RATE-000859,OceanBridge Logistics,Surat,Spain,Valencia,Sea LCL,per_cbm,200.97,USD,282.49,169.81,118.57,25,2026-07-01,2027-03-31,100,28000
+RATE-000860,SkyCargo Partners,Surat,Spain,Valencia,Sea LCL,per_cbm,153.04,EUR,119.58,201.27,76.56,26,2026-07-01,2027-03-31,100,28000
+RATE-000861,BlueWave Logistics,Surat,Spain,Valencia,Sea FCL,per_container,1907.21,EUR,282.84,130.43,88.5,36,2026-07-01,2027-03-31,100,28000
+RATE-000862,TransGlobe Freight,Surat,Spain,Valencia,Sea FCL,per_container,3386.12,USD,420.99,90.59,73.92,21,2026-07-01,2027-03-31,100,28000
+RATE-000863,OceanBridge Logistics,Surat,Spain,Valencia,Sea FCL,per_container,2771.15,USD,82.2,136.44,162.51,26,2026-07-01,2027-03-31,100,28000
+RATE-000864,SkyCargo Partners,Surat,Spain,Valencia,Sea FCL,per_container,3254.57,EUR,261.88,205.64,93.2,36,2026-07-01,2027-03-31,100,28000
+RATE-000865,BlueWave Logistics,Tiruppur,DE,Hamburg,Air,per_kg,4.76,EUR,436.81,82.01,184.88,4,2026-07-01,2027-03-31,1,5000
+RATE-000866,TransGlobe Freight,Tiruppur,DE,Hamburg,Air,per_kg,5.97,USD,483.26,208.85,104.07,9,2026-07-01,2027-03-31,1,5000
+RATE-000867,OceanBridge Logistics,Tiruppur,DE,Hamburg,Air,per_kg,4.89,USD,490.63,215.37,136.14,5,2026-07-01,2027-03-31,1,5000
+RATE-000868,SkyCargo Partners,Tiruppur,DE,Hamburg,Air,per_kg,4.84,USD,274.89,141.1,159.63,10,2026-07-01,2027-03-31,1,5000
+RATE-000869,BlueWave Logistics,Tiruppur,DE,Hamburg,Sea LCL,per_cbm,234.44,USD,446.17,82.92,175.8,30,2026-07-01,2027-03-31,100,28000
+RATE-000870,TransGlobe Freight,Tiruppur,DE,Hamburg,Sea LCL,per_cbm,163.5,USD,314.85,194.66,89.52,36,2026-07-01,2027-03-31,100,28000
+RATE-000871,OceanBridge Logistics,Tiruppur,DE,Hamburg,Sea LCL,per_cbm,169.95,USD,450.56,137.15,151.96,27,2026-07-01,2027-03-31,100,28000
+RATE-000872,SkyCargo Partners,Tiruppur,DE,Hamburg,Sea LCL,per_cbm,252.31,USD,200.25,210.08,89.36,37,2026-07-01,2027-03-31,100,28000
+RATE-000873,BlueWave Logistics,Tiruppur,DE,Hamburg,Sea FCL,per_container,2227.51,EUR,499.16,81.95,67.29,27,2026-07-01,2027-03-31,100,28000
+RATE-000874,TransGlobe Freight,Tiruppur,DE,Hamburg,Sea FCL,per_container,2098.73,USD,340.35,171.39,77.61,21,2026-07-01,2027-03-31,100,28000
+RATE-000875,OceanBridge Logistics,Tiruppur,DE,Hamburg,Sea FCL,per_container,3721.52,USD,319.02,127.79,125.25,30,2026-07-01,2027-03-31,100,28000
+RATE-000876,SkyCargo Partners,Tiruppur,DE,Hamburg,Sea FCL,per_container,3868.44,USD,443.89,180.39,61.92,24,2026-07-01,2027-03-31,100,28000
+RATE-000877,BlueWave Logistics,Tiruppur,DE,Bremerhaven,Air,per_kg,4.44,USD,192.98,170.02,76.13,7,2026-07-01,2027-03-31,1,5000
+RATE-000878,TransGlobe Freight,Tiruppur,DE,Bremerhaven,Air,per_kg,6.14,USD,321.78,102.07,187.03,7,2026-07-01,2027-03-31,1,5000
+RATE-000879,OceanBridge Logistics,Tiruppur,DE,Bremerhaven,Air,per_kg,6.68,USD,321.48,98.13,177.15,6,2026-07-01,2027-03-31,1,5000
+RATE-000880,SkyCargo Partners,Tiruppur,DE,Bremerhaven,Air,per_kg,6.22,USD,460.94,102.15,151.75,7,2026-07-01,2027-03-31,1,5000
+RATE-000881,BlueWave Logistics,Tiruppur,DE,Bremerhaven,Sea LCL,per_cbm,166.34,USD,107.14,132.51,123.95,24,2026-07-01,2027-03-31,100,28000
+RATE-000882,TransGlobe Freight,Tiruppur,DE,Bremerhaven,Sea LCL,per_cbm,191.36,USD,498.33,175.54,66.22,27,2026-07-01,2027-03-31,100,28000
+RATE-000883,OceanBridge Logistics,Tiruppur,DE,Bremerhaven,Sea LCL,per_cbm,161.83,USD,391.0,228.18,69.95,26,2026-07-01,2027-03-31,100,28000
+RATE-000884,SkyCargo Partners,Tiruppur,DE,Bremerhaven,Sea LCL,per_cbm,158.16,USD,222.19,190.95,114.03,37,2026-07-01,2027-03-31,100,28000
+RATE-000885,BlueWave Logistics,Tiruppur,DE,Bremerhaven,Sea FCL,per_container,3514.11,EUR,442.87,165.95,84.66,33,2026-07-01,2027-03-31,100,28000
+RATE-000886,TransGlobe Freight,Tiruppur,DE,Bremerhaven,Sea FCL,per_container,1968.5,USD,174.54,97.97,138.58,32,2026-07-01,2027-03-31,100,28000
+RATE-000887,OceanBridge Logistics,Tiruppur,DE,Bremerhaven,Sea FCL,per_container,3193.28,EUR,128.71,158.16,97.62,32,2026-07-01,2027-03-31,100,28000
+RATE-000888,SkyCargo Partners,Tiruppur,DE,Bremerhaven,Sea FCL,per_container,2841.44,EUR,119.56,124.73,74.65,35,2026-07-01,2027-03-31,100,28000
+RATE-000889,BlueWave Logistics,Tiruppur,Netherlands,Rotterdam,Air,per_kg,6.45,EUR,468.22,149.92,61.76,5,2026-07-01,2027-03-31,1,5000
+RATE-000890,TransGlobe Freight,Tiruppur,Netherlands,Rotterdam,Air,per_kg,6.57,USD,271.22,110.19,127.11,9,2026-07-01,2027-03-31,1,5000
+RATE-000891,OceanBridge Logistics,Tiruppur,Netherlands,Rotterdam,Air,per_kg,6.17,USD,444.42,201.82,175.34,10,2026-07-01,2027-03-31,1,5000
+RATE-000892,SkyCargo Partners,Tiruppur,Netherlands,Rotterdam,Air,per_kg,6.91,USD,84.03,159.18,183.15,4,2026-07-01,2027-03-31,1,5000
+RATE-000893,BlueWave Logistics,Tiruppur,Netherlands,Rotterdam,Sea LCL,per_cbm,266.12,USD,446.09,234.33,103.63,24,2026-07-01,2027-03-31,100,28000
+RATE-000894,TransGlobe Freight,Tiruppur,Netherlands,Rotterdam,Sea LCL,per_cbm,172.89,USD,190.76,228.36,108.33,22,2026-07-01,2027-03-31,100,28000
+RATE-000895,OceanBridge Logistics,Tiruppur,Netherlands,Rotterdam,Sea LCL,per_cbm,235.35,USD,215.89,108.76,75.55,29,2026-07-01,2027-03-31,100,28000
+RATE-000896,SkyCargo Partners,Tiruppur,Netherlands,Rotterdam,Sea LCL,per_cbm,170.44,USD,123.02,147.03,93.42,38,2026-07-01,2027-03-31,100,28000
+RATE-000897,BlueWave Logistics,Tiruppur,Netherlands,Rotterdam,Sea FCL,per_container,2926.06,EUR,210.76,158.53,72.74,33,2026-07-01,2027-03-31,100,28000
+RATE-000898,TransGlobe Freight,Tiruppur,Netherlands,Rotterdam,Sea FCL,per_container,3831.27,USD,262.81,198.29,176.98,28,2026-07-01,2027-03-31,100,28000
+RATE-000899,OceanBridge Logistics,Tiruppur,Netherlands,Rotterdam,Sea FCL,per_container,2498.98,USD,401.19,119.57,185.9,26,2026-07-01,2027-03-31,100,28000
+RATE-000900,SkyCargo Partners,Tiruppur,Netherlands,Rotterdam,Sea FCL,per_container,3263.26,USD,417.66,128.93,157.38,22,2026-07-01,2027-03-31,100,28000
+RATE-000901,BlueWave Logistics,Tiruppur,France,Le Havre,Air,per_kg,4.51,USD,430.22,133.3,168.78,9,2026-07-01,2027-03-31,1,5000
+RATE-000902,TransGlobe Freight,Tiruppur,France,Le Havre,Air,per_kg,4.21,USD,324.12,138.09,161.21,5,2026-07-01,2027-03-31,1,5000
+RATE-000903,OceanBridge Logistics,Tiruppur,France,Le Havre,Air,per_kg,5.46,EUR,164.05,141.6,158.44,7,2026-07-01,2027-03-31,1,5000
+RATE-000904,SkyCargo Partners,Tiruppur,France,Le Havre,Air,per_kg,6.0,EUR,464.0,221.83,97.84,10,2026-07-01,2027-03-31,1,5000
+RATE-000905,BlueWave Logistics,Tiruppur,France,Le Havre,Sea LCL,per_cbm,236.25,USD,362.65,180.19,145.16,38,2026-07-01,2027-03-31,100,28000
+RATE-000906,TransGlobe Freight,Tiruppur,France,Le Havre,Sea LCL,per_cbm,123.37,USD,181.22,133.17,159.58,35,2026-07-01,2027-03-31,100,28000
+RATE-000907,OceanBridge Logistics,Tiruppur,France,Le Havre,Sea LCL,per_cbm,252.74,USD,294.83,91.89,122.26,28,2026-07-01,2027-03-31,100,28000
+RATE-000908,SkyCargo Partners,Tiruppur,France,Le Havre,Sea LCL,per_cbm,255.15,USD,202.13,94.11,147.27,31,2026-07-01,2027-03-31,100,28000
+RATE-000909,BlueWave Logistics,Tiruppur,France,Le Havre,Sea FCL,per_container,3101.43,USD,272.17,227.89,84.06,34,2026-07-01,2027-03-31,100,28000
+RATE-000910,TransGlobe Freight,Tiruppur,France,Le Havre,Sea FCL,per_container,2345.75,EUR,353.49,172.51,125.09,31,2026-07-01,2027-03-31,100,28000
+RATE-000911,OceanBridge Logistics,Tiruppur,France,Le Havre,Sea FCL,per_container,3398.68,USD,378.42,186.74,70.45,34,2026-07-01,2027-03-31,100,28000
+RATE-000912,SkyCargo Partners,Tiruppur,France,Le Havre,Sea FCL,per_container,1908.6,USD,492.26,215.33,152.6,27,2026-07-01,2027-03-31,100,28000
+RATE-000913,BlueWave Logistics,Tiruppur,France,Marseille,Air,per_kg,6.38,EUR,486.14,222.56,75.12,4,2026-07-01,2027-03-31,1,5000
+RATE-000914,TransGlobe Freight,Tiruppur,France,Marseille,Air,per_kg,4.35,USD,162.6,230.75,100.33,10,2026-07-01,2027-03-31,1,5000
+RATE-000915,OceanBridge Logistics,Tiruppur,France,Marseille,Air,per_kg,5.02,USD,358.94,190.4,166.91,6,2026-07-01,2027-03-31,1,5000
+RATE-000916,SkyCargo Partners,Tiruppur,France,Marseille,Air,per_kg,6.96,EUR,235.38,103.75,182.1,9,2026-07-01,2027-03-31,1,5000
+RATE-000917,BlueWave Logistics,Tiruppur,France,Marseille,Sea LCL,per_cbm,213.2,EUR,249.08,205.96,146.8,30,2026-07-01,2027-03-31,100,28000
+RATE-000918,TransGlobe Freight,Tiruppur,France,Marseille,Sea LCL,per_cbm,171.87,USD,356.52,116.0,102.36,37,2026-07-01,2027-03-31,100,28000
+RATE-000919,OceanBridge Logistics,Tiruppur,France,Marseille,Sea LCL,per_cbm,189.14,USD,276.95,175.45,75.5,31,2026-07-01,2027-03-31,100,28000
+RATE-000920,SkyCargo Partners,Tiruppur,France,Marseille,Sea LCL,per_cbm,237.55,EUR,174.61,194.75,162.52,35,2026-07-01,2027-03-31,100,28000
+RATE-000921,BlueWave Logistics,Tiruppur,France,Marseille,Sea FCL,per_container,1817.42,USD,328.85,191.55,156.14,26,2026-07-01,2027-03-31,100,28000
+RATE-000922,TransGlobe Freight,Tiruppur,France,Marseille,Sea FCL,per_container,2164.73,USD,430.33,230.44,154.11,35,2026-07-01,2027-03-31,100,28000
+RATE-000923,OceanBridge Logistics,Tiruppur,France,Marseille,Sea FCL,per_container,3673.14,USD,254.09,173.7,105.24,27,2026-07-01,2027-03-31,100,28000
+RATE-000924,SkyCargo Partners,Tiruppur,France,Marseille,Sea FCL,per_container,3116.23,EUR,213.99,222.77,150.35,24,2026-07-01,2027-03-31,100,28000
+RATE-000925,BlueWave Logistics,Tiruppur,IT,Genoa,Air,per_kg,4.77,USD,473.16,172.34,168.27,4,2026-07-01,2027-03-31,1,5000
+RATE-000926,TransGlobe Freight,Tiruppur,IT,Genoa,Air,per_kg,4.14,USD,123.92,163.94,71.27,4,2026-07-01,2027-03-31,1,5000
+RATE-000927,OceanBridge Logistics,Tiruppur,IT,Genoa,Air,per_kg,4.94,USD,243.44,103.14,153.23,10,2026-07-01,2027-03-31,1,5000
+RATE-000928,SkyCargo Partners,Tiruppur,IT,Genoa,Air,per_kg,5.34,EUR,107.55,128.32,66.3,9,2026-07-01,2027-03-31,1,5000
+RATE-000929,BlueWave Logistics,Tiruppur,IT,Genoa,Sea LCL,per_cbm,154.5,USD,319.98,106.68,105.45,35,2026-07-01,2027-03-31,100,28000
+RATE-000930,TransGlobe Freight,Tiruppur,IT,Genoa,Sea LCL,per_cbm,128.09,EUR,88.38,169.22,169.86,31,2026-07-01,2027-03-31,100,28000
+RATE-000931,OceanBridge Logistics,Tiruppur,IT,Genoa,Sea LCL,per_cbm,183.89,EUR,276.4,87.94,141.8,23,2026-07-01,2027-03-31,100,28000
+RATE-000932,SkyCargo Partners,Tiruppur,IT,Genoa,Sea LCL,per_cbm,229.35,EUR,364.41,186.03,140.28,38,2026-07-01,2027-03-31,100,28000
+RATE-000933,BlueWave Logistics,Tiruppur,IT,Genoa,Sea FCL,per_container,3079.23,USD,395.39,104.24,140.87,35,2026-07-01,2027-03-31,100,28000
+RATE-000934,TransGlobe Freight,Tiruppur,IT,Genoa,Sea FCL,per_container,3349.22,EUR,429.54,180.01,113.89,34,2026-07-01,2027-03-31,100,28000
+RATE-000935,OceanBridge Logistics,Tiruppur,IT,Genoa,Sea FCL,per_container,2035.78,USD,299.97,168.54,61.82,32,2026-07-01,2027-03-31,100,28000
+RATE-000936,SkyCargo Partners,Tiruppur,IT,Genoa,Sea FCL,per_container,2904.84,USD,110.02,231.84,142.24,24,2026-07-01,2027-03-31,100,28000
+RATE-000937,BlueWave Logistics,Tiruppur,España,Barcelona,Air,per_kg,6.59,EUR,421.6,148.21,164.44,7,2026-07-01,2027-03-31,1,5000
+RATE-000938,TransGlobe Freight,Tiruppur,España,Barcelona,Air,per_kg,6.2,USD,492.82,164.54,188.41,8,2026-07-01,2027-03-31,1,5000
+RATE-000939,OceanBridge Logistics,Tiruppur,España,Barcelona,Air,per_kg,6.08,USD,89.63,218.87,160.57,10,2026-07-01,2027-03-31,1,5000
+RATE-000940,SkyCargo Partners,Tiruppur,España,Barcelona,Air,per_kg,6.07,USD,198.62,87.52,111.76,5,2026-07-01,2027-03-31,1,5000
+RATE-000941,BlueWave Logistics,Tiruppur,España,Barcelona,Sea LCL,per_cbm,172.49,USD,128.18,207.67,183.46,26,2026-07-01,2027-03-31,100,28000
+RATE-000942,TransGlobe Freight,Tiruppur,España,Barcelona,Sea LCL,per_cbm,157.52,EUR,317.73,159.37,100.05,32,2026-07-01,2027-03-31,100,28000
+RATE-000943,OceanBridge Logistics,Tiruppur,España,Barcelona,Sea LCL,per_cbm,234.6,EUR,476.63,215.8,151.27,24,2026-07-01,2027-03-31,100,28000
+RATE-000944,SkyCargo Partners,Tiruppur,España,Barcelona,Sea LCL,per_cbm,242.7,USD,113.14,197.8,61.04,29,2026-07-01,2027-03-31,100,28000
+RATE-000945,BlueWave Logistics,Tiruppur,España,Barcelona,Sea FCL,per_container,3699.45,USD,267.22,88.54,65.82,30,2026-07-01,2027-03-31,100,28000
+RATE-000946,TransGlobe Freight,Tiruppur,España,Barcelona,Sea FCL,per_container,2523.29,USD,448.23,193.02,137.24,25,2026-07-01,2027-03-31,100,28000
+RATE-000947,OceanBridge Logistics,Tiruppur,España,Barcelona,Sea FCL,per_container,2893.49,EUR,377.74,207.68,116.37,35,2026-07-01,2027-03-31,100,28000
+RATE-000948,SkyCargo Partners,Tiruppur,España,Barcelona,Sea FCL,per_container,2815.78,USD,169.84,195.18,168.2,30,2026-07-01,2027-03-31,100,28000
+RATE-000949,BlueWave Logistics,Tiruppur,España,Valencia,Air,per_kg,6.59,EUR,198.97,99.94,164.58,5,2026-07-01,2027-03-31,1,5000
+RATE-000950,TransGlobe Freight,Tiruppur,España,Valencia,Air,per_kg,6.43,USD,105.46,204.32,153.11,5,2026-07-01,2027-03-31,1,5000
+RATE-000951,OceanBridge Logistics,Tiruppur,España,Valencia,Air,per_kg,4.81,USD,385.46,238.86,90.35,5,2026-07-01,2027-03-31,1,5000
+RATE-000952,SkyCargo Partners,Tiruppur,España,Valencia,Air,per_kg,6.9,USD,121.63,132.92,149.29,10,2026-07-01,2027-03-31,1,5000
+RATE-000953,BlueWave Logistics,Tiruppur,España,Valencia,Sea LCL,per_cbm,186.08,USD,116.2,117.61,144.72,27,2026-07-01,2027-03-31,100,28000
+RATE-000954,TransGlobe Freight,Tiruppur,España,Valencia,Sea LCL,per_cbm,176.46,USD,236.23,153.48,171.31,22,2026-07-01,2027-03-31,100,28000
+RATE-000955,OceanBridge Logistics,Tiruppur,España,Valencia,Sea LCL,per_cbm,243.97,EUR,486.7,84.65,102.33,33,2026-07-01,2027-03-31,100,28000
+RATE-000956,SkyCargo Partners,Tiruppur,España,Valencia,Sea LCL,per_cbm,214.54,EUR,304.29,140.23,76.09,28,2026-07-01,2027-03-31,100,28000
+RATE-000957,BlueWave Logistics,Tiruppur,España,Valencia,Sea FCL,per_container,1904.34,USD,113.83,175.34,181.29,22,2026-07-01,2027-03-31,100,28000
+RATE-000958,TransGlobe Freight,Tiruppur,España,Valencia,Sea FCL,per_container,2964.99,USD,208.76,118.61,172.78,36,2026-07-01,2027-03-31,100,28000
+RATE-000959,OceanBridge Logistics,Tiruppur,España,Valencia,Sea FCL,per_container,2621.64,USD,432.19,171.36,168.04,23,2026-07-01,2027-03-31,100,28000
+RATE-000960,SkyCargo Partners,Tiruppur,España,Valencia,Sea FCL,per_container,3782.62,USD,84.25,161.02,179.85,25,2026-07-01,2027-03-31,100,28000

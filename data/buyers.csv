@@ -1,0 +1,31 @@
+﻿buyer_id,legal_name,country_raw,market_code,city,preferred_port,contact_email,importer_role_claimed,active
+BUY-0001,Euro Fashion BV,Federal Republic of Germany,DE,Rotterdam,Hamburg,trade@euro-fashion-bv.eu,Unknown,Yes
+BUY-0002,Maison Retail BV,NL,NL,Amsterdam,Rotterdam,trade@maison-retail-bv.eu,Importer,Yes
+BUY-0003,Nord Imports SAS,France,FR,Hamburg,Marseille,trade@nord-imports-sas.eu,Distributor,Yes
+BUY-0004,Moda Textiles SAS,Italia,IT,Berlin,Genoa,trade@moda-textiles-sas.eu,Importer,Yes
+BUY-0005,Riviera Imports SRL,Spain,ES,Madrid,Valencia,trade@riviera-imports-srl.eu,Unknown,Yes
+BUY-0006,Harbor Stores BV,Federal Republic of Germany,DE,Milan,Hamburg,trade@harbor-stores-bv.eu,Buyer only,Yes
+BUY-0007,Galeria Imports SL,The Netherlands,NL,Milan,Rotterdam,trade@galeria-imports-sl.eu,Importer,Yes
+BUY-0008,Moda Stores SL,French Republic,FR,Paris,Marseille,trade@moda-stores-sl.eu,Distributor,Yes
+BUY-0009,Euro Imports BV,Italia,IT,Paris,Genoa,trade@euro-imports-bv.eu,Importer,Yes
+BUY-0010,Euro Fashion SRL,España,ES,Hamburg,Valencia,trade@euro-fashion-srl.eu,Buyer only,Yes
+BUY-0011,Harbor Imports SRL,DE,DE,Amsterdam,Bremerhaven,trade@harbor-imports-srl.eu,Importer,Yes
+BUY-0012,Harbor Textiles SAS,Netherlands,NL,Rotterdam,Rotterdam,trade@harbor-textiles-sas.eu,Unknown,Yes
+BUY-0013,Urban Stores SL,French Republic,FR,Madrid,Marseille,trade@urban-stores-sl.eu,Importer,Yes
+BUY-0014,Riviera Textiles SRL,Italia,IT,Paris,Genoa,trade@riviera-textiles-srl.eu,Unknown,Yes
+BUY-0015,Urban Retail SRL,Spain,ES,Hamburg,Valencia,trade@urban-retail-srl.eu,Distributor,Yes
+BUY-0016,Harbor Textiles BV,DE,DE,Rotterdam,Bremerhaven,trade@harbor-textiles-bv.eu,Distributor,Yes
+BUY-0017,Urban Stores SAS,The Netherlands,NL,Amsterdam,Rotterdam,trade@urban-stores-sas.eu,Distributor,Yes
+BUY-0018,Nord Stores SRL,FR,FR,Hamburg,Marseille,trade@nord-stores-srl.eu,Importer,Yes
+BUY-0019,Moda Imports SAS,Italia,IT,Milan,Genoa,trade@moda-imports-sas.eu,Buyer only,Yes
+BUY-0020,Riviera Fashion BV,ES,ES,Amsterdam,Barcelona,trade@riviera-fashion-bv.eu,Buyer only,Yes
+BUY-0021,Nord Textiles BV,Germany,DE,Berlin,Bremerhaven,trade@nord-textiles-bv.eu,Unknown,Yes
+BUY-0022,Riviera Textiles SL,Netherlands,NL,Milan,Rotterdam,trade@riviera-textiles-sl.eu,Unknown,Yes
+BUY-0023,Urban Retail SRL,French Republic,FR,Paris,Le Havre,trade@urban-retail-srl.eu,Buyer only,Yes
+BUY-0024,Moda Imports BV,Italy,IT,Amsterdam,Genoa,trade@moda-imports-bv.eu,Importer,Yes
+BUY-0025,Moda Fashion GmbH,ES,ES,Amsterdam,Valencia,trade@moda-fashion-gmbh.eu,Importer,Yes
+BUY-0026,Galeria Retail SAS,Federal Republic of Germany,DE,Paris,Bremerhaven,trade@galeria-retail-sas.eu,Importer,Yes
+BUY-0027,Nord Textiles GmbH,Netherlands,NL,Paris,Rotterdam,trade@nord-textiles-gmbh.eu,Buyer only,Yes
+BUY-0028,Galeria Retail SAS,FR,FR,Milan,Marseille,trade@galeria-retail-sas.eu,Distributor,Yes
+BUY-0029,Riviera Stores GmbH,IT,IT,Rotterdam,Genoa,trade@riviera-stores-gmbh.eu,Buyer only,Yes
+BUY-0030,Moda Fashion SAS,España,ES,Milan,Valencia,trade@moda-fashion-sas.eu,Unknown,Yes

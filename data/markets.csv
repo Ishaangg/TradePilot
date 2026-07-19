@@ -1,0 +1,6 @@
+﻿market_code,country,consumer_language,currency,ports,source_url
+DE,Germany,German,EUR,Hamburg|Bremerhaven,https://eur-lex.europa.eu/eli/reg/2011/1007/oj/eng
+NL,Netherlands,Dutch,EUR,Rotterdam,https://eur-lex.europa.eu/eli/reg/2011/1007/oj/eng
+FR,France,French,EUR,Le Havre|Marseille,https://eur-lex.europa.eu/eli/reg/2011/1007/oj/eng
+IT,Italy,Italian,EUR,Genoa,https://eur-lex.europa.eu/eli/reg/2011/1007/oj/eng
+ES,Spain,Spanish,EUR,Barcelona|Valencia,https://eur-lex.europa.eu/eli/reg/2011/1007/oj/eng
